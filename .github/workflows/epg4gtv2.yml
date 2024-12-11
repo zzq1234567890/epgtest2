@@ -1,0 +1,67 @@
+name: epg4gtv2
+
+# 每小时执行一次
+on:
+  schedule:
+    - cron: '11 */8 * * *'  # 每小时执行一次
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  generate_and_upload:
+    runs-on: ubuntu-latest  # 使用 Ubuntu 环境运行
+
+    steps:
+      # 第一步：检出代码
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 第二步：设置 PHP 7.4 环境
+      - name: Set up PHP 7.4
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+
+      # 第三步：运行 epg4gtv2.php，生成 epg4gtv2.xml
+      - name: Run epg4gtv2.php
+        run: |
+          php epg4gtv2.php  # 运行生成 epg4gtv2.xml 的 PHP 脚本
+
+      # 第四步：上传文件到 epgtest2 仓库
+      - name: Upload epg4gtv2.xml to epgtest2
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg4gtv2.xml
+          path: epg4gtv2.xml
+
+      # 第五步：下载到目标仓库并覆盖文件
+      - name: Checkout epgtest2 repository
+        uses: actions/checkout@v4
+        with:
+          repository: zzq1234567890/epgtest2  # 目标仓库
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: epgtest2  # 克隆到本地的路径
+
+      # 第六步：检查 epg4gtv2.xml 是否存在并被修改
+      - name: Check if epg4gtv2.xml exists and is modified
+        run: |
+          if [ ! -f epg4gtv2.xml ]; then
+            echo "epg4gtv2.xml does not exist."
+            exit 1
+          fi
+          # 对比文件差异
+          diff epgtest2/epg4gtv2.xml epg4gtv2.xml || echo "File is modified"
+
+      # 第七步：将 epg4gtv2.xml 覆盖上传到 epgtest2
+      - name: Replace epg4gtv2.xml and push
+        run: |
+          mv epg4gtv2.xml epgtest2/epg4gtv2.xml  # 覆盖目标文件
+          cd epgtest2
+          git config --global user.name "zzq1234567890"
+          git config --global user.email "zhangzhenqiu@foxmail.com"
+          git add epg4gtv2.xml
+          
+          # 强制提交（即使没有修改）
+          git commit -m "Update epg4gtv2.xml" --allow-empty  # 如果没有修改也强制提交
+          
+          # 推送到目标仓库
+          git push origin main
