@@ -3368,28 +3368,6 @@ http://127.0.0.1:8081/huya.php?id=637218
 http://127.0.0.1:8081/fenghuangyoutube.php
 
 
-#EXTINF:-1 tvg-logo="" tvg-id=""cgtn俄语" tvg-name=""cgtn俄语" group-title="youtube中文新闻",cgtn俄语
-http://127.0.0.1:8081/cgtnrussia.php
-
-#EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube中文新闻",CCTV NEWS欧洲
-http://127.0.0.1:8081/cctvfrench.php
-
-#EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube中文新闻",CCTV NEWS欧洲
-http://127.0.0.1:8081/cgtnweb.php?id=cgtn
-#EXTINF:-1 tvg-logo="" tvg-id="cgtn英文记录片" tvg-name="cgtn英文记录片" group-title="youtube中文新闻",cgtn英文记录片
-http://127.0.0.1:8081/cgtnweb.php?id=cgtnd
-#EXTINF:-1 tvg-logo="" tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" group-title="youtube中文新闻",cgtn西班牙语
-http://127.0.0.1:8081/cgtnweb.php?id=cgtne
-#EXTINF:-1 tvg-logo="" tvg-id="cgtn法语" tvg-name="cgtn法语" group-title="youtube中文新闻",cgtn法语
-http://127.0.0.1:8081/cgtnweb.php?id=cgtnf
-#EXTINF:-1 tvg-logo="" tvg-id="cgtn阿拉伯语" tvg-name="cgtn阿拉伯语" group-title="youtube中文新闻",cgtn阿拉伯语
-http://127.0.0.1:8081/cgtnweb.php?id=cgtna
-#EXTINF:-1 tvg-logo="" tvg-id=""cgtn俄语" tvg-name=""cgtn俄语" group-title="youtube中文新闻",cgtn俄语
-http://127.0.0.1:8081/cgtnweb.php?id=cgtnr
-
-#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",上海eye
-
-http://127.0.0.1:8081/shanghaieye1.php
 
 
 #EXTINF:-1 tvg-id="cctv4亚洲" tvg-name="cctv4亚洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
@@ -3549,6 +3527,30 @@ http://127.0.0.1:8081/haitun.php
 http://127.0.0.1:8081/chengxin.php
 #EXTINF:-1 tvg-id="信大電視台"  tvg-name="信大電視台"  tvg-logo="" group-title="youtube中文新闻",信大電視台
 http://127.0.0.1:8081/xinda.php
+#EXTINF:-1 tvg-logo="" tvg-id=""cgtn俄语" tvg-name=""cgtn俄语" group-title="youtube world news",cgtn俄语
+http://127.0.0.1:8081/cgtnrussia.php
+
+#EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube world news",CCTV NEWS欧洲
+http://127.0.0.1:8081/cctvfrench.php
+
+#EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube world news",CCTV NEWS欧洲
+http://127.0.0.1:8081/cgtnweb.php?id=cgtn
+#EXTINF:-1 tvg-logo="" tvg-id="cgtn英文记录片" tvg-name="cgtn英文记录片" group-title="youtube world news",cgtn英文记录片
+http://127.0.0.1:8081/cgtnweb.php?id=cgtnd
+#EXTINF:-1 tvg-logo="" tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" group-title="youtube world news",cgtn西班牙语
+http://127.0.0.1:8081/cgtnweb.php?id=cgtne
+#EXTINF:-1 tvg-logo="" tvg-id="cgtn法语" tvg-name="cgtn法语" group-title="youtube world news",cgtn法语
+http://127.0.0.1:8081/cgtnweb.php?id=cgtnf
+#EXTINF:-1 tvg-logo="" tvg-id="cgtn阿拉伯语" tvg-name="cgtn阿拉伯语" group-title="youtube world news",cgtn阿拉伯语
+http://127.0.0.1:8081/cgtnweb.php?id=cgtna
+#EXTINF:-1 tvg-logo="" tvg-id=""cgtn俄语" tvg-name=""cgtn俄语" group-title="youtube world news",cgtn俄语
+http://127.0.0.1:8081/cgtnweb.php?id=cgtnr
+
+#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube world news",上海eye
+
+http://127.0.0.1:8081/shanghaieye1.php
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",talk7x24
 http://127.0.0.1:8081/talk7x24.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",AriseNewsChannel
