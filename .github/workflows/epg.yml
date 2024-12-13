@@ -1,4 +1,4 @@
-name: EPG
+name: epg copy
 
 on:
   schedule:
