@@ -372,7 +372,7 @@ for ($k79 =0; $k79 < $ryut79; $k79++){
 $title79=json_decode($re79)[$k79]->title;
 $start79=json_decode($re79)[$k79]->start;
 $end79=json_decode($re79)[$k79]->end;
-   $chn.="<programme start=\"".str_replace(' ','',str_replace(':','',str_replace('-','',$start79))).' +0800'."\" stop=\"".str_replace(' ','',str_replace(':','',str_replace('-','', $end79))).' +0800'."\" channel=\"中天亞洲台\">\n<title lang=\"zh\">".$title79."</title>\n<desc lang=\"zh\"> </desc>\n</programme>\n";
+   $chn.="<programme start=\"".str_replace(' ','',str_replace(':','',str_replace('-','',$start79))).'00 +0800'."\" stop=\"".str_replace(' ','',str_replace(':','',str_replace('-','', $end79))).'00 +0800'."\" channel=\"中天亞洲台\">\n<title lang=\"zh\">".$title79."</title>\n<desc lang=\"zh\"> </desc>\n</programme>\n";
 
 
 
@@ -400,7 +400,7 @@ for ($k791 =0; $k791 < $ryut791; $k791++){
 $title791=json_decode($re791)[$k791]->title;
 $start791=json_decode($re791)[$k791]->start;
 $end791=json_decode($re791)[$k791]->end;
-   $chn.="<programme start=\"".str_replace(' ','',str_replace(':','',str_replace('-','',$start791))).' +0800'."\" stop=\"".str_replace(' ','',str_replace(':','',str_replace('-','', $end791))).' +0800'."\" channel=\"中天亞洲台\">\n<title lang=\"zh\">".$title791."</title>\n<desc lang=\"zh\"> </desc>\n</programme>\n";
+   $chn.="<programme start=\"".str_replace(' ','',str_replace(':','',str_replace('-','',$start791))).'00 +0800'."\" stop=\"".str_replace(' ','',str_replace(':','',str_replace('-','', $end791))).'00 +0800'."\" channel=\"中天亞洲台\">\n<title lang=\"zh\">".$title791."</title>\n<desc lang=\"zh\"> </desc>\n</programme>\n";
 
 
 
