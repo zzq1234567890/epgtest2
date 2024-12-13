@@ -56,8 +56,8 @@ jobs:
         run: |
           mv epg4gtv2.xml epgtest2/epg4gtv2.xml  # 覆盖目标文件
           cd epgtest2
-          git config --global user.name "zzq1234567890"
-          git config --global user.email "zhangzhenqiu@foxmail.com"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add epg4gtv2.xml
           
           # 强制提交（即使没有修改）
