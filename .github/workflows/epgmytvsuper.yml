@@ -3,7 +3,7 @@ name: epgmytvsuper
 # 每小时执行一次
 on:
   schedule:
-    - cron: '033 */23 * * *'  # 每小时执行一次
+    - cron: '33 */23 * * *'  # 每小时执行一次
   workflow_dispatch:  # 允许手动触发
 
 jobs:
