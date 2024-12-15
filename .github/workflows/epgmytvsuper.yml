@@ -61,7 +61,10 @@ jobs:
           git add epgmytvsuper.xml
           
           # 强制提交（即使没有修改）
-          git commit -m "Update epgmytvsuper.xml" --allow-empty  # 如果没有修改也强制提交
           
           # 推送到目标仓库
-          git push origin main
+          now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+          git commit -m "更新时间：$now_time"
+          git commit -m "Update epgmytvsuper.xml" --allow-empty  # 如果没有修改也强制提交
+          git push origin main || echo "推送到GitHub失败"
+        
