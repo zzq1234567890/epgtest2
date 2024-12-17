@@ -51,18 +51,16 @@ jobs:
           # 对比文件差异
           diff epgtest2/epganywhere.xml epganywhere.xml || echo "File is modified"
 
-      # 第七步：将 epganywhere.xml 覆盖上传到 epgtest2
-      - name: Replace epganywhere.xml and push
+      # 第七步：将 epg4gtv2.xml 覆盖上传到 epgtest2
+      - name: Replace epg4gtv2.xml and push
         run: |
-          mv epganywhere.xml epgtest2/epganywhere.xml  # 覆盖目标文件
-          cd epgtest2
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add epganywhere.xml
-          
-          # 强制提交（即使没有修改）
-          now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
-          git commit -m "更新时间：$now_time"
-          git commit -m "Update epganywhere.xml" --allow-empty  # 如果没有修改也强制提交
-          git push origin main || echo "推送到GitHub失败"
-          
+         mv epg4gtv2.xml epgtest2/epg4gtv2.xml  # 覆盖目标文件
+         cd epgtest2
+         git config --local user.name "github-actions[bot]"
+         git config --local user.email "github-actions[bot]@users.noreply.github.com"
+         git add epg4gtv2.xml
+         git pull origin main || echo "No changes to pull" 
+         now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+         git commit -m "更新时间：$now_time"
+         git commit -m "Update epg4gtv2.xml" --allow-empty  # 如果没有修改也强制提交
+         git push origin main || echo "推送到GitHub失败"
