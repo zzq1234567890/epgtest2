@@ -58,12 +58,13 @@ jobs:
           cd epgtest2
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add epg4gtv2.xml
-          
+          git add epg4gtv2.xml # 拉取最新的远程分支并合并
+          git pull origin main || echo "No changes to pull"   # 如果本地已有远程分支的内容则合并
+
           # 强制提交（即使没有修改）
           now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
           git commit -m "更新时间：$now_time"
           git commit -m "Update epg4gtv2.xml" --allow-empty  # 如果没有修改也强制提交
           git push origin main || echo "推送到GitHub失败"
-          # 推送到目标仓库
-          git push origin main
+
+        
