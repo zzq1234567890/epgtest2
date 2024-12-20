@@ -3826,10 +3826,7 @@ http://127.0.0.1:8081/nbcnews.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",Newsmax
 http://127.0.0.1:8081/Newsmax.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",NASA1
-http://127.0.0.1:8081/youtube.php?v=21X5lGlDOfg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",NASA2
-http://127.0.0.1:8081/youtube.php?v=nA9UZF-SZoQ
+
 
 
 
@@ -4000,6 +3997,8 @@ http://127.0.0.1:8081/kbsworldweb.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",kbsworld
 http://127.0.0.1:8081/kbsworld.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",KBS-POP
+http://127.0.0.1:8081/kbspop.php
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",K-POP
