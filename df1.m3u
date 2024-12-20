@@ -3991,6 +3991,8 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 
 #EXTINF:-1 tvg-id="100194" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="youtube world news",Arirang TV World
 http://127.0.0.1:8081/arirangworldyoutbe.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",kbsworld
+http://127.0.0.1:8081/kbsworldtv.php
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",kbsworld weblive
