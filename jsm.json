@@ -1,0 +1,168 @@
+   {  
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733932725378/fan.txt;md5;f98827d83bb8ca104b0b1ead61a98c5b",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "sites": [
+        {
+            "key": "豆豆",
+            "name": "备用公众号【叨观荐影】",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "玩偶",
+            "name": "👽玩偶哥哥┃4K弹幕",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto",
+                "siteUrl": "https://www.wogg.net/",
+                "danMu": "弹"
+            }
+        },
+        {
+            "key": "YGP",
+            "name": "🚀叨观荐影┃预告片",
+            "type": 3,
+            "api": "csp_YGP",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        }, 
+    
+        {
+            "key": "低端",
+            "name": "⏮️低端┃外剧",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "可可",
+            "name": "👻可可┃多线",
+            "type": 3,
+            "api": "csp_Kekys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "贱贱",
+            "name": "🐭贱贱┃P2P",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
+        },
+
+        {
+            "key": "fan",
+            "name": "导航 www.饭太硬.com",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+
+{
+            "key": "台湾kktv",
+            "name": "台湾kktv",
+            "type": 4,
+            "api": "http://z.yuer.cool/tvbox/kktv.php",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+
+{
+            "key": "super",
+            "name": "super",
+            "type": 4,
+            "api": "http://z.yuer.cool/tvbox/mytv.php",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+ {
+            "key": "Anywhere",
+            "name": "Anywhere",
+            "type": 4,
+            "api": "http://z.yuer.cool/tvbox/any.php",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "viu",
+            "name": "VIU",
+            "type": 4,
+            "api": "http://z.yuer.cool/tvbox/viu.php",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+ {
+            "key": "tvbanywhereusa",
+            "name": "tvbanywhereusa",
+            "type": 4,
+            "api": "http://z.yuer.cool/tvbox/anywhereusa.php",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "cc",
+            "name": "请勿相信视频中广告",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        }
+    ],
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+    "lives": [
+        {
+            "name": "牛播一(新版影视仓/ok影视)",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "IPV4",
+            "type": 0,
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "IPV6①",
+            "type": 0,
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "IPV6②",
+            "type": 0,
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        }
+    ]
+}
