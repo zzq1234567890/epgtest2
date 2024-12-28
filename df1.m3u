@@ -13,7 +13,8 @@ http://127.0.0.1:8081/douyin.php?id=643319157189
 http://127.0.0.1:8081/douyin.php?id=594418047350
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",东方甄选
 http://127.0.0.1:8081/douyin.php?id=80017709309
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",度小满演出
+http://127.0.0.1:8081/douyin.php?id=369564460847
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
 http://127.0.0.1:8081/douyin.php?id=802975310822
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
