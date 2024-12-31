@@ -194,7 +194,7 @@ preg_match_all('/img src\=\"https:\/\/skin.kankanews.com\/kknews\/img\/icon_time
 
 $trm13=count($un13);
 for ($k13 =1; $k13 <= $trm13 ; $k13++) {  
-$chn.="<programme start=\"2024".str_replace('月','',str_replace(' ','',str_replace('日','',str_replace('AM','',str_replace('PM','',str_replace(':','',$un13[$k13-1][1])))))).'00 +0800'."\" stop=\"2024".(str_replace('月','',str_replace(' ','',str_replace('日','',str_replace('AM','',str_replace('PM','',str_replace(':','',$un13[$k13-1][1]))))))+100).'00 +0800'."\" channel=\"看看新聞直播\">\n<title lang=\"zh\">".$um13[($k13-1)*2][1]."</title>\n<desc lang=\"zh\">".$um13[($k13-1)*2][1]." </desc>\n</programme>\n";
+$chn.="<programme start=\"2025".str_replace('月','',str_replace(' ','',str_replace('日','',str_replace('AM','',str_replace('PM','',str_replace(':','',$un13[$k13-1][1])))))).'00 +0800'."\" stop=\"2025".(str_replace('月','',str_replace(' ','',str_replace('日','',str_replace('AM','',str_replace('PM','',str_replace(':','',$un13[$k13-1][1]))))))+100).'00 +0800'."\" channel=\"看看新聞直播\">\n<title lang=\"zh\">".$um13[($k13-1)*2][1]."</title>\n<desc lang=\"zh\">".$um13[($k13-1)*2][1]." </desc>\n</programme>\n";
 }                                                                                                             
 //第一财经官网直播
 $url161='https://yicai.smgbb.cn/api/ajax/getlivelist?page=1&pagesize=30&action=mix';
