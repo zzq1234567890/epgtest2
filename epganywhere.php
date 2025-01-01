@@ -178,7 +178,7 @@ $rek13 = str_replace(array("\r\n", "\r", "\n"), "", $rek13);
 //$rek13 = preg_replace("/(s*?r?ns*?)+/","n",$rek13);
 //$rek13 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $rek13);// 適合php7
 //print $rek13;
-
+/*
 preg_match('/\<div class\="main\-box" data\-v\-(.*?)\>\<div/i', $rek13,$yy);// 適合php7
 //print $yy[1];
 
@@ -195,7 +195,33 @@ preg_match_all('/img src\=\"https:\/\/skin.kankanews.com\/kknews\/img\/icon_time
 $trm13=count($un13);
 for ($k13 =1; $k13 <= $trm13 ; $k13++) {  
 $chn.="<programme start=\"2025".str_replace('月','',str_replace(' ','',str_replace('日','',str_replace('AM','',str_replace('PM','',str_replace(':','',$un13[$k13-1][1])))))).'00 +0800'."\" stop=\"2025".(str_replace('月','',str_replace(' ','',str_replace('日','',str_replace('AM','',str_replace('PM','',str_replace(':','',$un13[$k13-1][1]))))))+100).'00 +0800'."\" channel=\"看看新聞直播\">\n<title lang=\"zh\">".$um13[($k13-1)*2][1]."</title>\n<desc lang=\"zh\">".$um13[($k13-1)*2][1]." </desc>\n</programme>\n";
-}                                                                                                             
+}  
+
+*/
+preg_match('/\<div class\="main\-box" data\-v\-(.*?)\>\<div/i', $rek13,$yy);// 適合php7
+preg_match('/\<div id\="livePlayer" class\="live-player" (.*?)看看热榜/i', $rek13,$date13);// 適合php7
+
+//print $date13[1];
+//preg_match_all('/target\="_blank" data-v-'.$yy[1].'>(.*?)<\/div>/i',$date13[1],$um13,PREG_SET_ORDER);//播放标题
+//preg_match_all('/img src\=\"https:\/\/skin.kankanews.com\/kknews\/img\/icon_time.svg" data-v-'.$yy[1].'>(.*?)\<\/span>/i',$date13[1],$un13,PREG_SET_ORDER);//播放时间
+
+
+
+// preg_match('/div class\="info" data\-v\-(.*?)div class\="duration" data\-v/i',$rek13,$date13);//
+//preg_match('/div class\="video\-info" style\="display:none;" data\-v\-(.*?)div class\="duration" data\-v/i',$rek13,$date13);//
+//print $date13[1];
+
+$date13[1]=str_replace('</a>','',$date13[1]);
+
+preg_match_all('/target\="_blank" data-v-'.$yy[1].'>(.*?)<\/div>/i',$date13[1],$um13,PREG_SET_ORDER);//播放标题
+preg_match_all('/img src\=\"https:\/\/skin.kankanews.com\/kknews\/img\/icon_time.svg" data-v-'.$yy[1].'>(.*?)\<\/span>/i',$date13[1],$un13,PREG_SET_ORDER);//播放时间
+//print_r($um13);
+//print_r($un13);
+
+$trm13=count($un13);
+for ($k13 =1; $k13 <= $trm13 ; $k13++) {  
+$chn.="<programme start=\"2025".str_replace('月','',str_replace(' ','',str_replace('日','',str_replace('AM','',str_replace('PM','',str_replace(':','',$un13[$k13-1][1])))))).'00 +0800'."\" stop=\"20250".(str_replace('月','',str_replace(' ','',str_replace('日','',str_replace('AM','',str_replace('PM','',str_replace(':','',$un13[$k13-1][1]))))))+100).'00 +0800'."\" channel=\"看看新聞直播\">\n<title lang=\"zh\">".$um13[$k13*2][1]."</title>\n<desc lang=\"zh\">".$um13[$k13*2][1]." </desc>\n</programme>\n";
+}                                                 
 //第一财经官网直播
 $url161='https://yicai.smgbb.cn/api/ajax/getlivelist?page=1&pagesize=30&action=mix';
 
