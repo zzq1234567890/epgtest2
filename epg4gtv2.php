@@ -1,4 +1,4 @@
-﻿https://raw.githubusercontent.com/zzq12345/jiemuyuan/refs/heads/main/df1.m3u<?php
+<?php
 header( 'Content-Type: text/plain; charset=UTF-8');
 //header( 'Content-Type: html/text; charset=utf-8');
 ini_set("max_execution_time", "900000000");
@@ -704,7 +704,7 @@ curl_setopt($ch7,CURLOPT_URL,$url7);
 curl_setopt($ch7,CURLOPT_SSL_VERIFYPEER,false);
 curl_setopt($ch7,CURLOPT_SSL_VERIFYHOST,false);
 curl_setopt($ch7,CURLOPT_RETURNTRANSFER,1);
-/*
+
 $headers7 = array（
 'Host:d1jithvltpp1l1.cloudfront.net',
 'User-Agent: okhttp/3.12.1',
@@ -712,7 +712,7 @@ $headers7 = array（
 'X-FORWARDED-FOR:1.160.0.29', 
 );
 curl_setopt($ch7, CURLOPT_HTTPHEADER, $headers7);
-*/
+
 $re7=curl_exec($ch7);
 $re7=str_replace('&','&amp;',$re7);
 curl_close($ch7);
@@ -733,7 +733,7 @@ curl_setopt($ch71,CURLOPT_URL,$urk71);
 curl_setopt($ch71,CURLOPT_SSL_VERIFYPEER,false);
 curl_setopt($ch71,CURLOPT_SSL_VERIFYHOST,false);
 curl_setopt($ch71,CURLOPT_RETURNTRANSFER,1);
-//curl_setopt($ch71, CURLOPT_HTTPHEADER, $headers7);	
+curl_setopt($ch71, CURLOPT_HTTPHEADER, $headers7);	
 //curl_setopt($ch71, CURLOPT_TIMEOUT, 30); // CURLOPT_TIMEOUT_MS
 //curl_setopt($ch71,CURLOPT_ENCODING,'Vary: Accept-Encoding');
 $rek71=curl_exec($ch71);
