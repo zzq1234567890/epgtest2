@@ -310,6 +310,6 @@ $tru8=count($piec8);
 
 
 
-*/
+
 file_put_contents($fp, $chn);
 ?>
