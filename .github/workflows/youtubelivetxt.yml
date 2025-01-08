@@ -54,7 +54,7 @@ jobs:
       # 第七步：将 youtubelive.txt 覆盖上传到 epgtest2
       - name: Replace youtubelive.txt and push
         run: |
-          mv eyoutubelive.txt epgtest2/youtubelive.txt  # 覆盖目标文件
+          mv youtubelive.txt epgtest2/youtubelive.txt  # 覆盖目标文件
           cd epgtest2
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
