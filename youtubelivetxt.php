@@ -5,7 +5,7 @@ header( 'Content-Type: text/plain; charset=UTF-8');
 ini_set("max_execution_time", "900000000");
 //htaccess php_value max_execution_time 0;
 ini_set('date.timezone','Asia/Shanghai');
-$fp="youyubelive.txt";//压缩版本的扩展名后加.gz
+$fp="youtubelive.txt";//压缩版本的扩展名后加.gz
 ini_set("max_execution_time", "3000000");
 $chn="\n";
 
