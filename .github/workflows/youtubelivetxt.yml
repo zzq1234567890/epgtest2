@@ -21,13 +21,13 @@ jobs:
         with:
           php-version: '7.4'
 
-      # 第三步：运行 epg4gtv2.php，生成 epg4gtv2.xml
+      # 第三步：运行 youtubelivetxt.php，生成 youtubelive.ttxt
       - name: Run youtubelivetxt.php
         run: |
-          php youtubelivetxt.php  # 运行生成 epg4gtv2.xml 的 PHP 脚本
+          php youtubelivetxt.php  # 运行生成 youtubelive.txt 的 PHP 脚本
 
       # 第四步：上传文件到 epgtest2 仓库
-      - name: Upload youtubelive.txtl to epgtest2
+      - name: Upload youtubelive.txt to epgtest2
         uses: actions/upload-artifact@v4
         with:
           name: youtubelive.txt
@@ -41,8 +41,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: epgtest2  # 克隆到本地的路径
 
-      # 第六步：检查 epg4gtv2.xml 是否存在并被修改
-      - name: Check if epg4gtv2.xml exists and is modified
+      # 第六步：检查 youtubelive.txt 是否存在并被修改
+      - name: Check if youtubelive.txt exists and is modified
         run: |
           if [ ! -f youtubelive.txt ]; then
             echo "youtubelive.txt does not exist."
@@ -54,7 +54,7 @@ jobs:
       # 第七步：将 youtubelive.txt 覆盖上传到 epgtest2
       - name: Replace youtubelive.txt and push
         run: |
-          mv epg4gtv2.xml epgtest2/youtubelive.txt  # 覆盖目标文件
+          mv eyoutubelive.txt epgtest2/youtubelive.txt  # 覆盖目标文件
           cd epgtest2
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
