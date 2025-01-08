@@ -32,7 +32,7 @@ function replace_unicode_escape_sequence($match)
 
 
 
-print "遊戲直播,#genre#\r\n";
+$chn.=  "遊戲直播,#genre#\r\n";
 $url2='https://www.youtube.com/playlist?list=PLiCvVJzBupKlQ50jZqLas7SAztTMEYv1f';//遊戲
 $ch2=curl_init();
 curl_setopt($ch2,CURLOPT_URL,$url2);                  
