@@ -2,11 +2,11 @@
 //$id=$_GET['id'];
 header( 'Content-Type: text/plain; charset=UTF-8');
 //header( 'Content-Type: html/text; charset=utf-8');
-ini_set("max_execution_time", "900000000");
+
 //htaccess php_value max_execution_time 0;
-ini_set('date.timezone','Asia/Shanghai');
+
 $fp="youtubelive.m3u";//压缩版本的扩展名后加.gz
-ini_set("max_execution_time", "3000000");
+
 $chn="\n";
 
 //header("Content-Disposition: attachment; filenameyoutubelive.txt");
