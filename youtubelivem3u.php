@@ -100,8 +100,8 @@ $chn.= "https://www.youtube.com/watch?v=".$piec3[$k3][1]."\r\n";
 //$url4='https://www.youtube.com/playlist?list=PLU12uITxBEPHb1IgzEPHZpje-903Qkfne';//即將播出
 //https://www.youtube.com/playlist?list=PLU12uITxBEPHb1IgzEPHZpje-903Qkfne即將播出
 //https://www.youtube.com/playlist?list=PLU12uITxBEPHho8JAl4QvWgmiYw7CiNCC近期直播
-$url4='https://www.youtube.com/playlist?list=PLU12uITxBEPFJGVb2zSgCaWvMBe7vHonB';//正在直播
-
+//$url4='https://www.youtube.com/playlist?list=PLU12uITxBEPFJGVb2zSgCaWvMBe7vHonB';//正在直播
+$url4='https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig/livetab?ss=CKUK';//正在直播
 //https://www.youtube.com/youtubei/v1/browse?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8&pretty$chn.=false
 
 
