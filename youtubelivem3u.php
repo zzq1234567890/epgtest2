@@ -2,6 +2,24 @@
 //$id=$_GET['id'];
 header( 'Content-Type: text/plain; charset=UTF-8');
 //header( 'Content-Type: html/text; charset=utf-8');
+function escape($str) 
+{ 
+preg_match_all("/[\x80-\xff].|[\x01-\x7f]+/",$str,$r); 
+$ar = $r[0]; 
+foreach($ar as $k=>$v) 
+{ 
+if(ord($v[0]) < 128) 
+$ar[$k] = rawurlencode($v); 
+else 
+$ar[$k] = "%u".bin2hex(iconv("UTF-8","UCS-2",$v)); 
+} 
+return join("",$ar); 
+} 
+//適合php7以上
+function replace_unicode_escape_sequence($match)
+{       
+		return mb_convert_encoding(pack('H*', $match[1]), 'UTF-8', 'UCS-2BE');     
+}          
 
 //htaccess php_value max_execution_time 0;
 
