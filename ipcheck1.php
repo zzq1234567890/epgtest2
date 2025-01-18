@@ -43,7 +43,7 @@ foreach ($curlHandles as $ipStr => $ch) {
     } else {
        // echo "成功连接到 $ipStr:$port\n";
         $chn="$ipStr\n";
-        file_put_contents($fp, $chn);
+        exit;
     }
     // 移除每个 cURL 句柄
     curl_multi_remove_handle($multiHandle, $ch);
@@ -53,5 +53,5 @@ foreach ($curlHandles as $ipStr => $ch) {
 // 关闭 cURL 多任务句柄
 curl_multi_close($multiHandle);
 
-
+file_put_contents($fp, $chn);
 ?>
