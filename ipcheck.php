@@ -38,7 +38,7 @@ for ($i = $start_int; $i <= $end_int; $i++) {
     $ip = intToIp($i);
     if (isPortOpen($ip, $port)) {
         $chn.="$ip\n";        
-   }
+   
     } else {
         echo "$ip:$port is not reachable\n";
     }
