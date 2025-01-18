@@ -41,8 +41,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: epgtest2  # 克隆到本地的路径
 
-      # 第六步：检查 epganywhere.xml 是否存在并被修改
-      - name: Check if epganywhere.xml exists and is modified
+      # 第六步：检查 ip.txt 是否存在并被修改
+      - name: Check if ip.txt exists and is modified
         run: |
           if [ ! -f ip.txt ]; then
             echo "ip.txt does not exist."
@@ -51,7 +51,7 @@ jobs:
           # 对比文件差异
           diff epgtest2/ip.txt ip.txt || echo "File is modified"
 
-      # 第七步：将 epganywhere.xml 覆盖上传到 epgtest2
+      # 第七步：将 ip.txt 覆盖上传到 epgtest2
       - name: Replace ip.txt and push
         run: |
          mv ip.txt epgtest2/ip.txt  # 覆盖目标文件
