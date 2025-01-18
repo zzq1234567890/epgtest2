@@ -54,11 +54,11 @@ jobs:
       # 第七步：将 ip1.txt 覆盖上传到 epgtest2
       - name: Replace ip1.txt and push
         run: |
-         mv ip.txt epgtest2/ip1.txt  # 覆盖目标文件
+         mv ip1.txt epgtest2/ip1.txt  # 覆盖目标文件
          cd epgtest2
          git config --local user.name "github-actions[bot]"
          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-         git add ip.txt
+         git add ip1.txt
          git pull origin main || echo "No changes to pull" 
          now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
          git commit -m "更新时间：$now_time"
