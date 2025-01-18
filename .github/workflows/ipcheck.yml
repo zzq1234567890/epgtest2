@@ -21,8 +21,8 @@ jobs:
         with:
           php-version: '7.4'
 
-      # 第三步：运行 epganywhere.php，生成 epganywhere.xml
-      - name: Run epganywhere.php
+      # 第三步：运行 ipcheck.php，生成 ip.txt
+      - name: Run ipcheck.php
         run: |
           php ipcheck.php  # 运行生成 ip.txt 的 PHP 脚本
 
