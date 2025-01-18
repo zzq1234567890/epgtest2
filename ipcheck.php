@@ -6,7 +6,7 @@ $fp="ip.txt";//压缩版本的扩展名后加.gz
 $start_ip = '182.20.0.0';
 $end_ip = '182.20.255.255';
 $port = 88; // 要检查的端口
-
+$chn="\n";
 // 将起始和结束 IP 转换为整数
 function ipToInt($ip) {
     $parts = explode('.', $ip);
