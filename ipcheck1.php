@@ -5,8 +5,8 @@ $fp="ip1.txt";//压缩版本的扩展名后加.gz
 // 设置起始和结束 IP
 
 // 设置目标 IP 范围
-$start_ip = ip2long("182.170.0.0");
-$end_ip = ip2long("182.170.255.255");
+$start_ip = ip2long("118.170.0.0");
+$end_ip = ip2long("118.170.255.255");
 $port = 2390;
 //$chn="\n";
 // 初始化 cURL 多任务句柄
