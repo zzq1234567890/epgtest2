@@ -1,14 +1,6 @@
 #EXTM3U  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QoZG4t_ipy4/hqdefault.jpg?v=678bbcc6&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBT4cfKwwYwtCF8JPDBgk9CXzOOTA" group-title="youtube遊戲直播",Stanley 史丹利
-https://www.youtube.com/watch?v=QoZG4t_ipy4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/iI2VbHOaHzE/hqdefault.jpg?v=678bc8ed&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCVuF1-q7E92F92cytjs98H7cDtVg" group-title="youtube遊戲直播",神秘秘
-https://www.youtube.com/watch?v=iI2VbHOaHzE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/4yFSC-Vzmec/hqdefault.jpg?v=678b8a0f&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAV0XkIhjavwoy3g3gxfTdhzUYYvw" group-title="youtube遊戲直播",𝗔𝗡𝗞 𝗣𝗶𝗸𝗮 
-https://www.youtube.com/watch?v=4yFSC-Vzmec
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/vBokIfnpSrE/hqdefault.jpg?v=678bbbc8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB04pRMVaXi4uhmTXMw23qfMEiRPg" group-title="youtube遊戲直播",Pekora Ch. 兎田ぺこら
 https://www.youtube.com/watch?v=vBokIfnpSrE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/GjFSpeRxjVw/hqdefault.jpg?v=678ba302&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCDb031C3BEqzgIAYe0jWt3eqe_lg" group-title="youtube遊戲直播",阿貝MrBay
-https://www.youtube.com/watch?v=GjFSpeRxjVw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/15M7QRp8Ts4/hqdefault.jpg?v=677fd57c&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBYjTs5lJE2XIFYxKYN6cnbPghUIA" group-title="youtube遊戲直播",LEC
 https://www.youtube.com/watch?v=15M7QRp8Ts4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Fklx3WNL66w/hqdefault.jpg?v=678b0bde&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAJNc4IIdBQxH0rpbkMFGoGrcnAsA" group-title="youtube遊戲直播",BLAST Premier
@@ -17,356 +9,356 @@ https://www.youtube.com/watch?v=Fklx3WNL66w
 https://www.youtube.com/watch?v=Xl2_LOtRZA4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/twCLaVJSy1A/hqdefault.jpg?v=678b8b4b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAP5FooimiNoRnuOsa3YqzA-S9Dvw" group-title="youtube遊戲直播",Korone Ch. 戌神ころね
 https://www.youtube.com/watch?v=twCLaVJSy1A
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/hrOL2q9vGFg/hqdefault.jpg?v=678bd60a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCX8Ra05sJ8KbV9DUP59AndONfjlw" group-title="youtube遊戲直播",WuWei無為
-https://www.youtube.com/watch?v=hrOL2q9vGFg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/j_QQ1nSa0qM/hqdefault.jpg?v=678b74fa&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAbLZCbhM61zGxA2J80GcGPQwH9cQ" group-title="youtube遊戲直播",阿成
-https://www.youtube.com/watch?v=j_QQ1nSa0qM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wnC7DOeCU2w/hqdefault.jpg?v=678b7e51&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBkU8dtrFTVqtDbh7d8aR7ixFsDEw" group-title="youtube遊戲直播",雷歐聊世紀 & Reo Aoe Channel
-https://www.youtube.com/watch?v=wnC7DOeCU2w
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/p-gRxabm1pU/hqdefault.jpg?v=678905a1&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAwmcWVndZnPN04IXmJ7QykouLrUw" group-title="youtube遊戲直播",睡大 Still_Sleepy
-https://www.youtube.com/watch?v=p-gRxabm1pU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/zRkyd97i_Qk/hqdefault.jpg?v=678aafb9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBVK2E7b4rMpsBPP0PkP2hY7nVw3w" group-title="youtube遊戲直播",Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW
-https://www.youtube.com/watch?v=zRkyd97i_Qk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/D3ctUk7143w/hqdefault.jpg?v=678bd259&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCE1luKC4oO5BKjnvbSrg1hGuAOOw" group-title="youtube遊戲直播",Shing7160
-https://www.youtube.com/watch?v=D3ctUk7143w
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/RsSOLu_eO5g/hqdefault.jpg?v=678bd0e7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDOCY5QMFMKkRv3AcAk2l8W9MVEsA" group-title="youtube遊戲直播",洛狗
-https://www.youtube.com/watch?v=RsSOLu_eO5g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/La7q_NmIQXs/hqdefault.jpg?v=678bdd21&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAFwcwCZ1qvSxrNXfCjXEzUlXiPVw" group-title="youtube遊戲直播",養鴿
 https://www.youtube.com/watch?v=La7q_NmIQXs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1cjVowYVQPE/hqdefault.jpg?v=678bdb68&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDGyQKYr9venpjhBmaC0vsO5S0Zuw" group-title="youtube遊戲直播",ChiNur沁欸
-https://www.youtube.com/watch?v=1cjVowYVQPE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_2xn65t-agc/hqdefault.jpg?v=678bac0e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD7GG9vhHy-sy6Cb9E7ng8SXpBbPA" group-title="youtube遊戲直播",鬼鬼
-https://www.youtube.com/watch?v=_2xn65t-agc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/cvqN3yF2bOk/hqdefault.jpg?v=678bdb08&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBteg5QuI8sJ0I40tAKjkVeoVfJEQ" group-title="youtube遊戲直播",修分靈
-https://www.youtube.com/watch?v=cvqN3yF2bOk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/lxJ5_c27POc/hqdefault.jpg?v=678bcf3b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBgPuj5jLVZuWT-EhMMb56lM5y4Yw" group-title="youtube遊戲直播",天晴Haruru
 https://www.youtube.com/watch?v=lxJ5_c27POc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ENzRqPcz5u4/hqdefault.jpg?v=678bb78a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB8hUymjzjdiuOfpZ2l_uDbjZRxrQ" group-title="youtube遊戲直播",Robetta ch. 蘿貝塔
-https://www.youtube.com/watch?v=ENzRqPcz5u4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Qpv0ke147uQ/hqdefault.jpg?v=678bb1e2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDa-EnpHCCL96C0NjtINmY65KADEQ" group-title="youtube遊戲直播",LS遊戲工作室
-https://www.youtube.com/watch?v=Qpv0ke147uQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_H2dusLwmh0/hqdefault.jpg?v=26&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAtPAL6zVqBKA61qlssR2CKxH8_Xg" group-title="youtube遊戲直播",ChrisWongFGC
-https://www.youtube.com/watch?v=_H2dusLwmh0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1aI2tYW7-g0/hqdefault.jpg?v=678b9e8e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAU4wzgv-LE4-S4HgKwowuBCtCs4w" group-title="youtube遊戲直播",添財
-https://www.youtube.com/watch?v=1aI2tYW7-g0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/5R0GR_yZ-20/hqdefault.jpg?v=6785c705&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB9p79Hd65pyCnGolQp4eezY32v9A" group-title="youtube遊戲直播",The Official Pokémon YouTube channel
-https://www.youtube.com/watch?v=5R0GR_yZ-20
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ytW7gXIdiZ4/hqdefault.jpg?v=678b97ed&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAL1gn7mWq5V9m3FS_S5MfpeGyqzQ" group-title="youtube遊戲直播",狂戰士織織
-https://www.youtube.com/watch?v=ytW7gXIdiZ4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/IyzRqdMqqjo/hqdefault.jpg?v=678b7a98&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAR9adAwrES-DZVUAWrUO9DrWGvTA" group-title="youtube遊戲直播",Pibi ch. 皮比
-https://www.youtube.com/watch?v=IyzRqdMqqjo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Wq33VuKfuCI/hqdefault.jpg?v=678b7b2a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDUR50k83Pg5vzofGDjWEDFNbwArA" group-title="youtube遊戲直播",姬城三千華 Himegi Michika Ch.
-https://www.youtube.com/watch?v=Wq33VuKfuCI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/om5fd5-SsJI/hqdefault.jpg?v=678becc2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBSoYn6ypnFmPD3V5DAw_EDwEmJeg" group-title="youtube遊戲直播",Claude Clawmark 【NIJISANJI EN】
-https://www.youtube.com/watch?v=om5fd5-SsJI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/9Fwm700dGpc/hqdefault.jpg?v=678b24db&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBp2dqqRr_rDlnhhmVDwkF9fD3qng" group-title="youtube遊戲直播",Reimu Endou【NIJISANJI EN】
-https://www.youtube.com/watch?v=9Fwm700dGpc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/JGNbX9PWh88/hqdefault.jpg?v=678b3b41&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAjXHhg0lVty4Q9NWnkbx_YiE8CMg" group-title="youtube遊戲直播",アキロゼCh。Vtuber/ホロライブ所属
-https://www.youtube.com/watch?v=JGNbX9PWh88
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/pYtakOnFFiU/hqdefault.jpg?v=678b44ff&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBbhnpBhi-AJefqLOmJ16LuNDsJnA" group-title="youtube遊戲直播",花芽すみれ / Kaga Sumire
-https://www.youtube.com/watch?v=pYtakOnFFiU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/4f49H6xP7oc/hqdefault.jpg?v=678ad612&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLARyBUb78_wrEbOhrhAoAuuoY4yCg" group-title="youtube遊戲直播",Cassian Floros【FIRST STAGE PRODUCTION EN】
-https://www.youtube.com/watch?v=4f49H6xP7oc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/i8bRxXaAkAA/hqdefault.jpg?v=678bb0fc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBIPvZ9aT2Di1IQsv97AuWnnD4EYg" group-title="youtube遊戲直播",阿泰的個人世界
-https://www.youtube.com/watch?v=i8bRxXaAkAA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/8wBrh902PRA/hqdefault.jpg?v=678b9970&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDIjdrvN4a1nkvu2IgwY3JQuVKnUg" group-title="youtube遊戲直播",柴豆古琳 Green Ch.
-https://www.youtube.com/watch?v=8wBrh902PRA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/RVj5PQq4QSQ/hqdefault.jpg?v=678baff0&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA6n89WyBRFY5piXhXHTKd2orV8Qw" group-title="youtube遊戲直播",Vezalius Bandage 【NIJISANJI EN】
-https://www.youtube.com/watch?v=RVj5PQq4QSQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/qhwyWwQ0tQ4/hqdefault.jpg?v=678b6b87&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAEUaZvTq1-UAuc0dXBMWMloZAtjg" group-title="youtube遊戲直播",藥師寺 丹 Akira_Yakushiji ch. ☯️【公視所屬VTuber】
-https://www.youtube.com/watch?v=qhwyWwQ0tQ4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wnC7DOeCU2w/hqdefault.jpg?v=678b7e51&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBkU8dtrFTVqtDbh7d8aR7ixFsDEw" group-title="youtube遊戲直播",雷歐聊世紀 & Reo Aoe Channel
+https://www.youtube.com/watch?v=wnC7DOeCU2w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1cjVowYVQPE/hqdefault.jpg?v=678bdb68&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDGyQKYr9venpjhBmaC0vsO5S0Zuw" group-title="youtube遊戲直播",ChiNur沁欸
+https://www.youtube.com/watch?v=1cjVowYVQPE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/C4Tjd0kg2Mg/hqdefault.jpg?v=61&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAUZY4vzAD9LEk9pZ5U171uygWNdg" group-title="youtube遊戲直播",倒呼
+https://www.youtube.com/watch?v=C4Tjd0kg2Mg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/zY137Aj3DOs/hqdefault.jpg?v=678b87dc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDuvoGxDxdQHOMTUt61emqSKUMzUw" group-title="youtube遊戲直播",Rocky R哥
 https://www.youtube.com/watch?v=zY137Aj3DOs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Qpv0ke147uQ/hqdefault.jpg?v=678bb1e2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDa-EnpHCCL96C0NjtINmY65KADEQ" group-title="youtube遊戲直播",LS遊戲工作室
+https://www.youtube.com/watch?v=Qpv0ke147uQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1aI2tYW7-g0/hqdefault.jpg?v=678b9e8e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAU4wzgv-LE4-S4HgKwowuBCtCs4w" group-title="youtube遊戲直播",添財
+https://www.youtube.com/watch?v=1aI2tYW7-g0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/i8bRxXaAkAA/hqdefault.jpg?v=678bb0fc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBIPvZ9aT2Di1IQsv97AuWnnD4EYg" group-title="youtube遊戲直播",阿泰的個人世界
+https://www.youtube.com/watch?v=i8bRxXaAkAA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/3Zey5NlvFl8/hqdefault.jpg?v=678b41d0&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLACcV4ou6enZfgj6sgpUBghlVKECg" group-title="youtube遊戲直播",卡苗遊玩中
 https://www.youtube.com/watch?v=3Zey5NlvFl8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/w4ENjUEDhOE/hqdefault.jpg?v=678b5a91&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBdWpMhLbSKse3aaFZ8ejz9AHdLfg" group-title="youtube遊戲直播",猫汰つな / Nekota Tsuna
-https://www.youtube.com/watch?v=w4ENjUEDhOE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ZYvgVcGV1Js/hqdefault.jpg?v=6784d4ab&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAEgE0z7LQMfwpONZk4oIkRTWAuJQ" group-title="youtube遊戲直播",Yura Rikudou / 六道ユラ
-https://www.youtube.com/watch?v=ZYvgVcGV1Js
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HCSgf_9zdWI/hqdefault.jpg?v=678b9b42&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDJIAg0F70s02EtAybEvSvIte6nLQ" group-title="youtube遊戲直播",Mikaku Ch. 魅爀
-https://www.youtube.com/watch?v=HCSgf_9zdWI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/EHMP2eYUQXw/hqdefault.jpg?v=678a9761&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBKZRQa2ebvh-mRwhBWtC6nA74cBg" group-title="youtube遊戲直播",三國瑜雲《三國志》
-https://www.youtube.com/watch?v=EHMP2eYUQXw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XnLUNLkk5oc/hqdefault.jpg?v=62&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA90qk47-e7n8SSmiDq-I_VrbB1lA" group-title="youtube遊戲直播",ESL Dota 2
-https://www.youtube.com/watch?v=XnLUNLkk5oc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XQyeq25KrWM/hqdefault.jpg?v=678bc0ab&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDXxVX-J4EK5wnZVoZU6S_7K70IVw" group-title="youtube遊戲直播",庫麻Kumma Channel
-https://www.youtube.com/watch?v=XQyeq25KrWM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2yaP-A18mYI/hqdefault.jpg?v=678bad2d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCeU8ji6h3Ux4ao-XnDKkCfd-wVMw" group-title="youtube遊戲直播",Muz
-https://www.youtube.com/watch?v=2yaP-A18mYI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/pYtakOnFFiU/hqdefault.jpg?v=678b44ff&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBbhnpBhi-AJefqLOmJ16LuNDsJnA" group-title="youtube遊戲直播",花芽すみれ / Kaga Sumire
+https://www.youtube.com/watch?v=pYtakOnFFiU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/IyzRqdMqqjo/hqdefault.jpg?v=678b7a98&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAR9adAwrES-DZVUAWrUO9DrWGvTA" group-title="youtube遊戲直播",Pibi ch. 皮比
+https://www.youtube.com/watch?v=IyzRqdMqqjo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/AnDJuyUij3Y/hqdefault.jpg?v=678be432&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDkD1_4wg3zlVXCMrwmoNoG5ZQZxA" group-title="youtube遊戲直播",余夢披曼☆(よむピーマンYomuPiiman)
 https://www.youtube.com/watch?v=AnDJuyUij3Y
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Tf2XAGI4a4M/hqdefault.jpg?v=678bb365&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDjygYQZOrEJll7CA989whY4FgywQ" group-title="youtube遊戲直播",豆叔叔-豆陣看球
-https://www.youtube.com/watch?v=Tf2XAGI4a4M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/5qKhN6Em69A/hqdefault.jpg?v=678bdabc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCwi5B8pQ4zg_d5mM_2GsBkXfJ2Tw" group-title="youtube遊戲直播",ESL Dota 2
-https://www.youtube.com/watch?v=5qKhN6Em69A
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/i8HFyLYkjNo/hqdefault.jpg?v=678bba76&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC4iy_BTUOSpyo2cZepgcGYtfJMxw" group-title="youtube遊戲直播",夜見れな/yorumi rena【にじさんじ所属】
-https://www.youtube.com/watch?v=i8HFyLYkjNo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_nkN0LZjMZQ/hqdefault.jpg?v=678bc7a5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHY9HgX1kCFu44b30x2UhZbTm5Gg" group-title="youtube遊戲直播",KyoStinV
-https://www.youtube.com/watch?v=_nkN0LZjMZQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/FWYuqiBnGUk/hqdefault.jpg?v=678bc073&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB-aNw7t0RLD2c3jvm4wJcsumHerg" group-title="youtube遊戲直播",ValorGears
-https://www.youtube.com/watch?v=FWYuqiBnGUk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Abd-kaXxH94/hqdefault.jpg?v=678b2753&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBsPICMnSeTRaiH89PTYbr6FDwhiw" group-title="youtube遊戲直播",Millie Parfait【NIJISANJI EN】
-https://www.youtube.com/watch?v=Abd-kaXxH94
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/laYc1zvtHrw/hqdefault.jpg?v=678bbaff&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB2mOEd0he_GDmpsMMEvwxURKHmoQ" group-title="youtube遊戲直播",三日月凌【HKVTuber】
-https://www.youtube.com/watch?v=laYc1zvtHrw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XkuZPIpRd0k/hqdefault.jpg?v=678bab70&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDKqZz9XfjavY-OKZCXnchQIIeLRA" group-title="youtube遊戲直播",阿西  🍂 VTuber
-https://www.youtube.com/watch?v=XkuZPIpRd0k
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wLdMoC_fcg0/hqdefault.jpg?v=678bbaa4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHdSZ1NkiLYq3SIR6KLVqz_QNHBg" group-title="youtube遊戲直播",アルス・アルマル -ars almal- 【にじさんじ】
-https://www.youtube.com/watch?v=wLdMoC_fcg0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Kbj3BD6q3rw/hqdefault.jpg?v=678bc4fd&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCjWyQHRVSWlhvHgC81L05GZTgK1w" group-title="youtube遊戲直播",Kvetch Gamer
-https://www.youtube.com/watch?v=Kbj3BD6q3rw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/zgQvnn9xqZA/hqdefault.jpg?v=678b95ee&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDSdHgmCEcz4tdz69-8sxxFPiY24w" group-title="youtube遊戲直播",校長47
-https://www.youtube.com/watch?v=zgQvnn9xqZA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/qhwyWwQ0tQ4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAEUaZvTq1-UAuc0dXBMWMloZAtjg" group-title="youtube遊戲直播",藥師寺 丹 Akira_Yakushiji ch. ☯️【公視所屬VTuber】
+https://www.youtube.com/watch?v=qhwyWwQ0tQ4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/RVj5PQq4QSQ/hqdefault.jpg?v=678baff0&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA6n89WyBRFY5piXhXHTKd2orV8Qw" group-title="youtube遊戲直播",Vezalius Bandage 【NIJISANJI EN】
+https://www.youtube.com/watch?v=RVj5PQq4QSQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/fgZeU4Z1dHQ/hqdefault.jpg?v=678bf784&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBmEMPPtqUslj9OtfxJ1q04aOJXGA" group-title="youtube遊戲直播",烏亞 Uya ch.
+https://www.youtube.com/watch?v=fgZeU4Z1dHQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/8wBrh902PRA/hqdefault.jpg?v=678b9970&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDIjdrvN4a1nkvu2IgwY3JQuVKnUg" group-title="youtube遊戲直播",柴豆古琳 Green Ch.
+https://www.youtube.com/watch?v=8wBrh902PRA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2yaP-A18mYI/hqdefault.jpg?v=678bad2d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCeU8ji6h3Ux4ao-XnDKkCfd-wVMw" group-title="youtube遊戲直播",Muz
+https://www.youtube.com/watch?v=2yaP-A18mYI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/AtYrgU5gIsQ/hqdefault.jpg?v=678b6f6f&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCOKqdTcbTHNVrXEL3HbmvCazmazQ" group-title="youtube遊戲直播",金門甫甫
 https://www.youtube.com/watch?v=AtYrgU5gIsQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_E7kVA69Se4/hqdefault.jpg?v=6766fb98&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDmZSVLSHKf8RtY1F6fgMKjNFbABg" group-title="youtube遊戲直播",KINUKURO
-https://www.youtube.com/watch?v=_E7kVA69Se4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/j4i2yoLn1Z0/hqdefault.jpg?v=678b86b6&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBIxDHeLDA7l5qLlrmkRbZ9NhN_8g" group-title="youtube遊戲直播",桔初Grace
-https://www.youtube.com/watch?v=j4i2yoLn1Z0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wLdMoC_fcg0/hqdefault.jpg?v=678bbaa4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHdSZ1NkiLYq3SIR6KLVqz_QNHBg" group-title="youtube遊戲直播",アルス・アルマル -ars almal- 【にじさんじ】
+https://www.youtube.com/watch?v=wLdMoC_fcg0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/i8HFyLYkjNo/hqdefault.jpg?v=678bba76&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC4iy_BTUOSpyo2cZepgcGYtfJMxw" group-title="youtube遊戲直播",夜見れな/yorumi rena【にじさんじ所属】
+https://www.youtube.com/watch?v=i8HFyLYkjNo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/4f49H6xP7oc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLARyBUb78_wrEbOhrhAoAuuoY4yCg" group-title="youtube遊戲直播",Cassian Floros【FIRST STAGE PRODUCTION EN】
+https://www.youtube.com/watch?v=4f49H6xP7oc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/dF8Ude4_sLA/hqdefault.jpg?v=678bc123&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB49OFdHwsSQtJNXqb-ZFqbZ8YMWA" group-title="youtube遊戲直播",1% 遊戲 / 1% Game
 https://www.youtube.com/watch?v=dF8Ude4_sLA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/EECTKyC5qTY/hqdefault.jpg?v=678bc222&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAbg6DUotoZ4z_AY0nf8G36pnN5QA" group-title="youtube遊戲直播",Necros
-https://www.youtube.com/watch?v=EECTKyC5qTY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/6m3dGn9r9BU/hqdefault.jpg?v=678be28e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB-uU-zR-JmE4vxOI6p5--kGKsGaQ" group-title="youtube遊戲直播",The Official Pokémon YouTube channel
-https://www.youtube.com/watch?v=6m3dGn9r9BU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/5WC_25ZKFvc/hqdefault.jpg?v=678a97d2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBzVWoI3DIs6DRAEUzk1xsfaLuz8w" group-title="youtube遊戲直播",冬瓜
-https://www.youtube.com/watch?v=5WC_25ZKFvc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/dHUsyadYD0I/hqdefault.jpg?v=678bb12e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAQrxwJ0X-UN61hiMehzip9D4yoUw" group-title="youtube遊戲直播",點寶包
-https://www.youtube.com/watch?v=dHUsyadYD0I
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/-jWhhiPfuGM/hqdefault.jpg?v=67853f23&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCmXhw8gMwsXPomjv6XyT6B_JBgzQ" group-title="youtube遊戲直播",Ayume Ch. -猫宮歩夢-
 https://www.youtube.com/watch?v=-jWhhiPfuGM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/pSRjF__-qwY/hqdefault.jpg?v=678b6b5b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD__Dy86ZP4qxXOIe52NXqarvLbEA" group-title="youtube遊戲直播",伊諾 Ino ch.
-https://www.youtube.com/watch?v=pSRjF__-qwY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/AGUKV8SHXc0/hqdefault.jpg?v=678bd77e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCJJTZFPWBMDgap1VvNtTLGNLLl2Q" group-title="youtube遊戲直播",小智SG
-https://www.youtube.com/watch?v=AGUKV8SHXc0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/C4Tjd0kg2Mg/hqdefault.jpg?v=4a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAUZY4vzAD9LEk9pZ5U171uygWNdg" group-title="youtube遊戲直播",倒呼
-https://www.youtube.com/watch?v=C4Tjd0kg2Mg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xnwWgV9MOHw/hqdefault.jpg?v=678bbf7d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC38dPIg4vL-k0JS_6H6SeVq_JIDw" group-title="youtube遊戲直播",Elite Gaming Channel
-https://www.youtube.com/watch?v=xnwWgV9MOHw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/8asF-t4J_mI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC-gedCaSZ9s_kxX_3zamgOqH398g" group-title="youtube遊戲直播",靈燕
-https://www.youtube.com/watch?v=8asF-t4J_mI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XnLUNLkk5oc/hqdefault.jpg?v=79&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA90qk47-e7n8SSmiDq-I_VrbB1lA" group-title="youtube遊戲直播",ESL Dota 2
+https://www.youtube.com/watch?v=XnLUNLkk5oc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/zgQvnn9xqZA/hqdefault.jpg?v=678b95ee&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDSdHgmCEcz4tdz69-8sxxFPiY24w" group-title="youtube遊戲直播",校長47
+https://www.youtube.com/watch?v=zgQvnn9xqZA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ACNzcFebOj4/hqdefault.jpg?v=678ba8e8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDcsslGopGHoqzbjG684m0Uy0d8kg" group-title="youtube遊戲直播",胡桃沢りりか
 https://www.youtube.com/watch?v=ACNzcFebOj4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/aDLGUFDnOHI/hqdefault.jpg?v=678bdd91&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAj1ZOYAvZQ4jIM8V6tkSpEwjVxng" group-title="youtube遊戲直播",Cori - Brawl Stars
-https://www.youtube.com/watch?v=aDLGUFDnOHI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/L8X7nZdeeGA/hqdefault.jpg?v=678aac72&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAy9mMtJ6GUn9nHwNrDUYFPlVa01A" group-title="youtube遊戲直播",Dimension D.
-https://www.youtube.com/watch?v=L8X7nZdeeGA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/fEOzXJav3ew/hqdefault.jpg?v=678bdf98&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBZUIv-kuvzFiJs8msbClA5gGQH3w" group-title="youtube遊戲直播",星痕達斯
-https://www.youtube.com/watch?v=fEOzXJav3ew
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/GqXMHuhDykA/hqdefault.jpg?v=678b86f5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLADts7nqivj-8TLy-b4W1NFkC0baA" group-title="youtube遊戲直播",祐妹 YoMei
-https://www.youtube.com/watch?v=GqXMHuhDykA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/21nhCxfYXiU/hqdefault.jpg?v=678be463&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDpybwTVr-vz0wRPusqhrH-5avShQ" group-title="youtube遊戲直播",astel ch.アステル
-https://www.youtube.com/watch?v=21nhCxfYXiU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ApIdUqYRGVY/hqdefault.jpg?v=678bbe4d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCD5fKr0o4kTIuhNPzDibU7XOye7A" group-title="youtube遊戲直播",Edgaras Stau
-https://www.youtube.com/watch?v=ApIdUqYRGVY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/I7dGVjzW0vY/hqdefault.jpg?v=678bbbd6&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA7eYWbL50Pp4we7J3Xz9ubCnI74w" group-title="youtube遊戲直播",YumenoKaoru Ch.夢野薰草
-https://www.youtube.com/watch?v=I7dGVjzW0vY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Tf2XAGI4a4M/hqdefault.jpg?v=678bb365&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDjygYQZOrEJll7CA989whY4FgywQ" group-title="youtube遊戲直播",豆叔叔-豆陣看球
+https://www.youtube.com/watch?v=Tf2XAGI4a4M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/cEt4SfOik20/hqdefault.jpg?v=678becf2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBGCrqezvYOMqv5v22qLqh65NHvKw" group-title="youtube遊戲直播",Insym
+https://www.youtube.com/watch?v=cEt4SfOik20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xnwWgV9MOHw/hqdefault.jpg?v=678bbf7d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC38dPIg4vL-k0JS_6H6SeVq_JIDw" group-title="youtube遊戲直播",Elite Gaming Channel
+https://www.youtube.com/watch?v=xnwWgV9MOHw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/5qKhN6Em69A/hqdefault.jpg?v=678bdabc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCwi5B8pQ4zg_d5mM_2GsBkXfJ2Tw" group-title="youtube遊戲直播",ESL Dota 2
+https://www.youtube.com/watch?v=5qKhN6Em69A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/EECTKyC5qTY/hqdefault.jpg?v=678bc222&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAbg6DUotoZ4z_AY0nf8G36pnN5QA" group-title="youtube遊戲直播",Necros
+https://www.youtube.com/watch?v=EECTKyC5qTY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Kbj3BD6q3rw/hqdefault.jpg?v=678bc4fd&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCjWyQHRVSWlhvHgC81L05GZTgK1w" group-title="youtube遊戲直播",Kvetch Gamer
+https://www.youtube.com/watch?v=Kbj3BD6q3rw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/8bA5-Z547ZE/hqdefault.jpg?v=67847b3c&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBZo-6svlEq_mPWTYeadqo1fjRtyw" group-title="youtube遊戲直播",Nene Amano Ch. 天野寧々
+https://www.youtube.com/watch?v=8bA5-Z547ZE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/da9GVOXbU6A/hqdefault.jpg?v=678b8870&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD_FbsY8D3_amSKFym3q2Bau8Ppaw" group-title="youtube遊戲直播",射破衛生紙
 https://www.youtube.com/watch?v=da9GVOXbU6A
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/tJH97ljg4P4/hqdefault.jpg?v=678b199a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCAq8IaDrqN4RtiyYdLDQsgik3H8Q" group-title="youtube遊戲直播",Merak Channel 天璇
-https://www.youtube.com/watch?v=tJH97ljg4P4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2E64cYNcPDc/hqdefault.jpg?v=678bec3a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLARpRTUWSxUz8IzSfvHR7mF8Uixig" group-title="youtube遊戲直播",RRQ Skylar
-https://www.youtube.com/watch?v=2E64cYNcPDc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/VVZ2T0QIk0U/hqdefault.jpg?v=678bdeff&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDjQwunBpuZ6qvuxFTC2-6kPePcrw" group-title="youtube遊戲直播",5GTV
-https://www.youtube.com/watch?v=VVZ2T0QIk0U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HWwLgKskct0/hqdefault.jpg?v=8b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCUMucCk3FITg1jXU2W7nsDcu_XFQ" group-title="youtube遊戲直播",陳一丹
-https://www.youtube.com/watch?v=HWwLgKskct0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/LOi_8KIQVNY/hqdefault.jpg?v=678bd55f&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCbFwOm-HRJvx7jnnSKb-KPEZiclQ" group-title="youtube遊戲直播",Hoon
-https://www.youtube.com/watch?v=LOi_8KIQVNY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/8kg0o5qkKNo/hqdefault.jpg?v=678bc1b5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCJNkAuP_bV1PhkBHd1L3ZB2xXIIA" group-title="youtube遊戲直播",Syusetu kohaku/秋雪こはく
-https://www.youtube.com/watch?v=8kg0o5qkKNo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/-65i1zZNaYo/hqdefault.jpg?v=678baa0b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCXATSUca1GNiszjjKxfZ_Zl7PVYw" group-title="youtube遊戲直播",漣玥 Lenyueh Ch.
-https://www.youtube.com/watch?v=-65i1zZNaYo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/FKv5qhp5Ggo/hqdefault.jpg?v=678b6c35&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD25W6qIqRd7RtCDbu1ZsWxSIJDzw" group-title="youtube遊戲直播",蝶屋はなび / Choya Hanabi
-https://www.youtube.com/watch?v=FKv5qhp5Ggo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/pwrIQH5tlzc/hqdefault.jpg?v=678baa0c&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAp1Wn-j-4bRcrgO63rEINVTdNSAw" group-title="youtube遊戲直播",Top Global Miya
 https://www.youtube.com/watch?v=pwrIQH5tlzc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_nkN0LZjMZQ/hqdefault.jpg?v=678bc7a5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHY9HgX1kCFu44b30x2UhZbTm5Gg" group-title="youtube遊戲直播",KyoStinV
+https://www.youtube.com/watch?v=_nkN0LZjMZQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/21nhCxfYXiU/hqdefault.jpg?v=678be463&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDpybwTVr-vz0wRPusqhrH-5avShQ" group-title="youtube遊戲直播",astel ch.アステル
+https://www.youtube.com/watch?v=21nhCxfYXiU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Yj3ziSvY92M/hqdefault.jpg?v=678bbe53&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA_8dCLlJVaT2bkKg3kUcaPt6wOSQ" group-title="youtube遊戲直播",anonim
 https://www.youtube.com/watch?v=Yj3ziSvY92M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/F-Fj-QWM3ZY/hqdefault.jpg?v=678be6f1&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAIqUCbDMlfpqhnIB_JWGyKpfdh_A" group-title="youtube遊戲直播",Tenma Ch. マエミ 天満 【Phase Connect】
+https://www.youtube.com/watch?v=F-Fj-QWM3ZY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/etkBScWpXXY/hqdefault.jpg?v=678bec81&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBn6S-j3AgKfns2WMOYmTPxDJEBBQ" group-title="youtube遊戲直播",Randon the Orc 
+https://www.youtube.com/watch?v=etkBScWpXXY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/VXLWVRsCKVU/hqdefault.jpg?v=678bfbd9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAnK9KK88vjjglLzKhDm7gMItA08w" group-title="youtube遊戲直播",Hyra
+https://www.youtube.com/watch?v=VXLWVRsCKVU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HTej89Pjbf8/hqdefault.jpg?v=42&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCuGChMLU7HxLH1NoTJ3CyUq9ablA" group-title="youtube遊戲直播",Skinny Pete
+https://www.youtube.com/watch?v=HTej89Pjbf8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/aDLGUFDnOHI/hqdefault.jpg?v=678bdd91&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAj1ZOYAvZQ4jIM8V6tkSpEwjVxng" group-title="youtube遊戲直播",Cori - Brawl Stars
+https://www.youtube.com/watch?v=aDLGUFDnOHI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Moc3icq8uD8/hqdefault.jpg?v=678b78a3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDPRs3My9XuqlWXY9dvbe-XgSSeEA" group-title="youtube遊戲直播",大聲宗
 https://www.youtube.com/watch?v=Moc3icq8uD8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/t6qRD-7xLG0/hqdefault.jpg?v=678bc7df&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBku_6EGIBHZUqU4_jrGcyDju1FtQ" group-title="youtube遊戲直播",颯岸
 https://www.youtube.com/watch?v=t6qRD-7xLG0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TSO5oLr_KcA/hqdefault.jpg?v=678be7ed&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAAHrcXLhds3TMO0C7X4ZJODU3kTw" group-title="youtube遊戲直播",YT百合我大神2
-https://www.youtube.com/watch?v=TSO5oLr_KcA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/297kcu_Wpso/hqdefault.jpg?v=4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAtQ-rcutu-CnZ-SzygRn4cFiA6Aw" group-title="youtube遊戲直播",SwearDay晴爆
-https://www.youtube.com/watch?v=297kcu_Wpso
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/4rWyvj2NU4c/hqdefault.jpg?v=678bc45f&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLACkrA8-oYtAr1-zu2G7q0Raln9-g" group-title="youtube遊戲直播",VAN
-https://www.youtube.com/watch?v=4rWyvj2NU4c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/bAeEoAfplWQ/hqdefault.jpg?v=678b5a14&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCoPsoRtMicJtIwO2js_04AxxlOmg" group-title="youtube遊戲直播",大頭阿伯
-https://www.youtube.com/watch?v=bAeEoAfplWQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/dv2RL63qSDg/hqdefault.jpg?v=678ba8d5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC9OOptjCTIkelNrS1a7xdpbqkl3g" group-title="youtube遊戲直播",宅哥哥
-https://www.youtube.com/watch?v=dv2RL63qSDg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Lob8ojSMJSE/hqdefault.jpg?v=678bdb30&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCQwSSXZrFaMFjPzJorGvINa1RJ5g" group-title="youtube遊戲直播",PenguinX Ch. 阿鵝
-https://www.youtube.com/watch?v=Lob8ojSMJSE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/0c6a6P4cdvs/hqdefault.jpg?v=67869d70&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBQBWdfiuQ0DlcUbgQNEIgTQsaf5Q" group-title="youtube運動直播",Barclays Women's Super League
-https://www.youtube.com/watch?v=0c6a6P4cdvs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/PBEGAr3y83M/hqdefault.jpg?v=678bbb61&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC2FPKcdYe9LfR2_EGUWcEMQmashQ" group-title="youtube運動直播",AFTV
-https://www.youtube.com/watch?v=PBEGAr3y83M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/7f4IFovLjyk/hqdefault.jpg?v=678af03e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB-zrYbvmH78p4sL3tvbwSv3Lz9kA" group-title="youtube運動直播",Curtis Shaw TV
-https://www.youtube.com/watch?v=7f4IFovLjyk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/icvYy8Yh4VM/hqdefault.jpg?v=678bdaea&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBEPz_4nqMb9jg9fL9q-wAc6FTp2Q" group-title="youtube運動直播",Love Music
-https://www.youtube.com/watch?v=icvYy8Yh4VM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/jfY4z-E6Pt8/hqdefault.jpg?v=678b53e0&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDECF2ZI4qt15pLUv3ZMY7YwhFHXQ" group-title="youtube運動直播",World Table Tennis
-https://www.youtube.com/watch?v=jfY4z-E6Pt8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xgUyoAVQKDI/hqdefault.jpg?v=678b5412&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLASuJlXp5tIcgLHBSOKNiMX9WU8PQ" group-title="youtube運動直播",World Table Tennis
-https://www.youtube.com/watch?v=xgUyoAVQKDI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/pkqlfQsxRAY/hqdefault.jpg?v=10&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLADvbyviXlkwy_QKSCfGP8EwcMlCA" group-title="youtube運動直播",Lee Gunner
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/IfVJONGZ_KY/hqdefault.jpg?v=11&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDpg1qxWMh_S2RBtGCjL8soxBVghw" group-title="youtube遊戲直播",陳一丹
+https://www.youtube.com/watch?v=IfVJONGZ_KY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/GnVckMp6hyM/hqdefault.jpg?v=678a66f4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBRTNQitRrzMLjriLuCN2yeLyUlWA" group-title="youtube遊戲直播",桜鳥ミーナ / Audrey Mina
+https://www.youtube.com/watch?v=GnVckMp6hyM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rRyjyW4yKKc/hqdefault.jpg?v=6788ba95&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAxgGHz_JCDANBzt-hKRanE8JtKlA" group-title="youtube遊戲直播",zKodla
+https://www.youtube.com/watch?v=rRyjyW4yKKc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ueoJyRWpfvo/hqdefault.jpg?v=678b8528&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBDAXwR8p1swoPB7gSQQIBTtXurgA" group-title="youtube遊戲直播",喬安娜喬納斯Joanna Jonas Ch.
+https://www.youtube.com/watch?v=ueoJyRWpfvo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/zHqmUv7pBWg/hqdefault.jpg?v=6789cc84&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB6bgLQQ7qwF3pjblLPLRnvZf_4gQ" group-title="youtube遊戲直播",MOTHERv3
+https://www.youtube.com/watch?v=zHqmUv7pBWg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/t7nobHECW6E/hqdefault.jpg?v=678bdacd&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCH8855xbP5ZAxBurKHVuTadTunGw" group-title="youtube遊戲直播",VolGar
+https://www.youtube.com/watch?v=t7nobHECW6E
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/MqGnXGqS9vg/hqdefault.jpg?v=678bcccf&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLARhoeSiFNsDFwY7xAYJ4sEnmGZcw" group-title="youtube遊戲直播",SemiVan
+https://www.youtube.com/watch?v=MqGnXGqS9vg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Uv08UyruZvI/hqdefault.jpg?v=678b7853&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD4EignEf8ySVTVm7E2PyXphmzYxQ" group-title="youtube遊戲直播",MilSim TROOPS
+https://www.youtube.com/watch?v=Uv08UyruZvI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/7WJIx0DSSi8/hqdefault.jpg?v=678bf685&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDdx0pXb95TMi5oNrZ3pyK2AFThqA" group-title="youtube遊戲直播",白羽哥
+https://www.youtube.com/watch?v=7WJIx0DSSi8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Y48C1E-5-dg/hqdefault.jpg?v=678bc2f9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDdaI2pmj1IPC9P8OFWD4bMzVETzg" group-title="youtube遊戲直播",DEANKT
+https://www.youtube.com/watch?v=Y48C1E-5-dg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/JSY35VHuX0E/hqdefault.jpg?v=678be98f&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC3RLx97G_FoZJy-T9tmH7sprO6PQ" group-title="youtube遊戲直播",Raxxanterax
+https://www.youtube.com/watch?v=JSY35VHuX0E
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/axCIwiTOq2c/hqdefault.jpg?v=678bbbe8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCXKMiTzhvSmrfZ9jsnKeuYbY-BIg" group-title="youtube遊戲直播",Multi
+https://www.youtube.com/watch?v=axCIwiTOq2c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Jh8QQJKQ6zs/hqdefault.jpg?v=678bce4c&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCoZM0Bj4jC2QUyHqi00haMkODrWQ" group-title="youtube遊戲直播",Rush WinRed
+https://www.youtube.com/watch?v=Jh8QQJKQ6zs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/U9cmPBBWFuU/hqdefault.jpg?v=67852e59&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCVhBiSij95LE48q86ZHD28X61kTQ" group-title="youtube遊戲直播",Call of Duty League
+https://www.youtube.com/watch?v=U9cmPBBWFuU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/53LJwMIdgSE/hqdefault.jpg?v=678bf3fe&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAP9XE1hAJE6nhi4A0x7DYC3eiolw" group-title="youtube遊戲直播",ZIA
+https://www.youtube.com/watch?v=53LJwMIdgSE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/85IryWqmxS0/hqdefault.jpg?v=678c012e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBmGNYudU1CKUoXHO8sHuRoZoD_mw" group-title="youtube遊戲直播",A_Seagull
+https://www.youtube.com/watch?v=85IryWqmxS0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/X4co8SrFt50/hqdefault.jpg?v=678bf3d7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDSnrtXSioLgw3RdYF_99s2GVblVw" group-title="youtube遊戲直播",Bogur Two
+https://www.youtube.com/watch?v=X4co8SrFt50
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/yLZZGhG-cJE/hqdefault.jpg?v=67866b7a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBjZvY-Pf88OqgRx_tehGsypOfrOg" group-title="youtube遊戲直播",Kanna Yanagi Ch.【PixelLink】
+https://www.youtube.com/watch?v=yLZZGhG-cJE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_ho6wNQrtCU/hqdefault.jpg?v=678be97b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBbG4-1HE_BQQSRBCubO9Ov2J386w" group-title="youtube遊戲直播",Multiple Choice
+https://www.youtube.com/watch?v=_ho6wNQrtCU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/zHgmAKloTmA/hqdefault.jpg?v=8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBQxbVHgkZ44cDAImlJPTLL1GkBhg" group-title="youtube遊戲直播",MCSR Ranked
+https://www.youtube.com/watch?v=zHgmAKloTmA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/JRn8LsENQTg/hqdefault.jpg?v=678bdb32&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAUAmcpME_imdRVS70h25K4SevREw" group-title="youtube遊戲直播",YIN KUN
+https://www.youtube.com/watch?v=JRn8LsENQTg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/fpFWzs5RYKs/hqdefault.jpg?v=678bfdf1&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBo0hrbg5J4St-2dt2MhM4JPIZkjQ" group-title="youtube遊戲直播",wudijo
+https://www.youtube.com/watch?v=fpFWzs5RYKs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/L9w9s1OoS-k/hqdefault.jpg?v=21&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB_-ZS-Ecr6sy8-7smFn7sOGeECrg" group-title="youtube遊戲直播",Orchlon
+https://www.youtube.com/watch?v=L9w9s1OoS-k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/YxV4RMnFHpg/hqdefault.jpg?v=678ba1d0&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAT5w6LN6izQW5jofVHeg-fT_ic4A" group-title="youtube遊戲直播",ViolaTor Gaming
+https://www.youtube.com/watch?v=YxV4RMnFHpg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/lDeIRsdskI4/hqdefault.jpg?v=678c05a3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAXKfZuwWTzLmEi_9GDYv6LtoO2Mg" group-title="youtube遊戲直播",伯顏
+https://www.youtube.com/watch?v=lDeIRsdskI4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Ae2-V-hmszY/hqdefault.jpg?v=678b8934&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD5ilwTQk94JBVutm9a6Sh1mvzCcQ" group-title="youtube遊戲直播",KerWix
+https://www.youtube.com/watch?v=Ae2-V-hmszY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/U6ECO6p6_Ho/hqdefault.jpg?v=678bafb5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA2NbRzVUSATiXt2URmF4ctMNk5uw" group-title="youtube遊戲直播",magu6o
+https://www.youtube.com/watch?v=U6ECO6p6_Ho
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Qd1PJfZ36uk/hqdefault.jpg?v=678b87aa&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDIFdGMQDdsjP4okwcRSnobohB2cA" group-title="youtube遊戲直播",Yuu Ch. 絢世ユウ 【Phase Connect】
+https://www.youtube.com/watch?v=Qd1PJfZ36uk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Y9PAcmK3Kv8/hqdefault.jpg?v=6786199a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAt4yfIuFIsHnBR9AbLrxCEJhYXkQ" group-title="youtube遊戲直播",ももんがのゲーム実況倉庫 V
+https://www.youtube.com/watch?v=Y9PAcmK3Kv8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/q9rdKRJzUBU/hqdefault.jpg?v=678bd05d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCaWF-GRNyYVYhaHj5ovQq99TlxKg" group-title="youtube遊戲直播",NickRTFM
+https://www.youtube.com/watch?v=q9rdKRJzUBU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/T_N9DrUemq4/hqdefault.jpg?v=678bab55&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHfvvlqLs-ojUj0atQ6axMN1PKhg" group-title="youtube遊戲直播",Nadeshot
+https://www.youtube.com/watch?v=T_N9DrUemq4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rZVIwee-TN8/hqdefault.jpg?v=678bb12a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDLYmGQr5L96rQSn7yZVGm7WsDAfQ" group-title="youtube遊戲直播",TRÂU TFT
+https://www.youtube.com/watch?v=rZVIwee-TN8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Cuf-tWO3o-0/hqdefault.jpg?v=678bfc47&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLArzCN2Ase4tQJxf3jrFO2UL_gdxA" group-title="youtube遊戲直播",Flats
+https://www.youtube.com/watch?v=Cuf-tWO3o-0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gJLR83vWwhk/hqdefault.jpg?v=1a6&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBg9tRHX0z59TErPA7pwkDSRhw8vQ" group-title="youtube遊戲直播",CasinoDaddy
+https://www.youtube.com/watch?v=gJLR83vWwhk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/GmWOGGyE4xM/hqdefault.jpg?v=678bcab7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAWWT3lzLDda_fCRWjQ7FNqvtENWg" group-title="youtube遊戲直播",SoLike
+https://www.youtube.com/watch?v=GmWOGGyE4xM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/vXBkI_EYj30/hqdefault.jpg?v=6786cbf7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCQcKV-bNQv8eGAJ4UzAdr342IO0Q" group-title="youtube遊戲直播",ATMO esports
+https://www.youtube.com/watch?v=vXBkI_EYj30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ApIdUqYRGVY/hqdefault.jpg?v=678bbe4d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCD5fKr0o4kTIuhNPzDibU7XOye7A" group-title="youtube遊戲直播",Edgaras Stau
+https://www.youtube.com/watch?v=ApIdUqYRGVY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/8YCPneBy0go/hqdefault.jpg?v=678bfc9c&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCiAL0f7OK36lzCZxC2GmARHXsx3A" group-title="youtube遊戲直播",Dota 2 TV Indonesia
+https://www.youtube.com/watch?v=8YCPneBy0go
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/z6rvBULQaVM/hqdefault.jpg?v=678c02c0&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAmF2cljRRc3U6BcbSLytUZ28mXWQ" group-title="youtube遊戲直播",Hunters Log
+https://www.youtube.com/watch?v=z6rvBULQaVM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rYqOt-XH7-c/hqdefault.jpg?v=678ba316&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBTgTXuIocjyYLxcKt83Xr3QfXX_Q" group-title="youtube遊戲直播",emongg
+https://www.youtube.com/watch?v=rYqOt-XH7-c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1i6EXt-Dm8U/hqdefault.jpg?v=678bfbf0&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC4AQSbAZJOppdgCi37Ft7JEBP7ww" group-title="youtube遊戲直播",Level Up Robo
+https://www.youtube.com/watch?v=1i6EXt-Dm8U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/IYZWh2k-E18/hqdefault.jpg?v=678bf626&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCmQ82HA57oDMoTpEup0C_ILtvZDw" group-title="youtube遊戲直播",Laith
+https://www.youtube.com/watch?v=IYZWh2k-E18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ibERPwKM6lM/hqdefault.jpg?v=678bef00&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDXFwNqmws610wcTJKVu5CmK9fjeA" group-title="youtube遊戲直播",Ultra Pro gaming
+https://www.youtube.com/watch?v=ibERPwKM6lM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/LRIP3sIBRhU/hqdefault.jpg?v=23&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDaxQqO5Wgg8Fovit3ZVPtAkxdDyw" group-title="youtube遊戲直播",FrankChess
+https://www.youtube.com/watch?v=LRIP3sIBRhU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/9eSTYTwzdHE/hqdefault.jpg?v=43&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD_cAgvkvYUkeBoPAJYuXbl0uCbIA" group-title="youtube遊戲直播",Klean
+https://www.youtube.com/watch?v=9eSTYTwzdHE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/VdzgjfBTkZY/hqdefault.jpg?v=67855a8d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCfsjelFbkZ_-K69yNeX4Kke8Hzhw" group-title="youtube遊戲直播",Omni World
+https://www.youtube.com/watch?v=VdzgjfBTkZY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Utg6-o49bSQ/hqdefault.jpg?v=20&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCUi5clWyWHIxOYx7sI_ORXc3IjRw" group-title="youtube遊戲直播",RealYX
+https://www.youtube.com/watch?v=Utg6-o49bSQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/3feTDyADUcc/hqdefault.jpg?v=678bd3ac&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDheXi-E-OSJgmimQRaCLeRwJyk-g" group-title="youtube遊戲直播",Weazel_1991
+https://www.youtube.com/watch?v=3feTDyADUcc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/MbDBkdrHn3Q/hqdefault.jpg?v=678bf478&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDoIREZGVF8kzr99ZdChe-1PHR5eA" group-title="youtube遊戲直播",YoDaTV
+https://www.youtube.com/watch?v=MbDBkdrHn3Q
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Ub3kJOqmS-E/hqdefault.jpg?v=678bb145&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCKiAsn2DQdQsVkjIGPT64Zq5nVKA" group-title="youtube運動直播",UFC
+https://www.youtube.com/watch?v=Ub3kJOqmS-E
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ZnNUZ6ycFm8/hqdefault.jpg?v=678a9f3a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDuCQhNourvvidIYT3ct2Tsw7fN5g" group-title="youtube運動直播",FC Barcelona
+https://www.youtube.com/watch?v=ZnNUZ6ycFm8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/pkqlfQsxRAY/hqdefault.jpg?v=28&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLADvbyviXlkwy_QKSCfGP8EwcMlCA" group-title="youtube運動直播",Lee Gunner
 https://www.youtube.com/watch?v=pkqlfQsxRAY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ON7OH7S89LM/hqdefault.jpg?v=678a40d5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBTUI2qFOxy7AvkJSeKihBQQ-3O4g" group-title="youtube運動直播",TroopzTV
-https://www.youtube.com/watch?v=ON7OH7S89LM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/mJL_X5ONkIs/hqdefault.jpg?v=678b7047&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDhbse-ycVi5c1b7M6NEUdSRhhJfQ" group-title="youtube運動直播",สปอร์ตเต็มเหนี่ยว
-https://www.youtube.com/watch?v=mJL_X5ONkIs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ikFaR0eWBIE/hqdefault.jpg?v=677e5f95&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD6HOLTFYODKZbiBV52MEthesC2Lw" group-title="youtube運動直播",BellatorMMA
-https://www.youtube.com/watch?v=ikFaR0eWBIE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/0HA5NTSr7DU/hqdefault.jpg?v=6783e413&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB3_61J9Kk6hkDV9tOeeAKyCY9slQ" group-title="youtube運動直播",IHF Competitions
-https://www.youtube.com/watch?v=0HA5NTSr7DU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/5d9iUtbdZSg/hqdefault.jpg?v=678a1e82&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAwFDbOQvHWRGSjpQ4MoYySudwbwQ" group-title="youtube運動直播",EUROLEAGUE BASKETBALL
-https://www.youtube.com/watch?v=5d9iUtbdZSg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2pGsCBmDGeY/hqdefault.jpg?v=678bbf7e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBsuwbps9X9mmjMTgI8Ore6z3a7xQ" group-title="youtube運動直播",Championship Bowling
-https://www.youtube.com/watch?v=2pGsCBmDGeY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/eAz-pJYpF8Q/hqdefault.jpg?v=67855e27&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCVgCV7KgFpMUhHe27SntDnflFt1g" group-title="youtube運動直播",BL Football Talks
-https://www.youtube.com/watch?v=eAz-pJYpF8Q
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/6PTsqae92wU/hqdefault.jpg?v=6789b8b2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLATrwymtrBkbqTQgbbrBaGMolyOQw" group-title="youtube運動直播",All Blacks
-https://www.youtube.com/watch?v=6PTsqae92wU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TF4zz3jBj6w/hqdefault.jpg?v=676ec43e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAZfYzneBmW_Un_lIJiqCOobyEHDw" group-title="youtube運動直播",Dyn Tischtennis
-https://www.youtube.com/watch?v=TF4zz3jBj6w
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/CtgpGP8QBTE/hqdefault.jpg?v=678bc470&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBXta0LuAG_Qr0s9AiydNQJbYs96Q" group-title="youtube運動直播",TRT SPOR Yıldız
-https://www.youtube.com/watch?v=CtgpGP8QBTE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/fDGr3y8iFYM/hqdefault.jpg?v=678bd6f8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCl4w8bbF7NovoOdg5Rfn_lSL-Kug" group-title="youtube運動直播",새벽의 축구 전문가
-https://www.youtube.com/watch?v=fDGr3y8iFYM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/hCwHjY56SZ4/hqdefault.jpg?v=67851b62&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCJ5VqgmqfgEmfkC192b7QcxbeSwQ" group-title="youtube運動直播",Free FOOT
-https://www.youtube.com/watch?v=hCwHjY56SZ4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1YDT_zpYJTY/hqdefault.jpg?v=678b992e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCmk67Pkj6xp6Yd6ajslx50QHA_8A" group-title="youtube運動直播",VOLE
-https://www.youtube.com/watch?v=1YDT_zpYJTY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/7uBpwcn2ZZ0/hqdefault.jpg?v=678bec08&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDAu_pHv-agTRm9w-jplM_eORyGgA" group-title="youtube運動直播",A Spor
-https://www.youtube.com/watch?v=7uBpwcn2ZZ0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/cosXbfNqgPk/hqdefault.jpg?v=678a76cb&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCbKJaab2bAoaWFhIFW_ICVRwKHeQ" group-title="youtube運動直播",BTV
-https://www.youtube.com/watch?v=cosXbfNqgPk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xXCaTZRrb3A/hqdefault.jpg?v=676ec5eb&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLABD_h9x-Ueq4gPIRXY1irNn6g4aA" group-title="youtube運動直播",Dyn Tischtennis
-https://www.youtube.com/watch?v=xXCaTZRrb3A
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Ea53k5EA-ZE/hqdefault.jpg?v=678bd954&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBxCF9Ov0Wwbc_pHxN-nzJAp3QWSA" group-title="youtube運動直播",Latina Televisión
-https://www.youtube.com/watch?v=Ea53k5EA-ZE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/a195mIEVfew/hqdefault.jpg?v=678bed10&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBOoguV2Rfmn9lBabcahT1gO3SIYQ" group-title="youtube運動直播",Sports Digitale
-https://www.youtube.com/watch?v=a195mIEVfew
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/lIM6C7_4bHA/hqdefault.jpg?v=678a41b9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBAF2P6bgSY3APpsbFH3KQ3sHLzhA" group-title="youtube運動直播",Kanał Sportowy
-https://www.youtube.com/watch?v=lIM6C7_4bHA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/inDpMGh_BkI/hqdefault.jpg?v=678bbec4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC-vRl89bAL-TUqn8Am4e3RJjbmbg" group-title="youtube運動直播",AD Sports
-https://www.youtube.com/watch?v=inDpMGh_BkI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/KyRRRgprz1I/hqdefault.jpg?v=678bd256&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA0uAeQxDNnmm-qFtI5JWG8bneR7Q" group-title="youtube運動直播",Lutte TV
-https://www.youtube.com/watch?v=KyRRRgprz1I
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/9Mk62wrW-_I/hqdefault.jpg?v=12&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCcA2BgvhZWRt-jecjYZrsHwdWwnw" group-title="youtube運動直播",Arryadia TV
-https://www.youtube.com/watch?v=9Mk62wrW-_I
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ohF8Bw5IkMY/hqdefault.jpg?v=678bd3d3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC55yy93yjc243lgtWMN4VyRF3dPA" group-title="youtube運動直播",Dibrou Sports Brasil
-https://www.youtube.com/watch?v=ohF8Bw5IkMY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ljoBYk0r1Xw/hqdefault.jpg?v=678bd18d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD5jjkjzC1ckXF5C9IYWY_iVYd4CQ" group-title="youtube運動直播",Dibrou Sports Brasil
-https://www.youtube.com/watch?v=ljoBYk0r1Xw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/iN1e9FYFrQk/hqdefault.jpg?v=4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCiCOz6TDHJeH43SH4f-oeWwOKJpA" group-title="youtube運動直播",Eagle Media
-https://www.youtube.com/watch?v=iN1e9FYFrQk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/CJG7WUGgg4A/hqdefault.jpg?v=678bd1c9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDY7yrWTrTmNKjfkkveucrl2HLP6Q" group-title="youtube運動直播",Juancín
-https://www.youtube.com/watch?v=CJG7WUGgg4A
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/K3dN2xGD9Ko/hqdefault.jpg?v=678be655&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBQC6Vcz5dGI_WGtsGmQ_IrRpJE9g" group-title="youtube運動直播",Hưng An Giang
-https://www.youtube.com/watch?v=K3dN2xGD9Ko
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault.jpg?v=66b23165&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAG1M63LsrMdyQV-9aaEEeFbv4JkQ" group-title="youtube運動直播",TJK TV
-https://www.youtube.com/watch?v=g89RQMJtK6E
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/qgG89RirPzs/hqdefault.jpg?v=678bc3dc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCcnO3LCgVHxvtanZ27Yqlnh1LWXQ" group-title="youtube運動直播",Rinaldo Morelli
-https://www.youtube.com/watch?v=qgG89RirPzs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1nq2qDikFsM/hqdefault.jpg?v=678bc404&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDJZyVWRYxhWIiZ5J_cVV9kuIqI1w" group-title="youtube運動直播",Talk Football HD
-https://www.youtube.com/watch?v=1nq2qDikFsM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/G6Xgy58x6NY/hqdefault.jpg?v=678ba0a6&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDlpS1Wy6oDs0ujdXFBrt-8V-NTRg" group-title="youtube運動直播",Carrusel Deportivo
-https://www.youtube.com/watch?v=G6Xgy58x6NY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rdQ5l6ymcHU/hqdefault.jpg?v=678b6b0a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAqtl0CVZmuO7bpWWx_4FvgihYiDw" group-title="youtube運動直播",BORA LEÃO
-https://www.youtube.com/watch?v=rdQ5l6ymcHU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ErY8Netczj0/hqdefault.jpg?v=678a3021&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCpoJoJwftZHsqBq1TFvhCE7HSzVw" group-title="youtube運動直播",Esports IB3
-https://www.youtube.com/watch?v=ErY8Netczj0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/hM306kZdeHw/hqdefault.jpg?v=678bfaa2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAKkGbUC2iUSRD_6Op1pSy722uoIg" group-title="youtube運動直播",The Football Terrace
+https://www.youtube.com/watch?v=hM306kZdeHw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/DkdxrzYbKF4/hqdefault.jpg?v=678be6a8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBx0NkFYcgG8NpM21qyI_c8ydBTHw" group-title="youtube運動直播",Love Music
 https://www.youtube.com/watch?v=DkdxrzYbKF4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/KIXaEJLZTaM/hqdefault.jpg?v=678ba6a3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBED7s_6tzNxlc3jnlG7UU-1QGv0w" group-title="youtube運動直播",24 LIVE EVENT🎥
-https://www.youtube.com/watch?v=KIXaEJLZTaM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/KSzDpnINVPU/hqdefault.jpg?v=678b091f&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDWPlIZss3XzBQTyj8-aq9hojC7XA" group-title="youtube運動直播",Lutte TV
-https://www.youtube.com/watch?v=KSzDpnINVPU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/9O7d_EpmvT4/hqdefault.jpg?v=678be562&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCO0Lu8-fj7KKZ-kvXa_IekhIDIUQ" group-title="youtube運動直播",talkSPORT
-https://www.youtube.com/watch?v=9O7d_EpmvT4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ALl3t4bf7JU/hqdefault.jpg?v=678bebb4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCftEK1Sta4mHsGDL1IxK1DNtVaCw" group-title="youtube運動直播",Şafak Malatya
-https://www.youtube.com/watch?v=ALl3t4bf7JU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Ry3T99d0vQ4/hqdefault.jpg?v=678b8b3f&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLADOJbmZIqbDSwxPvb_UjW7MjtjCQ" group-title="youtube運動直播",CalcioNapoli24
-https://www.youtube.com/watch?v=Ry3T99d0vQ4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/w6MGBMG6Qok/hqdefault.jpg?v=678bdc1c&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD_PkO-YnjX88tP2I8BhsWXAWTCJg" group-title="youtube運動直播",Love Music
-https://www.youtube.com/watch?v=w6MGBMG6Qok
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/PAItjd3cybc/hqdefault.jpg?v=678bad9d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCdsKprwajDHTF3HzegYXTbLSujvQ" group-title="youtube運動直播",24 LIVE EVENT🎥
-https://www.youtube.com/watch?v=PAItjd3cybc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/IGal8cnQkyE/hqdefault.jpg?v=678bce00&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCdPL1zUaRbeVmnmjoVjikj1743IQ" group-title="youtube運動直播",ONE MUFC
-https://www.youtube.com/watch?v=IGal8cnQkyE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/7qw3ewTl8pQ/hqdefault.jpg?v=678bb1f3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCzALf-LxzbVlVqGe0pRFlygFBG3g" group-title="youtube運動直播",24 LIVE EVENT🎥
-https://www.youtube.com/watch?v=7qw3ewTl8pQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1IkjTrxR2Ag/hqdefault.jpg?v=678acae9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBAeW6cQNXjc5jr3U6evVXNAYpPUg" group-title="youtube運動直播",T Sports
-https://www.youtube.com/watch?v=1IkjTrxR2Ag
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/m_tkKBe2FRw/hqdefault.jpg?v=678a62df&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAcEPe2zjhiawPyqHg0itejWyHs_g" group-title="youtube運動直播",TV Cultura
-https://www.youtube.com/watch?v=m_tkKBe2FRw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/-YjXPcEvOe4/hqdefault.jpg?v=678b32e2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBetKQUslbv6qk5itrt-rnZiny-AQ" group-title="youtube運動直播",Jay Dublow Sports
-https://www.youtube.com/watch?v=-YjXPcEvOe4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/PVeN3sBKXvg/hqdefault.jpg?v=678bb1a7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA1ovqE84Mwq_Sp2yP62piXp1tFLQ" group-title="youtube運動直播",24 LIVE EVENT🎥
-https://www.youtube.com/watch?v=PVeN3sBKXvg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Ehpt6WCeEOo/hqdefault.jpg?v=677fb375&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAGDorXAC2zOmFXZVM26KwpPjjMlA" group-title="youtube運動直播",Tupi Carnaval Total
-https://www.youtube.com/watch?v=Ehpt6WCeEOo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/zu8sZqkhRRQ/hqdefault.jpg?v=678ac286&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDWO6-q00IvCM2EcBgswym0x8oxOA" group-title="youtube運動直播",BPM Sports
-https://www.youtube.com/watch?v=zu8sZqkhRRQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ri4rR0H2i9c/hqdefault.jpg?v=670387ff&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAUODrWuqnm2U1MMKzsQTh16bvdLg" group-title="youtube運動直播",TJK TV
-https://www.youtube.com/watch?v=ri4rR0H2i9c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wtfkgR32LfU/hqdefault.jpg?v=678be3a9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDZh-Pe8PiXC2uiNJW_Jqh9AV6SZA" group-title="youtube運動直播",Ankit Live Gaming
-https://www.youtube.com/watch?v=wtfkgR32LfU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/KEAlXPN1QoQ/hqdefault.jpg?v=678ae465&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA41EYmSMTCOSAfXXxSOM2myCik5w" group-title="youtube運動直播",Canal EU ACREDITO!
-https://www.youtube.com/watch?v=KEAlXPN1QoQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/8gHkUicpqLc/hqdefault.jpg?v=678a190e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAzMyiKlrUfVdHqu667t57Ih4BGxw" group-title="youtube運動直播",MARCA
-https://www.youtube.com/watch?v=8gHkUicpqLc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/f86QZBHqIg0/hqdefault.jpg?v=67895266&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDOU2YxucTTk5i2SY0IHf8PCsfvng" group-title="youtube運動直播",Nsports 
-https://www.youtube.com/watch?v=f86QZBHqIg0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/oExZIdrCVKk/hqdefault.jpg?v=678bd749&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDjHgDTgkXb4Zk75DAxbwBr9TpYOQ" group-title="youtube運動直播",Fernando Petrocelli y la Ruta Vinotinto
-https://www.youtube.com/watch?v=oExZIdrCVKk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XPt-h-bgOCA/hqdefault.jpg?v=678bea9b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCdOGV7qbv4UaV1bswwpd1PeJm9Yg" group-title="youtube運動直播",Love Music
-https://www.youtube.com/watch?v=XPt-h-bgOCA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1M8HcwrYlU4/hqdefault.jpg?v=678ab3c7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDV642iMKr6JuD6CIh0wBWi_M1QYQ" group-title="youtube運動直播",TRT SPOR
-https://www.youtube.com/watch?v=1M8HcwrYlU4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/uf46io77bZ8/hqdefault.jpg?v=678bf0a7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBfWGee65kjgX1Hg5YdaSOKv-yNxA" group-title="youtube運動直播",Arquibancada Tricolor
-https://www.youtube.com/watch?v=uf46io77bZ8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/CJG7WUGgg4A/hqdefault.jpg?v=678bd1c9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDY7yrWTrTmNKjfkkveucrl2HLP6Q" group-title="youtube運動直播",Juancín
+https://www.youtube.com/watch?v=CJG7WUGgg4A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/7uBpwcn2ZZ0/hqdefault.jpg?v=678bec08&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDAu_pHv-agTRm9w-jplM_eORyGgA" group-title="youtube運動直播",A Spor
+https://www.youtube.com/watch?v=7uBpwcn2ZZ0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/cd5e_4c9djg/hqdefault.jpg?v=678bce89&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDgh2hn9GCu333BXYnqF0YwC0MG0Q" group-title="youtube運動直播",Más que Pelotas
+https://www.youtube.com/watch?v=cd5e_4c9djg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/IqiTtPU_UV8/hqdefault.jpg?v=678bf52a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDAL74lCHOToXPCyU3NCiv_Q_KS3w" group-title="youtube運動直播",Saeed TV
+https://www.youtube.com/watch?v=IqiTtPU_UV8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/kfEGl8R4HaE/hqdefault.jpg?v=6789167c&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBKBuhIuYn93aX73Z_pji6qDiS5oQ" group-title="youtube運動直播",TNT Sports Brasil
+https://www.youtube.com/watch?v=kfEGl8R4HaE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/eRfOTPFt9-w/hqdefault.jpg?v=6786c675&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAbH028ZIn0utKafmJ_fkHRh3U4Lg" group-title="youtube運動直播",Urban Roosters
+https://www.youtube.com/watch?v=eRfOTPFt9-w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QqBRgPNVTKI/hqdefault.jpg?v=67894ed4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDcd3S4cQJ-IMg7FBuKhGXftmoRjA" group-title="youtube運動直播",Nsports 
+https://www.youtube.com/watch?v=QqBRgPNVTKI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QNbnGemhSeg/hqdefault.jpg?v=678bef49&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAua-Tlhe7hfpk4SN1bWO6tTevRIQ" group-title="youtube運動直播",Nsports 
+https://www.youtube.com/watch?v=QNbnGemhSeg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/kROl89o_9oc/hqdefault.jpg?v=678c00b0&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBbdr8A7S0tXF8qVyNFHqqCyZwyLQ" group-title="youtube運動直播",2stvsenegal
+https://www.youtube.com/watch?v=kROl89o_9oc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/fLpC7tw-a3o/hqdefault.jpg?v=6784e202&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB-GBs7Fi3R6szzTuA1Gu7izVSzhw" group-title="youtube運動直播",Championnat National Officiel
 https://www.youtube.com/watch?v=fLpC7tw-a3o
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/nUlvmpaHKV8/hqdefault.jpg?v=678b5584&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCHVas-bPVMpiFXmS1tMTTkvEb5Rw" group-title="youtube運動直播",T Sports Bangladesh
-https://www.youtube.com/watch?v=nUlvmpaHKV8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/6XzRNuNB_Lk/hqdefault.jpg?v=6784d778&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBlQi7VGraHtYBfiTP0zaQAGQE87w" group-title="youtube運動直播",Barça Hoy
 https://www.youtube.com/watch?v=6XzRNuNB_Lk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/FxFbyWjcIgU/hqdefault.jpg?v=678bc92b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAaU7tumTwKH09GGiu3KQ7vDkSATw" group-title="youtube運動直播",Cricket Glow
-https://www.youtube.com/watch?v=FxFbyWjcIgU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_UQ5seoxzUY/hqdefault.jpg?v=678baacc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC9HKiPC3MWta2mJAbWDANQS1ojug" group-title="youtube運動直播",FREE4BIRD FOOTBALL
-https://www.youtube.com/watch?v=_UQ5seoxzUY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/50OTJQan1xk/hqdefault.jpg?v=67864562&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDoQN_xQHb1EQTnj35LlP6idFOQ5A" group-title="youtube運動直播",Deluded Gooner
-https://www.youtube.com/watch?v=50OTJQan1xk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/bkiI_fTSKgE/hqdefault.jpg?v=678b9a33&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDbVv6JWX0yLklP_g8s0NSqkCrL8Q" group-title="youtube運動直播",IndiaTV Cricket
-https://www.youtube.com/watch?v=bkiI_fTSKgE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Y2DP510KF1Y/hqdefault.jpg?v=678bcf93&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAdWYuK2QhScYO99K-ttWrjUURnbg" group-title="youtube運動直播",Futbolístico TV
-https://www.youtube.com/watch?v=Y2DP510KF1Y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/LwjXecpJoRs/hqdefault.jpg?v=678bf8f7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC-MWD86lxBsguKAWKyfGIt6GYZdQ" group-title="youtube運動直播",Tiempo de Juego COPE
+https://www.youtube.com/watch?v=LwjXecpJoRs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/UZTPRipA3wQ/hqdefault.jpg?v=678c0368&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDhs5Vao499-38Jbwi2E4NSpQ0EwA" group-title="youtube運動直播",Talk Football HD
+https://www.youtube.com/watch?v=UZTPRipA3wQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/SwFRBvk89vk/hqdefault.jpg?v=678bdadf&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBm0hZ1uMXfRRZ-HeoK5lX5x9GhwA" group-title="youtube運動直播",Latina Televisión
+https://www.youtube.com/watch?v=SwFRBvk89vk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/f86QZBHqIg0/hqdefault.jpg?v=67895266&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDOU2YxucTTk5i2SY0IHf8PCsfvng" group-title="youtube運動直播",Nsports 
+https://www.youtube.com/watch?v=f86QZBHqIg0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/i84xNGMXerY/hqdefault.jpg?v=678c0219&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBgwJHZ1HAfsIDO3FR8iKRDcniijg" group-title="youtube運動直播",Ahmet Konanç
+https://www.youtube.com/watch?v=i84xNGMXerY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wvLHs9rCYhk/hqdefault.jpg?v=6784e0d4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAGDp8ykZ6cDvWgXKi1eg_nZ4nz6w" group-title="youtube運動直播",Championnat National Officiel
 https://www.youtube.com/watch?v=wvLHs9rCYhk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/524VD-0d2sE/hqdefault.jpg?v=678ba610&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDAuZDayjFGGxeD2Fm-79uDQY_zPA" group-title="youtube運動直播",CANAL  TV TIMÃO. .
-https://www.youtube.com/watch?v=524VD-0d2sE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xKFCt_vH5Z4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBnAnv3yPh5j13Oxaw3Tm6HgFl7fA" group-title="youtube運動直播",NHL
-https://www.youtube.com/watch?v=xKFCt_vH5Z4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/qW6QYYsT43Q/hqdefault.jpg?v=678b9628&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBj4Go3QUYC92hWN7yDrjj2zzIz-A" group-title="youtube運動直播",Gerard Romero
+https://www.youtube.com/watch?v=qW6QYYsT43Q
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2ZGOpH8aYuw/hqdefault.jpg?v=678bfcfb&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBaknpsO2Ar3tmYrw6wPh0h-P-N-A" group-title="youtube運動直播",Jovem Pan Esportes
+https://www.youtube.com/watch?v=2ZGOpH8aYuw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/0ql8L1SXBjg/hqdefault.jpg?v=678ba2bf&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDLMI5FtNqOOmCyYbPRNo3EuVMlCg" group-title="youtube運動直播",Carrusel Deportivo
+https://www.youtube.com/watch?v=0ql8L1SXBjg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/K3dN2xGD9Ko/hqdefault.jpg?v=678be655&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBQC6Vcz5dGI_WGtsGmQ_IrRpJE9g" group-title="youtube運動直播",Hưng An Giang
+https://www.youtube.com/watch?v=K3dN2xGD9Ko
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ApdnZdxAJk8/hqdefault.jpg?v=678c0c5b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCDppYmzmUQEmnjopyZiMndjgE0wA" group-title="youtube運動直播",NOTICIAS DEL VERDE TV
+https://www.youtube.com/watch?v=ApdnZdxAJk8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ri4rR0H2i9c/hqdefault.jpg?v=670387ff&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAUODrWuqnm2U1MMKzsQTh16bvdLg" group-title="youtube運動直播",TJK TV
+https://www.youtube.com/watch?v=ri4rR0H2i9c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XPt-h-bgOCA/hqdefault.jpg?v=678bea9b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCdOGV7qbv4UaV1bswwpd1PeJm9Yg" group-title="youtube運動直播",Love Music
+https://www.youtube.com/watch?v=XPt-h-bgOCA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/KyRRRgprz1I/hqdefault.jpg?v=678bd256&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA0uAeQxDNnmm-qFtI5JWG8bneR7Q" group-title="youtube運動直播",Lutte TV
+https://www.youtube.com/watch?v=KyRRRgprz1I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/I326dI9ud8A/hqdefault.jpg?v=678c0ba2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC5Tq0-pziZOp9sLqblmn-kH4DI3Q" group-title="youtube運動直播",VERDOLAGA TV
+https://www.youtube.com/watch?v=I326dI9ud8A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ikFaR0eWBIE/hqdefault.jpg?v=677e5f95&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD6HOLTFYODKZbiBV52MEthesC2Lw" group-title="youtube運動直播",BellatorMMA
+https://www.youtube.com/watch?v=ikFaR0eWBIE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TywAmtPIquw/hqdefault.jpg?v=678bf02c&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCb39FHfuRqIMjBFPkpb8fp1dQ0Jg" group-title="youtube運動直播",Dibrou Sports Brasil
+https://www.youtube.com/watch?v=TywAmtPIquw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/tlG_6jez-o0/hqdefault.jpg?v=678bf5ae&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBJW1hfYjSXvJ5w7Jo70zXivlb-IQ" group-title="youtube運動直播",Footroll
+https://www.youtube.com/watch?v=tlG_6jez-o0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XEyEaCJkJ9Q/hqdefault.jpg?v=678bed32&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB_f0L8jUwPDfnIk4UZMkbv7qkyoQ" group-title="youtube運動直播",FERNANDO GIL RN
+https://www.youtube.com/watch?v=XEyEaCJkJ9Q
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/E1Sq2xH7SlQ/hqdefault.jpg?v=678a3fd6&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDF7UgiF-PwT2K_DmgQJdi6H4k58A" group-title="youtube運動直播",Tv Atalaia
+https://www.youtube.com/watch?v=E1Sq2xH7SlQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/WTinYaVU9ew/hqdefault.jpg?v=678ad30f&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAEaYlHtcNRf6WQ9YsL6iCZIEtZcQ" group-title="youtube運動直播",AMICI 1914
+https://www.youtube.com/watch?v=WTinYaVU9ew
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/idVzVlJLXng/hqdefault.jpg?v=678bfcb8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAvaurleHk_sl4f5ors8ilWTJYGfg" group-title="youtube運動直播",talkSPORT
+https://www.youtube.com/watch?v=idVzVlJLXng
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Pafa2HufND4/hqdefault.jpg?v=678bef0e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC8xdT3jGsG9NqeIfwh34TZmq6j_g" group-title="youtube運動直播",ShowBizz The Adult
+https://www.youtube.com/watch?v=Pafa2HufND4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/GV4Kq1ZRckk/hqdefault.jpg?v=678bd734&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB2h8xZWTuOPYO-u86beFJ1JyUW3w" group-title="youtube運動直播",Tupi Esportes
 https://www.youtube.com/watch?v=GV4Kq1ZRckk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/VCl1wO81VdM/hqdefault.jpg?v=66df5033&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAL5jghuBw5bpGpXmupZ8rKNN_9pQ" group-title="youtube運動直播",beIN SPORTS Türkiye
-https://www.youtube.com/watch?v=VCl1wO81VdM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/JSXBeeStIWA/hqdefault.jpg?v=6789feea&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAgjiP2bHCU0W8YgMYnFHXSznvq3g" group-title="youtube運動直播",VIỆT TV
-https://www.youtube.com/watch?v=JSXBeeStIWA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/x85X12chqvQ/hqdefault.jpg?v=678b8e2a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA6Dp8MgWhZML00BOhIn3q-VK6CNg" group-title="youtube運動直播",Sheff United Way
-https://www.youtube.com/watch?v=x85X12chqvQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rdQ5l6ymcHU/hqdefault.jpg?v=678b6b0a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAqtl0CVZmuO7bpWWx_4FvgihYiDw" group-title="youtube運動直播",BORA LEÃO
+https://www.youtube.com/watch?v=rdQ5l6ymcHU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/qWsLdJ_PCyE/hqdefault.jpg?v=678b5331&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA0tXnrLPNuziwuGp-6Lb9R91ljtw" group-title="youtube運動直播",FLA TV
+https://www.youtube.com/watch?v=qWsLdJ_PCyE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Q9gmbUpWPqI/hqdefault.jpg?v=678be7cc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC0pLVNFPYSu6S33d00SHVMW9kMNQ" group-title="youtube運動直播",Hưng An Giang
+https://www.youtube.com/watch?v=Q9gmbUpWPqI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/eWOwKFg3lY4/hqdefault.jpg?v=f&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDCTWl6zapyx3wQ4IrViFf8Aq_iUw" group-title="youtube運動直播",Arryadia TV
+https://www.youtube.com/watch?v=eWOwKFg3lY4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/VVy2Y7BsaRI/hqdefault.jpg?v=678c02ae&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB5H_8DrASPpCijYFrLJArA9cN9TA" group-title="youtube運動直播",Ertem Şener
+https://www.youtube.com/watch?v=VVy2Y7BsaRI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/8IdWA-lpxpw/hqdefault.jpg?v=678bdcb7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBkHFabKqG82vDDsqFiV23mPPlgSg" group-title="youtube運動直播",Esquina Caliente 
+https://www.youtube.com/watch?v=8IdWA-lpxpw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/fx8s5Td2ZKo/hqdefault.jpg?v=6784e176&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCrLlEGYtED9FOuCExmJ9ehG7JhyQ" group-title="youtube運動直播",Championnat National Officiel
+https://www.youtube.com/watch?v=fx8s5Td2ZKo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/FIfytjD10FI/hqdefault.jpg?v=678b387b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAChBHkMkTmciw9TUIIhTuZ-h_TaA" group-title="youtube運動直播",Deportes Al Taco
+https://www.youtube.com/watch?v=FIfytjD10FI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/-YjXPcEvOe4/hqdefault.jpg?v=678b32e2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBetKQUslbv6qk5itrt-rnZiny-AQ" group-title="youtube運動直播",Jay Dublow Sports
+https://www.youtube.com/watch?v=-YjXPcEvOe4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/AEOv5Jlhgeg/hqdefault.jpg?v=67878ed2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCirJrdvhR3oqMb-T2XjGT4ZAqqOg" group-title="youtube運動直播",Championnat National Officiel
+https://www.youtube.com/watch?v=AEOv5Jlhgeg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/-JFQgfCJloc/hqdefault.jpg?v=678bdd84&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCqmzaBLtE4tFLs4KEN8oRqo-z_YQ" group-title="youtube運動直播",Rants N Bants
+https://www.youtube.com/watch?v=-JFQgfCJloc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/5d9iUtbdZSg/hqdefault.jpg?v=678a1e82&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAwFDbOQvHWRGSjpQ4MoYySudwbwQ" group-title="youtube運動直播",EUROLEAGUE BASKETBALL
+https://www.youtube.com/watch?v=5d9iUtbdZSg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/U6g5HMZoa9s/hqdefault.jpg?v=678a0e0a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDiHPmGC423Uaipmn-ubdJD3nq2SQ" group-title="youtube運動直播",LALIGA EA SPORTS
+https://www.youtube.com/watch?v=U6g5HMZoa9s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/bMERfMbdW-M/hqdefault.jpg?v=678be68b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAX5CVy5udgyZeEm9PTqsN_Qn_DBA" group-title="youtube運動直播",RÁDIO BANDEIRANTES CAMPINAS
+https://www.youtube.com/watch?v=bMERfMbdW-M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/uFljrQH_aRU/hqdefault.jpg?v=678aee9d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDYT3DXr8XEOtyd_9U_Ijsa4uJPzA" group-title="youtube運動直播",Expresso Tricolor
 https://www.youtube.com/watch?v=uFljrQH_aRU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/OUJlFaZrw-A/hqdefault.jpg?v=678b1413&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC83kqMb34AT6yxQIapCwPDYHX5Ww" group-title="youtube運動直播",REY DEPORTIVO
-https://www.youtube.com/watch?v=OUJlFaZrw-A
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/JAiY41kNSs8/hqdefault.jpg?v=678be971&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLANMWqXoEeLPxaYeejWTsn6DWVFWg" group-title="youtube運動直播",ARV Loshan Sports 
-https://www.youtube.com/watch?v=JAiY41kNSs8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/i4hw0GG_wXE/hqdefault.jpg?v=678bee97&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA0bPFEjgEgQCsV6Ne1vNwCw182nQ" group-title="youtube運動直播",DISKI GALORE ™
-https://www.youtube.com/watch?v=i4hw0GG_wXE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/KIXaEJLZTaM/hqdefault.jpg?v=678ba6a3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBED7s_6tzNxlc3jnlG7UU-1QGv0w" group-title="youtube運動直播",24 LIVE EVENT🎥
+https://www.youtube.com/watch?v=KIXaEJLZTaM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/W2vPu4ZJhAg/hqdefault.jpg?v=678958bd&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCYKeTGJ4Wr-hT4mAcj4OYo4Zk2XQ" group-title="youtube運動直播",FanDuel
+https://www.youtube.com/watch?v=W2vPu4ZJhAg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/z2oY6LXotXc/hqdefault.jpg?v=678aeda2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB0vBac8bljkgGx_CWnahEk7Cffcw" group-title="youtube運動直播",Cábala Futbolera
+https://www.youtube.com/watch?v=z2oY6LXotXc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Ehpt6WCeEOo/hqdefault.jpg?v=677fb375&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAGDorXAC2zOmFXZVM26KwpPjjMlA" group-title="youtube運動直播",Tupi Carnaval Total
+https://www.youtube.com/watch?v=Ehpt6WCeEOo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/geXx0DBWkZ8/hqdefault.jpg?v=678bfb75&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCtHsVhjQHHsLOcpQYw389uBQb1_Q" group-title="youtube運動直播",Falso Nove
+https://www.youtube.com/watch?v=geXx0DBWkZ8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/5AgrhZpi2x4/hqdefault.jpg?v=678bfb6d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBevLlVWpPvdVgyyfc56Z8aGPzk3g" group-title="youtube運動直播",Barça Hoy
+https://www.youtube.com/watch?v=5AgrhZpi2x4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Ry3T99d0vQ4/hqdefault.jpg?v=678b8b3f&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLADOJbmZIqbDSwxPvb_UjW7MjtjCQ" group-title="youtube運動直播",CalcioNapoli24
+https://www.youtube.com/watch?v=Ry3T99d0vQ4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/PAItjd3cybc/hqdefault.jpg?v=678bad9d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCdsKprwajDHTF3HzegYXTbLSujvQ" group-title="youtube運動直播",24 LIVE EVENT🎥
+https://www.youtube.com/watch?v=PAItjd3cybc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/0AdHMt8D35I/hqdefault.jpg?v=678c05f6&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAazWT3vmluVjTSDA1V7gQR2P6DMA" group-title="youtube運動直播",TGRT Haber TV
+https://www.youtube.com/watch?v=0AdHMt8D35I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/omR4oz12muQ/hqdefault.jpg?v=678c07d2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBak8CQx3R1iI9pAYA4Zw3vLOdVJQ" group-title="youtube運動直播",十Loork Football
+https://www.youtube.com/watch?v=omR4oz12muQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/oExZIdrCVKk/hqdefault.jpg?v=678bd749&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDjHgDTgkXb4Zk75DAxbwBr9TpYOQ" group-title="youtube運動直播",Fernando Petrocelli y la Ruta Vinotinto
+https://www.youtube.com/watch?v=oExZIdrCVKk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/s-eZStWJW8w/hqdefault.jpg?v=678b13ac&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBDII1MHzcpUg7881PYaFmjcIdGTg" group-title="youtube運動直播",REY DEPORTIVO
+https://www.youtube.com/watch?v=s-eZStWJW8w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wUHyS8Xpegc/hqdefault.jpg?v=678b4ee8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDVHcEPp4TVgpDe-_6HX55rmzNT-Q" group-title="youtube運動直播",La Casaca Futbol
+https://www.youtube.com/watch?v=wUHyS8Xpegc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/EVHw0VH0zLU/hqdefault.jpg?v=678c04b8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLASLh5CrDFkjb3xjqQKXSh0Xka20w" group-title="youtube運動直播",دورينا غير
+https://www.youtube.com/watch?v=EVHw0VH0zLU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/LZ0iPCiUhMk/hqdefault.jpg?v=678c0758&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAvhzSK_0CoEc7kIJarlRDLyHL0eA" group-title="youtube運動直播",Ankit Live Gaming
+https://www.youtube.com/watch?v=LZ0iPCiUhMk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/PVeN3sBKXvg/hqdefault.jpg?v=678bb1a7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA1ovqE84Mwq_Sp2yP62piXp1tFLQ" group-title="youtube運動直播",24 LIVE EVENT🎥
+https://www.youtube.com/watch?v=PVeN3sBKXvg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Eg_Nl839wg0/hqdefault.jpg?v=677be060&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCDoKcyWsu9w_sWFiDbnkwuvgXSDw" group-title="youtube運動直播",Radio Jornal
+https://www.youtube.com/watch?v=Eg_Nl839wg0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/-jgphpjYRkk/hqdefault.jpg?v=678c0162&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDIfvvHBHWhLI9PrUPkkp7Fui-0bQ" group-title="youtube運動直播",Der Sievi
+https://www.youtube.com/watch?v=-jgphpjYRkk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/7qw3ewTl8pQ/hqdefault.jpg?v=678bb1f3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCzALf-LxzbVlVqGe0pRFlygFBG3g" group-title="youtube運動直播",24 LIVE EVENT🎥
+https://www.youtube.com/watch?v=7qw3ewTl8pQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Cky76U8W2fg/hqdefault.jpg?v=678b022c&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDwL1ET86WNy-CCJcIGTPYTwxyNpQ" group-title="youtube運動直播",TECGOL
+https://www.youtube.com/watch?v=Cky76U8W2fg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/09MoLGHPy_0/hqdefault.jpg?v=678aac5d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD5ZZ30eaPs-41GLiVEQ8bKHzRnzg" group-title="youtube運動直播",Rádio Transamérica Esportes
+https://www.youtube.com/watch?v=09MoLGHPy_0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/YqdrxwwSPA0/hqdefault.jpg?v=678b0126&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDEkNn3gZNoZT2ORVMFzB4qjAdndg" group-title="youtube運動直播",TECGOL
+https://www.youtube.com/watch?v=YqdrxwwSPA0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/bxS9QaMPLio/hqdefault.jpg?v=678bfca3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD-DYYC0SvewDgQmsX1f-cmTmUfKQ" group-title="youtube運動直播",Jovem Pan News
+https://www.youtube.com/watch?v=bxS9QaMPLio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/8vtlZUl8g1k/hqdefault.jpg?v=678bc8de&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBMnk95fgeiX9t6ftGs9KNZ9GZPqA" group-title="youtube運動直播",Olympique Lyonnais
+https://www.youtube.com/watch?v=8vtlZUl8g1k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/bkPDGHQao70/hqdefault.jpg?v=678bfe86&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAz6udgCnAq25x5CHLw_8gxQSYYVg" group-title="youtube運動直播",VERDOLAGA TV
+https://www.youtube.com/watch?v=bkPDGHQao70
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/E3NOvf9WNAQ/hqdefault.jpg?v=66562601&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCRytl42gHhJGwmBIxJr9mekPzB1w" group-title="youtube少兒",PBS KIDS
 https://www.youtube.com/watch?v=E3NOvf9WNAQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TZ3mxF4U__k/hqdefault.jpg?v=64f053e6&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAJSgHzrVXvSG1UsHwpV1uer51T_Q" group-title="youtube少兒",Hasbro
@@ -385,7 +377,7 @@ https://www.youtube.com/watch?v=WYetg3AuLE4
 https://www.youtube.com/watch?v=9UMxZofMNbA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/fEvM-OUbaKs/hqdefault.jpg?v=5c8456e6&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD67o_wwel-Lup9QkGzEUV7qMERmw" group-title="youtube娛樂",BGM channel
 https://www.youtube.com/watch?v=fEvM-OUbaKs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/DPXQG8S9Xwc/hqdefault.jpg?v=b0b3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA8QbyHVg20_Ys_Sztd8QObL1LaRg" group-title="youtube娛樂",RazNitzanMusic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/DPXQG8S9Xwc/hqdefault.jpg?v=b0ca&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA8QbyHVg20_Ys_Sztd8QObL1LaRg" group-title="youtube娛樂",RazNitzanMusic
 https://www.youtube.com/watch?v=DPXQG8S9Xwc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Dx5qFachd3A/hqdefault.jpg?v=5dae1cec&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBOke3Qc4P2wXPjimkclM7G6K4TJA" group-title="youtube娛樂",Cafe Music BGM channel
 https://www.youtube.com/watch?v=Dx5qFachd3A
@@ -433,7 +425,7 @@ https://www.youtube.com/watch?v=D4MdHQOILdw
 https://www.youtube.com/watch?v=QcBT3PG1kE8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/JVocS7Yftw8/hqdefault.jpg?v=665eb5fa&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC6c8OkcUmnbMfDvXwJoZ1oTTavsQ" group-title="youtube娛樂",THE K-POP
 https://www.youtube.com/watch?v=JVocS7Yftw8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/P1fX2GGdVS0/hqdefault.jpg?v=b0b2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAu8ux6Qn2PXCRpnkEmDKsFUxyGEw" group-title="youtube娛樂",Arirang Radio K-Pop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/P1fX2GGdVS0/hqdefault.jpg?v=b0c9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAu8ux6Qn2PXCRpnkEmDKsFUxyGEw" group-title="youtube娛樂",Arirang Radio K-Pop
 https://www.youtube.com/watch?v=P1fX2GGdVS0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xL0ch83RAK8/hqdefault.jpg?v=606152e7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBQRe-1yPx17S8r5BaTOyAFA2mLKQ" group-title="youtube中文新聞直播",台視新聞 TTV NEWS
 https://www.youtube.com/watch?v=xL0ch83RAK8
@@ -499,7 +491,7 @@ https://www.youtube.com/watch?v=AEBeWMM1atA
 https://www.youtube.com/watch?v=bGIIO3HuNyI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/DM_PEM8GrIg/hqdefault.jpg?v=672ac98d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB435EEzQ5se2PKBzeA1OyXdj1v4Q" group-title="youtube中文新聞直播",CTI+ | 中天2台
 https://www.youtube.com/watch?v=DM_PEM8GrIg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/R2ci13O5Mt0/hqdefault.jpg?v=190d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB2mznsD6h0QNnmar1yjI8K7xzv3g" group-title="youtube中文新聞直播",CTIASIA 中天亞洲台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/R2ci13O5Mt0/hqdefault.jpg?v=1924&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB2mznsD6h0QNnmar1yjI8K7xzv3g" group-title="youtube中文新聞直播",CTIASIA 中天亞洲台
 https://www.youtube.com/watch?v=R2ci13O5Mt0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/iEpJwprxDdk/hqdefault.jpg?v=67127c11&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAvALpRVia1zGWeUs7OfoZEuxpxew" group-title="youtube國外新聞",Bloomberg Television
 https://www.youtube.com/watch?v=iEpJwprxDdk
@@ -525,7 +517,7 @@ https://www.youtube.com/watch?v=59VF9WASKDU
 https://www.youtube.com/watch?v=6GIVET7Rb-0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg?v=67582ebf&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA_GsJVB7ruMGcWGn65BHhcM75Fbg" group-title="youtube國外新聞",Sky News
 https://www.youtube.com/watch?v=YDvsBbKfLPA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TBqgCHRnTy4/hqdefault.jpg?v=1aa6e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCpZZNqu3sioAQc0F9Sq3gazew60g" group-title="youtube國外新聞",ABC13 Houston
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TBqgCHRnTy4/hqdefault.jpg?v=1aa85&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCpZZNqu3sioAQc0F9Sq3gazew60g" group-title="youtube國外新聞",ABC13 Houston
 https://www.youtube.com/watch?v=TBqgCHRnTy4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Ap-UM1O9RBU/hqdefault.jpg?v=66753c94&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA9xmUI7a6ujg_zTJ6OrBFzAktFmQ" group-title="youtube國外新聞",FRANCE 24 English
 https://www.youtube.com/watch?v=Ap-UM1O9RBU
@@ -549,7 +541,7 @@ https://www.youtube.com/watch?v=eXZ4-qp16nI
 https://www.youtube.com/watch?v=gadjsB5BkK4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/cb12KmMMDJA/hqdefault.jpg?v=6519cc7c&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAxCv4bDb2sHGr9DwssweeIlCmoOQ" group-title="youtube國外新聞",Todo Noticias
 https://www.youtube.com/watch?v=cb12KmMMDJA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/I-qP4xS7vPg/hqdefault.jpg?v=b0a8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDZY9UIoKZ6q0zwyZs4i9u5AmIAdA" group-title="youtube國外新聞",CNBC Arabia TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/I-qP4xS7vPg/hqdefault.jpg?v=b0bf&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDZY9UIoKZ6q0zwyZs4i9u5AmIAdA" group-title="youtube國外新聞",CNBC Arabia TV
 https://www.youtube.com/watch?v=I-qP4xS7vPg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=65313fd5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDtBFVyzWZcZFiSA2Ao83ZPsE95sA" group-title="youtube國外新聞",India Today
 https://www.youtube.com/watch?v=sYZtOFzM78M
@@ -633,7 +625,7 @@ https://www.youtube.com/watch?v=YGEgelAiUf0
 https://www.youtube.com/watch?v=yNKvkPJl-tg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/i2pC0RRyGMg/hqdefault.jpg?v=6417f93d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDezeTHKdsY75BvOWW4fWdZvULucA" group-title="youtube國外新聞",TBS eFM 101.3MHz
 https://www.youtube.com/watch?v=i2pC0RRyGMg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/cu-0mGA8x50/hqdefault.jpg?v=b0c5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD4hbI_fjaBBVpf5b7A_f94ScK8XQ" group-title="youtube國外新聞",mtaOnline1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/cu-0mGA8x50/hqdefault.jpg?v=b0dc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD4hbI_fjaBBVpf5b7A_f94ScK8XQ" group-title="youtube國外新聞",mtaOnline1
 https://www.youtube.com/watch?v=cu-0mGA8x50
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/L42NP9a8paw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAcDbl4ZUZplYf5hG6yHKXK8wHpRQ" group-title="youtube國外新聞",POWERVISION TV
 https://www.youtube.com/watch?v=L42NP9a8paw
@@ -653,13 +645,13 @@ https://www.youtube.com/watch?v=TD0A7fHAxKw
 https://www.youtube.com/watch?v=DxmDPrfinXY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/e2gC37ILQmk/hqdefault.jpg?v=621a45db&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCGOo-0QGb2ORX1SZ26twxoISAAiw" group-title="youtube國外新聞",TVL Trzcianka
 https://www.youtube.com/watch?v=e2gC37ILQmk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HBDD3j5so0g/hqdefault.jpg?v=b0c3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCU-QFIApWlwGVaj1h7QfjUSmmU0Q" group-title="youtube國外新聞",BorderBuddy Customs Brokers
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HBDD3j5so0g/hqdefault.jpg?v=b0da&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCU-QFIApWlwGVaj1h7QfjUSmmU0Q" group-title="youtube國外新聞",BorderBuddy Customs Brokers
 https://www.youtube.com/watch?v=HBDD3j5so0g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/h1wly909BYw/hqdefault.jpg?v=60a56550&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDXaC8c6luwkJl0Cuxm84z8Vl4yvg" group-title="youtube國外新聞",Mobotix Webcams Russia
 https://www.youtube.com/watch?v=h1wly909BYw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault.jpg?v=665c1c99&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCTd84in6roakksvkG_ajDiqY3nfw" group-title="youtube國外新聞",CNA
 https://www.youtube.com/watch?v=XWq5kBlakcQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TEGnBvhnCj0/hqdefault.jpg?v=b9fa&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDwF8EbGnuHBhX6HsO3oQXTcFZZiw" group-title="youtube國外新聞",mtaOnline1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TEGnBvhnCj0/hqdefault.jpg?v=ba11&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDwF8EbGnuHBhX6HsO3oQXTcFZZiw" group-title="youtube國外新聞",mtaOnline1
 https://www.youtube.com/watch?v=TEGnBvhnCj0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/hxBTqmTT5gE/hqdefault.jpg?v=61a40d9d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDEsfi2Q6RlGK_LHJQvq3Ei9cJ9Ww" group-title="youtube國外新聞",YTN2 밀덕스
 https://www.youtube.com/watch?v=hxBTqmTT5gE
@@ -673,9 +665,9 @@ https://www.youtube.com/watch?v=nyd-xznCpJc
 https://www.youtube.com/watch?v=6LlZXt8nk4s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/-C6FE2m7kX8/hqdefault.jpg?v=660deabd&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD1fWtsW6sijjVsyBYrJNbqwiqUxQ" group-title="youtube國外新聞",メ〜テレニュース
 https://www.youtube.com/watch?v=-C6FE2m7kX8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/sPbVV3E737E/hqdefault.jpg?v=b0af&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCAqyLMJWs3WvoXjf1BLjWPbb_PWQ" group-title="youtube國外新聞",SenatoItaliano
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/sPbVV3E737E/hqdefault.jpg?v=b0c6&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCAqyLMJWs3WvoXjf1BLjWPbb_PWQ" group-title="youtube國外新聞",SenatoItaliano
 https://www.youtube.com/watch?v=sPbVV3E737E
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/RAWAJiDpWew/hqdefault.jpg?v=2fc5b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDyVqBGZlb_4ilh1XMyvMo9bguO-Q" group-title="youtube國外新聞",MTA Africa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/RAWAJiDpWew/hqdefault.jpg?v=2fc9c&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDyVqBGZlb_4ilh1XMyvMo9bguO-Q" group-title="youtube國外新聞",MTA Africa
 https://www.youtube.com/watch?v=RAWAJiDpWew
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/II_m28Bm-iM/hqdefault.jpg?v=61b62ddf&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCDaLHeKYM3tuCEFwpEPG8w2AgPqg" group-title="youtube國外新聞",TV9 Telugu Live
 https://www.youtube.com/watch?v=II_m28Bm-iM
@@ -691,9 +683,9 @@ https://www.youtube.com/watch?v=Z-Nwo-ypKtM
 https://www.youtube.com/watch?v=jdJoOhqCipA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/VRZDyw7V26o/hqdefault.jpg?v=62433aeb&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB4NChX7ODGTJYQecN4kU9LzZ00ww" group-title="youtube國外新聞",Bloomberg Quicktake: Explained
 https://www.youtube.com/watch?v=VRZDyw7V26o
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=b0c8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCZiTOEUlwbiiwTPDYG_9IjtmE05g" group-title="youtube國外新聞",africanews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=b0df&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCZiTOEUlwbiiwTPDYG_9IjtmE05g" group-title="youtube國外新聞",africanews
 https://www.youtube.com/watch?v=NQjabLGdP5g
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/b6R9-7KZ8YM/hqdefault.jpg?v=b1fa&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBwvyuZImIQsm6BOoQ5zstZI3udUA" group-title="youtube國外新聞",africanews (en français)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/b6R9-7KZ8YM/hqdefault.jpg?v=b211&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBwvyuZImIQsm6BOoQ5zstZI3udUA" group-title="youtube國外新聞",africanews (en français)
 https://www.youtube.com/watch?v=b6R9-7KZ8YM
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/dfB0qmJo1eM/hqdefault.jpg?v=65e06f68&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD_NAni-vFttOz103m44LQEBvo9NQ" group-title="youtube國外新聞",Channels Television
 https://www.youtube.com/watch?v=dfB0qmJo1eM
@@ -727,27 +719,27 @@ https://www.youtube.com/watch?v=gsViKzj7nuQ
 https://www.youtube.com/watch?v=1EiC9bvVGnk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/t0GrpAgdBFI/hqdefault.jpg?v=5f823dc7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCpnr4Ii9jilWuXcdyreDll0cPE3g" group-title="youtube街景直播",Information Zulu
 https://www.youtube.com/watch?v=t0GrpAgdBFI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/lsxYH2XQQCg/hqdefault.jpg?v=b081&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA5QzJdrTMSciDd1JNuVu17FQAmCQ" group-title="youtube街景直播",淡路ザル
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/lsxYH2XQQCg/hqdefault.jpg?v=b098&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA5QzJdrTMSciDd1JNuVu17FQAmCQ" group-title="youtube街景直播",淡路ザル
 https://www.youtube.com/watch?v=lsxYH2XQQCg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/36YnV9STBqc/hqdefault.jpg?v=5e7e9802&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBRMQ0CO1qWhn4JN3XCiBLNSYHTKg" group-title="youtube街景直播",The Good Life Radio x Sensual Musique
 https://www.youtube.com/watch?v=36YnV9STBqc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/50kkmEoTMcY/hqdefault.jpg?v=af97&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB6koytd_swlwqlY2CFAYnwY1E48w" group-title="youtube街景直播",Umbria Webcam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/50kkmEoTMcY/hqdefault.jpg?v=afae&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB6koytd_swlwqlY2CFAYnwY1E48w" group-title="youtube街景直播",Umbria Webcam
 https://www.youtube.com/watch?v=50kkmEoTMcY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/z_fY1pj1VBw/hqdefault.jpg?v=63b2fb07&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDwWwoIe54Kkj78NPBVhR5lh9Mk9g" group-title="youtube街景直播",Taipei Travel Live Cam  台北觀光即時影像 
 https://www.youtube.com/watch?v=z_fY1pj1VBw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rVyP35EHCzY/hqdefault.jpg?v=635aacb7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDIxSTRqD3n-tZPl0j2Hg3uBXKnAw" group-title="youtube街景直播",I Love You Venice
 https://www.youtube.com/watch?v=rVyP35EHCzY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/PfBPe5Jfzxo/hqdefault.jpg?v=f6fe&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBjHm-aH--A7AAOBd7VfQRzCIPhfw" group-title="youtube街景直播",Umbria Webcam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/PfBPe5Jfzxo/hqdefault.jpg?v=f743&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBjHm-aH--A7AAOBd7VfQRzCIPhfw" group-title="youtube街景直播",Umbria Webcam
 https://www.youtube.com/watch?v=PfBPe5Jfzxo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xsRDTfuksyI/hqdefault.jpg?v=10f64&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCS5viZxierla9SDwJTPLdjZ43a4Q" group-title="youtube街景直播",DELTATECH Calgary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xsRDTfuksyI/hqdefault.jpg?v=10fa9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCS5viZxierla9SDwJTPLdjZ43a4Q" group-title="youtube街景直播",DELTATECH Calgary
 https://www.youtube.com/watch?v=xsRDTfuksyI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/K_Vg94nBiaY/hqdefault.jpg?v=63235f23&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCoW4VDt67Ixq7AEawrQiaYpwnsyA" group-title="youtube街景直播",I Love You Venice
 https://www.youtube.com/watch?v=K_Vg94nBiaY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/yA4aFD0AjDs/hqdefault.jpg?v=b8dd&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDvHak14ztDpxcC2tQLCmUTbXW_gw" group-title="youtube街景直播",Joensuu live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/yA4aFD0AjDs/hqdefault.jpg?v=b8f4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDvHak14ztDpxcC2tQLCmUTbXW_gw" group-title="youtube街景直播",Joensuu live
 https://www.youtube.com/watch?v=yA4aFD0AjDs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/dY2cRNr5Buw/hqdefault.jpg?v=669a1a21&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDjAdbus2KCuz1PsNK68ndY5i4nbg" group-title="youtube街景直播",阿里山國家風景區管理處
 https://www.youtube.com/watch?v=dY2cRNr5Buw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/4qyZLflp-sI/hqdefault.jpg?v=c082&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAjYo5FJwxJyJMWWw3Vff9opWZICA" group-title="youtube街景直播",AE Signage
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/4qyZLflp-sI/hqdefault.jpg?v=c099&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAjYo5FJwxJyJMWWw3Vff9opWZICA" group-title="youtube街景直播",AE Signage
 https://www.youtube.com/watch?v=4qyZLflp-sI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QpqsJKI0Wfk/hqdefault.jpg?v=60b787dc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAmaAoYzza3BrkTu5TuU4EdHISAHQ" group-title="youtube街景直播",Paesaggi Digitali
 https://www.youtube.com/watch?v=QpqsJKI0Wfk
@@ -757,7 +749,7 @@ https://www.youtube.com/watch?v=UCG1aXVO8H8
 https://www.youtube.com/watch?v=G05wmWFDtSo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ph1vpnYIxJk/hqdefault.jpg?v=632b2a3e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBYzZr_5m1QLBc95O1Ya9iQ9ZQ9HQ" group-title="youtube街景直播",I Love You Venice
 https://www.youtube.com/watch?v=ph1vpnYIxJk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/CvOB-Is_yYU/hqdefault.jpg?v=b545&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB1H0NdcxoGF_0FDHDtvM_73M04Og" group-title="youtube街景直播",Port of Helsinki
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/CvOB-Is_yYU/hqdefault.jpg?v=b55c&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB1H0NdcxoGF_0FDHDtvM_73M04Og" group-title="youtube街景直播",Port of Helsinki
 https://www.youtube.com/watch?v=CvOB-Is_yYU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/JqUREqYduHw/hqdefault.jpg?v=6324a18a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDNVnoC6Nvm8Diy8cXcChMvEx42aw" group-title="youtube街景直播",I Love You Venice
 https://www.youtube.com/watch?v=JqUREqYduHw
@@ -765,7 +757,7 @@ https://www.youtube.com/watch?v=JqUREqYduHw
 https://www.youtube.com/watch?v=mhJRzQsLZGg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/C03Itx8iSC0/hqdefault.jpg?v=626b9789&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBfPloDDZfiKSJ7WUW-fuJVztvgBw" group-title="youtube街景直播",高雄旅遊網
 https://www.youtube.com/watch?v=C03Itx8iSC0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Xn7YQxxC5R0/hqdefault.jpg?v=b0c3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD3C3UtVODjuXG9CZE5NmkozH4v6Q" group-title="youtube街景直播",KawazuLiveCam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Xn7YQxxC5R0/hqdefault.jpg?v=b0da&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD3C3UtVODjuXG9CZE5NmkozH4v6Q" group-title="youtube街景直播",KawazuLiveCam
 https://www.youtube.com/watch?v=Xn7YQxxC5R0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/DjdUEyjx8GM/hqdefault.jpg?v=623c3fdf&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC5iDfoaKNcr5gammdh_IH5qLTU_A" group-title="youtube街景直播",歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』
 https://www.youtube.com/watch?v=DjdUEyjx8GM
@@ -785,7 +777,7 @@ https://www.youtube.com/watch?v=wTHhv7M0vCI
 https://www.youtube.com/watch?v=j2L_559nCjc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gFRtAAmiFbE/hqdefault.jpg?v=62d7b69d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB7kDuOHDLER9zG0ugtO6jujUsQJg" group-title="youtube街景直播",歌舞伎町 ライブ ちゃんねる 2『 Kabukicho Live Channel II 』
 https://www.youtube.com/watch?v=gFRtAAmiFbE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/czV_hXEMk8M/hqdefault.jpg?v=ac03&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDmGiePvENlnCG5ytxw6uHfRnPbFA" group-title="youtube街景直播",neoguru
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/czV_hXEMk8M/hqdefault.jpg?v=ac1a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDmGiePvENlnCG5ytxw6uHfRnPbFA" group-title="youtube街景直播",neoguru
 https://www.youtube.com/watch?v=czV_hXEMk8M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/tD_a03trUvE/hqdefault.jpg?v=60ebf229&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAGDETdx21bY3o47OBo8j5vIBauZw" group-title="youtube街景直播",遊桃園 Taoyuan Travel
 https://www.youtube.com/watch?v=tD_a03trUvE
@@ -795,9 +787,9 @@ https://www.youtube.com/watch?v=q3KJt-SZc2s
 https://www.youtube.com/watch?v=cH7VBI4QQzA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/7nvCVS2TRRk/hqdefault.jpg?v=60a481c7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBSnsdJ_Ww-oq0calcyU_pZEMM2MA" group-title="youtube街景直播",Cal Falcons
 https://www.youtube.com/watch?v=7nvCVS2TRRk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/l_8DrACHpwY/hqdefault.jpg?v=b207&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDHV-KR7sD1RlgBSQ2P9lpX7X0vSw" group-title="youtube街景直播",Melbourne Luxury Accommodation
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/l_8DrACHpwY/hqdefault.jpg?v=b21e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDHV-KR7sD1RlgBSQ2P9lpX7X0vSw" group-title="youtube街景直播",Melbourne Luxury Accommodation
 https://www.youtube.com/watch?v=l_8DrACHpwY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/IQms8zArI7w/hqdefault.jpg?v=b0b3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBVM334PsYnekz5cGyTyHf8gBv7bA" group-title="youtube街景直播",TeNY新潟一番ニュース
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/IQms8zArI7w/hqdefault.jpg?v=b0ca&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBVM334PsYnekz5cGyTyHf8gBv7bA" group-title="youtube街景直播",TeNY新潟一番ニュース
 https://www.youtube.com/watch?v=IQms8zArI7w
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/if91GyWP3zQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCIBhqOV_3UMGCCF6kFgcx0Mk1LVw" group-title="youtube街景直播",FourSeasons BuenosAires
 https://www.youtube.com/watch?v=if91GyWP3zQ
@@ -809,13 +801,13 @@ https://www.youtube.com/watch?v=Ndo_8RuefH4
 https://www.youtube.com/watch?v=fP4ecxfsJos
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/DsNtwGJXTTs/hqdefault.jpg?v=63e3bad2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAOEaYCmVK86sAJaY58NkQv6mJraw" group-title="youtube街景直播",Explore Africa
 https://www.youtube.com/watch?v=DsNtwGJXTTs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/IZhDwv4dz0g/hqdefault.jpg?v=77c9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCB8OizegG1zt2SQuQBOki3dlIKwA" group-title="youtube街景直播",Greenland Airports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/IZhDwv4dz0g/hqdefault.jpg?v=77e0&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCB8OizegG1zt2SQuQBOki3dlIKwA" group-title="youtube街景直播",Greenland Airports
 https://www.youtube.com/watch?v=IZhDwv4dz0g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gpSR9c0p6lI/hqdefault.jpg?v=639ff3b6&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDZDt1OHD_bryRnRjrcrTG1mVCXyw" group-title="youtube街景直播",LIVE Trains
 https://www.youtube.com/watch?v=gpSR9c0p6lI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/dXIyMS61B68/hqdefault.jpg?v=628fe7c3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBndyrXs_kmRxcd1GTFpQx_b265EA" group-title="youtube街景直播",Tim Janis
 https://www.youtube.com/watch?v=dXIyMS61B68
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ByED80IKdIU/hqdefault.jpg?v=11d10&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDwpi29fNZByzzk51Di1cYX3oCqBw" group-title="youtube街景直播",City of Coldwater MI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ByED80IKdIU/hqdefault.jpg?v=11d27&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDwpi29fNZByzzk51Di1cYX3oCqBw" group-title="youtube街景直播",City of Coldwater MI
 https://www.youtube.com/watch?v=ByED80IKdIU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/qpk2F4gI0Ys/hqdefault.jpg?v=62287ec9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCqyoyR6ENENbSe-b6AOYTV3Jkexg" group-title="youtube街景直播",Love YourSelf
 https://www.youtube.com/watch?v=qpk2F4gI0Ys
@@ -823,19 +815,19 @@ https://www.youtube.com/watch?v=qpk2F4gI0Ys
 https://www.youtube.com/watch?v=g_L1Ay8P244
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/cOmmvhDQ2HM/hqdefault.jpg?v=654ff068&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCwsbSEbY7xnig_VPPgI_WpnCddDQ" group-title="youtube街景直播",NASASpaceflight
 https://www.youtube.com/watch?v=cOmmvhDQ2HM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1phWWCgzXgM/hqdefault.jpg?v=264d0&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBYDokHcAFjT2rcDiCMJhS5EjLkNw" group-title="youtube街景直播",Bouwwebcam - live stream & timelapse video
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1phWWCgzXgM/hqdefault.jpg?v=26515&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBYDokHcAFjT2rcDiCMJhS5EjLkNw" group-title="youtube街景直播",Bouwwebcam - live stream & timelapse video
 https://www.youtube.com/watch?v=1phWWCgzXgM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ymaZB3c3DT4/hqdefault.jpg?v=c067&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDncp4OWY6lqYcJVAahrX4p2o8ENg" group-title="youtube街景直播",Salt Lake Sunset
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ymaZB3c3DT4/hqdefault.jpg?v=c07e&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDncp4OWY6lqYcJVAahrX4p2o8ENg" group-title="youtube街景直播",Salt Lake Sunset
 https://www.youtube.com/watch?v=ymaZB3c3DT4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/IVmL3diwJuw/hqdefault.jpg?v=63dd1c56&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB5qX7oXV6YEmUNV501N_xxuXiRrg" group-title="youtube街景直播",Explore Birds Bats Bees
 https://www.youtube.com/watch?v=IVmL3diwJuw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/V8bAmLhlHQ4/hqdefault.jpg?v=b17d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCGqFvYismoOMz0sQLIQLm8KHsOZg" group-title="youtube街景直播",Scenari Digitali
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/V8bAmLhlHQ4/hqdefault.jpg?v=b194&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCGqFvYismoOMz0sQLIQLm8KHsOZg" group-title="youtube街景直播",Scenari Digitali
 https://www.youtube.com/watch?v=V8bAmLhlHQ4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/qwjt-gnItvg/hqdefault.jpg?v=b73b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCN11OVoewXvlOEvTahqKW8NdNO-Q" group-title="youtube街景直播",Alpengasthof Tannenalm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/qwjt-gnItvg/hqdefault.jpg?v=b752&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCN11OVoewXvlOEvTahqKW8NdNO-Q" group-title="youtube街景直播",Alpengasthof Tannenalm
 https://www.youtube.com/watch?v=qwjt-gnItvg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/vQP8AwAFzI8/hqdefault.jpg?v=66fa58a4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBvdUNDdKxKBnTrCrxpLRsytxUcmA" group-title="youtube街景直播",Z. Heaton - Scenic Relaxation
 https://www.youtube.com/watch?v=vQP8AwAFzI8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/MwcqP3ta6RI/hqdefault.jpg?v=b200&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAlgb4AVJDKITpvgt-yQx_SsnYCAQ" group-title="youtube街景直播",DELTATECH Calgary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/MwcqP3ta6RI/hqdefault.jpg?v=b217&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAlgb4AVJDKITpvgt-yQx_SsnYCAQ" group-title="youtube街景直播",DELTATECH Calgary
 https://www.youtube.com/watch?v=MwcqP3ta6RI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1cQoYBb0Xow/hqdefault.jpg?v=6448d0bc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC4aBEOqur9B0SaQAMKsGVV7yq9Xw" group-title="youtube街景直播",Z. Heaton - Scenic Relaxation
 https://www.youtube.com/watch?v=1cQoYBb0Xow
@@ -875,17 +867,17 @@ https://www.youtube.com/watch?v=xRPjKQtRXR8
 https://www.youtube.com/watch?v=OCem0E-0Q6Y
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wG4YaEcNlb0/hqdefault.jpg?v=673b49ac&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA_TQuKCkAprzaQGzNAIQxH2ME8Bw" group-title="youtube街景直播",NASA
 https://www.youtube.com/watch?v=wG4YaEcNlb0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_pZQ1Lk0xMA/hqdefault.jpg?v=b0e8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDFrqOK1gaW6OyCBF2VemxlH3Lkqw" group-title="youtube廣告直播",momo購物一台 CH48
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_pZQ1Lk0xMA/hqdefault.jpg?v=b0ff&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDFrqOK1gaW6OyCBF2VemxlH3Lkqw" group-title="youtube廣告直播",momo購物一台 CH48
 https://www.youtube.com/watch?v=_pZQ1Lk0xMA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xbNWkUyxQGM/hqdefault.jpg?v=b9e5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCYCeshqmzJVaYp8bb37oB5A1MvCw" group-title="youtube廣告直播",momo購物二台 CH35
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xbNWkUyxQGM/hqdefault.jpg?v=b9fc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCYCeshqmzJVaYp8bb37oB5A1MvCw" group-title="youtube廣告直播",momo購物二台 CH35
 https://www.youtube.com/watch?v=xbNWkUyxQGM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ViJ3XiN6Q3M/hqdefault.jpg?v=b9e3&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCVQ6pok2udMR6Mkk0CGVcCwhM_Qw" group-title="youtube廣告直播",Live東森購物台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ViJ3XiN6Q3M/hqdefault.jpg?v=b9fa&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCVQ6pok2udMR6Mkk0CGVcCwhM_Qw" group-title="youtube廣告直播",Live東森購物台
 https://www.youtube.com/watch?v=ViJ3XiN6Q3M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Z50JFuNgvB0/hqdefault.jpg?v=22bbe&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAtNU6_vdtzK-d3prLwfVxE9pQ77w" group-title="youtube廣告直播",Live東森購物台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Z50JFuNgvB0/hqdefault.jpg?v=22bd5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAtNU6_vdtzK-d3prLwfVxE9pQ77w" group-title="youtube廣告直播",Live東森購物台
 https://www.youtube.com/watch?v=Z50JFuNgvB0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/u0NYyH3ZesE/hqdefault.jpg?v=137c4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDDWtOp2-R3pwZ4odLqnHfOXpzB6g" group-title="youtube廣告直播",Live東森購物台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/u0NYyH3ZesE/hqdefault.jpg?v=137db&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDDWtOp2-R3pwZ4odLqnHfOXpzB6g" group-title="youtube廣告直播",Live東森購物台
 https://www.youtube.com/watch?v=u0NYyH3ZesE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_Vlzn9qAHD4/hqdefault.jpg?v=162df&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDeZ3pfMgYIWcGLigEvLmDxQ1hw0Q" group-title="youtube廣告直播",Live東森購物台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_Vlzn9qAHD4/hqdefault.jpg?v=16351&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDeZ3pfMgYIWcGLigEvLmDxQ1hw0Q" group-title="youtube廣告直播",Live東森購物台
 https://www.youtube.com/watch?v=_Vlzn9qAHD4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/1ph8qQnjXts/hqdefault.jpg?v=665e371d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCZkx_RulL_YClW3Bt9b8NBuy4FcA" group-title="youtube廣告直播",HSNtv
 https://www.youtube.com/watch?v=1ph8qQnjXts
@@ -897,7 +889,7 @@ https://www.youtube.com/watch?v=Qt2c93O1p_c
 https://www.youtube.com/watch?v=_v_wMS-uACE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/q-BvtDrTnxc/hqdefault.jpg?v=665e3596&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAW66IdEHYGRVNjO-lHiZzp1OGPZw" group-title="youtube廣告直播",HSNtv
 https://www.youtube.com/watch?v=q-BvtDrTnxc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/0Vz3bK6K0f4/hqdefault.jpg?v=b9b8&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCo53Axf_YqBIZfGKXsCzDZ7wKZ7g" group-title="youtube廣告直播",CHANNEL21online
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/0Vz3bK6K0f4/hqdefault.jpg?v=b9cf&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCo53Axf_YqBIZfGKXsCzDZ7wKZ7g" group-title="youtube廣告直播",CHANNEL21online
 https://www.youtube.com/watch?v=0Vz3bK6K0f4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Ef_TLglnoeo/hqdefault.jpg?v=66f0d70d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCQx0P1HlC15oHPDmBvRtecaP2nEw" group-title="youtube廣告直播",11點熱吵店
 https://www.youtube.com/watch?v=Ef_TLglnoeo
@@ -909,7 +901,7 @@ https://www.youtube.com/watch?v=uNd5kvrGHjk
 https://www.youtube.com/watch?v=3szkFHfr6sA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Owke6Quk7T0/hqdefault.jpg?v=633c35cc&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB_vNJZo1HQSQHKwJ8bwT_6YVpNwg" group-title="youtube臨時直播",台灣地震監視
 https://www.youtube.com/watch?v=Owke6Quk7T0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/R7vrbiDi0Tc/hqdefault.jpg?v=1585f&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB3Xum51vJ9vN7iO4Y_ULgPjbYDxw" group-title="youtube臨時直播",Kitten Academy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/R7vrbiDi0Tc/hqdefault.jpg?v=158d2&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB3Xum51vJ9vN7iO4Y_ULgPjbYDxw" group-title="youtube臨時直播",Kitten Academy
 https://www.youtube.com/watch?v=R7vrbiDi0Tc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/vQP8AwAFzI8/hqdefault.jpg?v=66fa58a4&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBvdUNDdKxKBnTrCrxpLRsytxUcmA" group-title="youtube臨時直播",Z. Heaton - Scenic Relaxation
 https://www.youtube.com/watch?v=vQP8AwAFzI8
