@@ -1,5 +1,7 @@
 <?php
-
+ini_set("max_execution_time", "333333000000");
+ini_set('date.timezone','Asia/Shanghai');
+$fp="ip.txt";//压缩版本的扩展名后加.gz
 // 设置起始和结束 IP
 $start_ip = '182.20.0.0';
 $end_ip = '182.20.255.255';
