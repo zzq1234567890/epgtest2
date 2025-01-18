@@ -3,9 +3,9 @@ ini_set("max_execution_time", "333333000000");
 ini_set('date.timezone','Asia/Shanghai');
 $fp="ip.txt";//压缩版本的扩展名后加.gz
 // 设置起始和结束 IP
-$start_ip = '182.20.0.0';
-$end_ip = '182.20.255.255';
-$port = 88; // 要检查的端口
+$start_ip = '118.170.0.0';
+$end_ip = '118.170.255.255';
+$port = 2390; // 要检查的端口
 $chn="\n";
 // 将起始和结束 IP 转换为整数
 function ipToInt($ip) {
