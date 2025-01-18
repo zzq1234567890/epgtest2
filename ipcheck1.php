@@ -8,7 +8,7 @@ $fp="ip1.txt";//压缩版本的扩展名后加.gz
 $start_ip = ip2long("182.170.0.0");
 $end_ip = ip2long("182.170.255.255");
 $port = 2390;
-$chn="\n";
+//$chn="\n";
 // 初始化 cURL 多任务句柄
 $multiHandle = curl_multi_init();
 $curlHandles = [];
@@ -42,7 +42,8 @@ foreach ($curlHandles as $ipStr => $ch) {
         echo "无法连接到 $ipStr:$port\n";
     } else {
        // echo "成功连接到 $ipStr:$port\n";
-        $chn.="$ipStr\n";
+        $chn="$ipStr\n";
+        file_put_contents($fp, $chn);
     }
     // 移除每个 cURL 句柄
     curl_multi_remove_handle($multiHandle, $ch);
@@ -51,6 +52,6 @@ foreach ($curlHandles as $ipStr => $ch) {
 
 // 关闭 cURL 多任务句柄
 curl_multi_close($multiHandle);
-file_put_contents($fp, $chn);
+
 
 ?>
