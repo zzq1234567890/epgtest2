@@ -15,11 +15,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # 第二步：设置 PHP 7.4 环境
-      - name: Set up PHP 7.4
+      # 第二步：设置 PHP 8.1 环境
+      - name: Set up PHP 8.1
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '7.4'
+          php-version: '8.1'
 
       # 第三步：运行 ipcheck1.php，生成 ip1.txt
       - name: Run ipcheck1.php
