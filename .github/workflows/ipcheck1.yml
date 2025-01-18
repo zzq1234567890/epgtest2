@@ -49,7 +49,7 @@ jobs:
             exit 1
           fi
           # 对比文件差异
-          diff epgtest2/ip1.txt ip.txt || echo "File is modified"
+          diff epgtest2/ip1.txt ip1.txt || echo "File is modified"
 
       # 第七步：将 ip1.txt 覆盖上传到 epgtest2
       - name: Replace ip1.txt and push
