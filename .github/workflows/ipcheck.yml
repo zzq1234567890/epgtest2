@@ -8,21 +8,24 @@ on:
 
 jobs:
   generate_and_upload:
-    runs-on: ubuntu-latest  # 使用 Ubuntu 环境运行
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up PHP with ZTS support
-        uses: shivammathur/setup-php@v2
-        with:
-          php-version: '8.1-zts'  # 使用 PHP 8.1 ZTS
+      - name: Add Ondrej PHP PPA
+        run: |
+          sudo add-apt-repository ppa:ondrej/php -y
+          sudo apt update
 
-      # 安装必要的 PHP 扩展
+      - name: Install PHP 8.1 ZTS and required dependencies
+        run: |
+          sudo apt install -y php8.1-zts php8.1-dev
+          sudo apt install -y php-pear
+
       - name: Install parallel extension
         run: |
-          sudo apt install php8.1-zts php8.1-dev
           sudo pecl install parallel
 
       # 运行你的 PHP 脚本
