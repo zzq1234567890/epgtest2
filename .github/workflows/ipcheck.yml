@@ -21,7 +21,7 @@ jobs:
         with:
           php-version: '8.1'
 
-      # 第三步：运行 ipcheck.php，生成 ip1.txt
+      # 第三步：运行 ipcheck.php，生成 ip.txt
       - name: Run ipcheck.php
         run: |
           php ipcheck.php  # 运行生成 ip.txt 的 PHP 脚本
