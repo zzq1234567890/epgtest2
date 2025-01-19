@@ -1,9 +1,13 @@
 <?php
 ini_set("max_execution_time", "333333000000");
 ini_set('date.timezone','Asia/Shanghai');
+header( 'Content-Type: text/plain; charset=UTF-8');
+
+
+
 $fp="ip1.txt";//压缩版本的扩展名后加.gz
 // 设置起始和结束 IP
-
+$chn="\n";
 // 设置目标 IP 范围
 $start_ip = ip2long("118.170.0.0");
 $end_ip = ip2long("118.170.255.255");
@@ -42,7 +46,7 @@ foreach ($curlHandles as $ipStr => $ch) {
         echo "无法连接到 $ipStr:$port\n";
     } else {
        // echo "成功连接到 $ipStr:$port\n";
-        $chn="$ipStr\n";
+        $chn.="$ipStr\n";
         exit;
     }
     // 移除每个 cURL 句柄
