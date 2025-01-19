@@ -8,30 +8,23 @@ on:
 
 jobs:
   generate_and_upload:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # 使用 Ubuntu 环境运行
 
     steps:
+      # 第一步：检出代码
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Add Ondrej PHP PPA
-        run: |
-          sudo add-apt-repository ppa:ondrej/php -y
-          sudo apt update
+      # 第二步：设置 PHP 8.1 环境
+      - name: Set up PHP 8.1
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
 
-      - name: Install PHP 8.2 ZTS and required dependencies
-        run: |
-          sudo apt install -y php8.2-zts php8.2-dev php-pear
-
-      - name: Install parallel extension
-        run: |
-          sudo pecl install parallel
-
+      # 第三步：运行 ipcheck.php，生成 ip1.txt
       - name: Run ipcheck.php
         run: |
-          php ipcheck.php  # 运行 PHP 脚本
-
-     
+          php ipcheck.php  # 运行生成 ip.txt 的 PHP 脚本
 
       # 第四步：上传文件到 epgtest2 仓库
       - name: Upload ip.txt to epgtest2
@@ -48,7 +41,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: epgtest2  # 克隆到本地的路径
 
-      # 第六步：检查 ip.txt 是否存在并被修改
+      # 第六步：检查 ip1.txt 是否存在并被修改
       - name: Check if ip.txt exists and is modified
         run: |
           if [ ! -f ip.txt ]; then
@@ -58,10 +51,10 @@ jobs:
           # 对比文件差异
           diff epgtest2/ip.txt ip.txt || echo "File is modified"
 
-      # 第七步：将 ip.txt 覆盖上传到 epgtest2
+      # 第七步：将 ip1.txt 覆盖上传到 epgtest2
       - name: Replace ip.txt and push
         run: |
-         mv ip.txt epgtest2/ip.txt  # 覆盖目标文件
+         mv ip1.txt epgtest2/ip.txt  # 覆盖目标文件
          cd epgtest2
          git config --local user.name "github-actions[bot]"
          git config --local user.email "github-actions[bot]@users.noreply.github.com"
