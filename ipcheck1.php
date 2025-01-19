@@ -40,15 +40,21 @@ function logIP($ip) {
     fclose($file);
 }
 
+// 确保文件存在
+if (!file_exists('ip1.txt')) {
+    file_put_contents('ip1.txt', "");  // 创建空文件
+}
+
 // 主函数
 $ips = ipRange($start_ip, $end_ip);
 
 // 使用并行执行
 $command = '';
 foreach ($ips as $ip) {
+    // 拼接命令：并行执行PHP脚本
     $command .= 'echo "' . $ip . '" | xargs -P ' . $max_threads . ' -I {} php -r "if (file_exists(\'ipcheck1.php\')) { include \'ipcheck1.php\'; }" & ';
 }
 
+// 执行并行任务
 shell_exec($command);
-
 ?>
