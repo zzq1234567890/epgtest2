@@ -1,47 +1,55 @@
 <?php
 ini_set("max_execution_time", "333333000000");
 ini_set('date.timezone','Asia/Shanghai');
-$fp="ip.txt";//压缩版本的扩展名后加.gz
-// 设置起始和结束 IP
-$start_ip = '118.170.0.0';
-$end_ip = '118.170.255.255';
-$port = 2390; // 要检查的端口
-$chn="\n";
-// 将起始和结束 IP 转换为整数
-function ipToInt($ip) {
-    $parts = explode('.', $ip);
-    return ($parts[0] * 16777216) + ($parts[1] * 65536) + ($parts[2] * 256) + $parts[3];
-}
 
-// 将整数转换为 IP
-function intToIp($int) {
-    return long2ip($int);
-}
+// 生成 IP 地址范围
+$startIP = "118.170.0.0";
+$endIP = "118.170.255.255";
+$port = 2390;
+$outputFile = "ip.txt";
 
-// 检查端口是否通
-function isPortOpen($ip, $port) {
+// 获取 IP 范围
+$ips = getIPRange($startIP, $endIP);
+
+// 创建线程池
+$runtime = new \parallel\Runtime();
+
+// 定义用于 ping 测试的回调函数
+$pingTask = function($ip, $port) {
     $connection = @fsockopen($ip, $port, $errno, $errstr, 1); // 1秒超时
     if (is_resource($connection)) {
         fclose($connection);
-        return true;
-    } else {
-        return false;
+        return $ip;
+    }
+    return null;
+};
+
+// 用于收集结果的数组
+$results = [];
+
+// 启动并发任务进行 ping 测试
+foreach ($ips as $ip) {
+    $future = $runtime->run($pingTask, [$ip, $port]);
+    $result = $future->value();
+    if ($result) {
+        $results[] = $result; // 记录连接成功的 IP
     }
 }
 
-// 获取起始和结束 IP 的整数表示
-$start_int = ipToInt($start_ip);
-$end_int = ipToInt($end_ip);
+// 将结果写入 ip.txt 文件
+file_put_contents($outputFile, implode("\n", $results) . "\n");
 
-// 遍历 IP 范围并检查端口
-for ($i = $start_int; $i <= $end_int; $i++) {
-    $ip = intToIp($i);
-    if (isPortOpen($ip, $port)) {
-        $chn.="$ip\n";        
-   
-    } else {
-        echo "$ip:$port is not reachable\n";
+echo "测试完成，结果已写入 '$outputFile' 文件。\n";
+
+// 获取 IP 范围
+function getIPRange($startIP, $endIP) {
+    $start = ip2long($startIP);
+    $end = ip2long($endIP);
+    $ips = [];
+    for ($i = $start; $i <= $end; $i++) {
+        $ips[] = long2ip($i);
     }
+    return $ips;
 }
-file_put_contents($fp, $chn);
 ?>
+
