@@ -47,7 +47,7 @@ foreach ($curlHandles as $ipStr => $ch) {
     } else {
        // echo "成功连接到 $ipStr:$port\n";
         $chn.="$ipStr\n";
-        exit;
+        
     }
     // 移除每个 cURL 句柄
     curl_multi_remove_handle($multiHandle, $ch);
