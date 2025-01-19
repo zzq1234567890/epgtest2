@@ -11,23 +11,24 @@ jobs:
     runs-on: ubuntu-latest  # 使用 Ubuntu 环境运行
 
     steps:
-      # 第一步：检出代码
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # 第二步：设置 PHP 8.1 环境
-      - name: Set up PHP 8.1
+      - name: Set up PHP with ZTS support
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.1'
-          
-      # 第三步：运行 ipcheck1.php，生成 ip1.txt
-      - name: Run ipcheck.php
+          php-version: '8.1-zts'  # 使用 PHP 8.1 ZTS
+
+      # 安装必要的 PHP 扩展
+      - name: Install parallel extension
         run: |
-           sudo apt install php-pear  #你需要安装 parallel 扩展
-           sudo apt install php-dev
-           sudo pecl install parallel
-           php ipcheck.php  # 运行生成 ip1.txt 的 PHP 脚本
+          sudo apt install php8.1-zts php8.1-dev
+          sudo pecl install parallel
+
+      # 运行你的 PHP 脚本
+      - name: Run ipcheck1.php
+        run: |
+          php ipcheck1.php  # 运行 PHP 脚本
 
       # 第四步：上传文件到 epgtest2 仓库
       - name: Upload ip1.txt to epgtest2
