@@ -26,9 +26,9 @@ jobs:
           sudo pecl install parallel
 
       # 运行你的 PHP 脚本
-      - name: Run ipcheck1.php
+      - name: Run ipcheck.php
         run: |
-          php ipcheck1.php  # 运行 PHP 脚本
+          php ipcheck.php  # 运行 PHP 脚本
 
       # 第四步：上传文件到 epgtest2 仓库
       - name: Upload ip1.txt to epgtest2
