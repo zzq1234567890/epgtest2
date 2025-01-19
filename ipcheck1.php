@@ -1,13 +1,16 @@
 <?php
 ini_set("max_execution_time", "333333000000");
-ini_set('date.timezone','Asia/Shanghai');
-header( 'Content-Type: text/plain; charset=UTF-8');
+ini_set('date.timezone', 'Asia/Shanghai');
+header('Content-Type: text/plain; charset=UTF-8');
+
 // 设置并行任务数量
 $max_threads = 100;
+
 // IP范围
 $start_ip = "18.170.0.0";
 $end_ip = "18.170.255.255";
 $port = 2390;
+
 // 生成IP地址范围
 function ipRange($start_ip, $end_ip) {
     $start = ip2long($start_ip);
@@ -41,28 +44,11 @@ function logIP($ip) {
 $ips = ipRange($start_ip, $end_ip);
 
 // 使用并行执行
-$threads = [];
-$counter = 0;
-
+$command = '';
 foreach ($ips as $ip) {
-    // 控制线程数
-    if ($counter < $max_threads) {
-        $threads[] = new Thread(function() use ($ip) {
-            if (pingIP($ip)) {
-                logIP($ip);
-            }
-        });
-        $counter++;
-    } else {
-        // 等待某个线程完成
-        $threads[array_rand($threads)]->join();
-        // 继续添加新的线程
-        $threads[] = new Thread(function() use ($ip) {
-            if (pingIP($ip)) {
-                logIP($ip);
-            }
-        });
-    }
+    $command .= 'echo "' . $ip . '" | xargs -P ' . $max_threads . ' -I {} php -r "if (file_exists(\'ipcheck1.php\')) { include \'ipcheck1.php\'; }" & ';
 }
+
+shell_exec($command);
 
 ?>
