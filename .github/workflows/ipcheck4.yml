@@ -1,0 +1,76 @@
+
+name: ipcheck4
+
+# 每小时执行一次
+on:
+  schedule:
+    - cron: '1 */8 * * *'  # 每小时执行一次
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  generate_and_upload:
+    runs-on: ubuntu-latest  # 使用 Ubuntu 环境运行
+
+    steps:
+      # 第一步：检出代码
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 第二步：设置 PHP 8.1 环境
+      - name: Set up PHP 8.1
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
+
+      # 第三步：运行 ipcheck1.php，生成 ip1.txt
+      - name: Run ipcheck4.php
+        run: |
+          php ipcheck4.php  # 运行生成 ip1.txt 的 PHP 脚本
+
+      # 第四步：上传文件到 epgtest2 仓库
+      - name: Upload ip4.txt to epgtest2
+        uses: actions/upload-artifact@v4
+        with:
+          name: ip4.txt
+          path: ip4.txt
+
+      # 第五步：下载到目标仓库并覆盖文件
+      - name: Checkout epgtest2 repository
+        uses: actions/checkout@v4
+        with:
+          repository: zzq1234567890/epgtest2  # 目标仓库
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: epgtest2  # 克隆到本地的路径
+
+      # 第六步：检查 ip1.txt 是否存在并被修改
+      - name: Check if ip4.txt exists and is modified
+        run: |
+          if [ ! -f ip4.txt ]; then
+            echo "ip1.txt does not exist."
+            exit 1
+          fi
+          # 对比文件差异
+          diff epgtest2/ip4.txt ip1.txt || echo "File is modified"
+
+      # 第七步：将 ip1.txt 覆盖上传到 epgtest2
+      - name: Replace ip4.txt and push
+        run: |
+         
+
+         # Move the file
+          mv ip1.txt epgtest2/ip4.txt  # 覆盖目标文件
+          cd epgtest2
+
+         # Configure Git
+         git config --local user.name "github-actions[bot]"
+         git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+         # Add the file
+          git add ip4.txt
+
+         # Commit, allowing empty commits if there are no changes
+          now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+          git commit -m "更新时间：$now_time" --allow-empty
+
+         # Push the changes
+          git push origin main || echo "推送到GitHub失败"
