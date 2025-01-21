@@ -22,10 +22,10 @@ jobs:
         with:
           php-version: '8.1'
 
-      # 第三步：运行 ipcheck1.php，生成 ip1.txt
+      # 第三步：运行 ipcheck1.php，生成 ip4.txt
       - name: Run ipcheck4.php
         run: |
-          php ipcheck4.php  # 运行生成 ip1.txt 的 PHP 脚本
+          php ipcheck4.php  # 运行生成 ip4.txt 的 PHP 脚本
 
       # 第四步：上传文件到 epgtest2 仓库
       - name: Upload ip4.txt to epgtest2
@@ -42,7 +42,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: epgtest2  # 克隆到本地的路径
 
-      # 第六步：检查 ip1.txt 是否存在并被修改
+      # 第六步：检查 ip4.txt 是否存在并被修改
       - name: Check if ip4.txt exists and is modified
         run: |
           if [ ! -f ip4.txt ]; then
