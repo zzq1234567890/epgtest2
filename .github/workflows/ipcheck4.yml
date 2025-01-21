@@ -46,19 +46,19 @@ jobs:
       - name: Check if ip4.txt exists and is modified
         run: |
           if [ ! -f ip4.txt ]; then
-            echo "ip1.txt does not exist."
+            echo "ip4.txt does not exist."
             exit 1
           fi
           # 对比文件差异
-          diff epgtest2/ip4.txt ip1.txt || echo "File is modified"
+          diff epgtest2/ip4.txt ip4.txt || echo "File is modified"
 
-      # 第七步：将 ip1.txt 覆盖上传到 epgtest2
+      # 第七步：将 ip4.txt 覆盖上传到 epgtest2
       - name: Replace ip4.txt and push
         run: |
          
 
          # Move the file
-          mv ip1.txt epgtest2/ip4.txt  # 覆盖目标文件
+          mv ip4.txt epgtest2/ip4.txt  # 覆盖目标文件
           cd epgtest2
 
          # Configure Git
