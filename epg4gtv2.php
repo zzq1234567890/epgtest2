@@ -167,6 +167,7 @@ array('116','Nick Jr.'),
 array('121','DREAMWORKS'),
 array('118','國會頻道1'),
 array('119','國會頻道2'),
+array('293','Fun探索娛樂台 4K'),
 array('108','Medici-arts'),
 array('109','MTV Live'),
 array('111','MTV綜合電視台'),
@@ -210,6 +211,8 @@ array('083','KLT-靖天國際台'),
 array('211','幸福空間居家台'),
 array('217','滾動力 rollor'),
 array('234','HGTV 居家樂活頻道'),
+array('292','車迷TV HD'),
+
 array('037','美食星球頻道'),
 array('086','Asian Food Network 亞洲美食頻道'),
 array('130','Food Network 美食台頻道'),
@@ -322,6 +325,7 @@ array('176','正德電視台'),
 array('178','TV5MONDE'),
 array('179','Arirang TV'),
 array('183','FRANCE24'),
+
 
 );
 
