@@ -17555,26 +17555,6 @@
 <channel id="成人節目資訊"><display-name lang="zh">成人節目資訊</display-name></channel>
 <channel id="冰火頻道"><display-name lang="zh">冰火頻道</display-name></channel>
 <channel id="成人極品台"><display-name lang="zh">成人極品台</display-name></channel>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="viu6">
-<title lang="zh">瑪麗請客第5集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="viu6">
-<title lang="zh">AlJazeeraNewsLive</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203154500 +0800" channel="viu6">
-<title lang="zh">Rosie'sRules第5集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154500 +0800" stop="20250203160000 +0800" channel="viu6">
-<title lang="zh">Rosie'sRules第6集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="viu6">
-<title lang="zh">DWNews</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="viu6">
 <title lang="zh">TheGameCatchersS2第9集</title>
 <desc lang="zh"> </desc>
@@ -17765,18 +17745,6 @@
 </programme>
 <programme start="20250204231500 +0800" stop="20250204240000 +0800" channel="viu6">
 <title lang="zh">發現科茲窩第2集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203140000 +0800" stop="20250203150000 +0800" channel="ViuTV">
-<title lang="zh">Missing：他們存在過2第19集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203160000 +0800" channel="ViuTV">
-<title lang="zh">交易時段</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="ViuTV">
-<title lang="zh">今晚煮邊科第160集-「Feel」出新意-蜜汁脆鱔/八彩撈起</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="ViuTV">
@@ -17987,14 +17955,6 @@
 <title lang="zh">3分鐘熱度第1035集</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203150000 +0800" channel="Viu 頻道">
-<title lang="zh">世子消失了第9集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203160000 +0800" channel="Viu 頻道">
-<title lang="zh">初戀的惡魔第5集</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203170000 +0800" channel="Viu 頻道">
 <title lang="zh">ONEDAY~平安夜的騷動~第8集</title>
 <desc lang="zh"> </desc>
@@ -18117,14 +18077,6 @@
 </programme>
 <programme start="20250204230000 +0800" stop="20250204240000 +0800" channel="Viu 頻道">
 <title lang="zh">為何是吳秀才?第11集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203153000 +0800" channel="now 劇集">
-<title lang="zh">長安十二時辰第43集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203163000 +0800" channel="now 劇集">
-<title lang="zh">致命遊戲第31集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203173000 +0800" channel="now 劇集">
@@ -18251,10 +18203,6 @@
 <title lang="zh">長安十二時辰第45集</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="video express rentnow">
-<title lang="zh">失憶殺神現已上架,立即到106台即租即睇!</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203180000 +0800" channel="video express rentnow">
 <title lang="zh">末日廝殺橋現已上架,立即到106台即租即睇!</title>
 <desc lang="zh"> </desc>
@@ -18315,10 +18263,6 @@
 <title lang="zh">台北追緝令現已上架,立即到106台即租即睇!</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203113000 +0800" stop="20250203153000 +0800" channel="nowjeli">
-<title lang="zh">2025江蘇衛視跨年演唱會</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203153000 +0800" stop="20250203173000 +0800" channel="nowjeli">
 <title lang="zh">蛇來運轉萬巳大吉2025河南春晚</title>
 <desc lang="zh"> </desc>
@@ -18377,14 +18321,6 @@
 </programme>
 <programme start="20250204200000 +0800" stop="20250204240000 +0800" channel="nowjeli">
 <title lang="zh">2023江蘇衛視跨年演唱會</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203141000 +0800" stop="20250203154000 +0800" channel="HBO Hits香港">
-<title lang="zh">蟹群大比拼</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154000 +0800" stop="20250203161000 +0800" channel="HBO Hits香港">
-<title lang="zh">荷里活現場第1季第1100集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203161000 +0800" stop="20250203190000 +0800" channel="HBO Hits香港">
@@ -18449,22 +18385,6 @@
 </programme>
 <programme start="20250204230000 +0800" stop="20250204240000 +0800" channel="HBO Hits香港">
 <title lang="zh">星際啟示錄</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203131500 +0800" stop="20250203150000 +0800" channel="HBO Family香港">
-<title lang="zh">媽媽咪呀！</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203154500 +0800" channel="HBO Family香港">
-<title lang="zh">露比與魔法井第2季第7集-IWishIHadSomeSpace</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154500 +0800" stop="20250203160700 +0800" channel="HBO Family香港">
-<title lang="zh">Ben10︰外星英雄第2季第11集-Trade-Off!</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160700 +0800" stop="20250203162900 +0800" channel="HBO Family香港">
-<title lang="zh">Ben10︰外星英雄第2季第12集-BusyBox</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203162900 +0800" stop="20250203170000 +0800" channel="HBO Family香港">
@@ -18679,10 +18599,6 @@
 <title lang="zh">愛煩多王子冒險中第1季第8集-ThePrinceAndTheFeatherFluffer-UpperPart2</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203130000 +0800" stop="20250203154000 +0800" channel="CINEMAX香港">
-<title lang="zh">英倫情人</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203154000 +0800" stop="20250203173000 +0800" channel="CINEMAX香港">
 <title lang="zh">神探俏嬌娃2指環密令</title>
 <desc lang="zh"> </desc>
@@ -18759,14 +18675,6 @@
 <title lang="zh">Argo救參任務</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203135500 +0800" stop="20250203152500 +0800" channel="HBO Signature香港">
-<title lang="zh">成為巴菲特</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203152500 +0800" stop="20250203165000 +0800" channel="HBO Signature香港">
-<title lang="zh">聖誕同學重逢</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203165000 +0800" stop="20250203181500 +0800" channel="HBO Signature香港">
 <title lang="zh">我們孤膽,我們並肩</title>
 <desc lang="zh"> </desc>
@@ -18833,10 +18741,6 @@
 </programme>
 <programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="HBO Signature香港">
 <title lang="zh">有你終生美麗</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203141000 +0800" stop="20250203155500 +0800" channel="HBO香港">
-<title lang="zh">孤狼救援</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203155500 +0800" stop="20250203174500 +0800" channel="HBO香港">
@@ -18909,10 +18813,6 @@
 </programme>
 <programme start="20250204234000 +0800" stop="20250204240000 +0800" channel="HBO香港">
 <title lang="zh">私家偵探史崔克第4季第2集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203134500 +0800" stop="20250203155000 +0800" channel="MOVIE MOVIE">
-<title lang="zh">迷魂記</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203155000 +0800" stop="20250203173000 +0800" channel="MOVIE MOVIE">
@@ -18989,10 +18889,6 @@
 </programme>
 <programme start="20250204235000 +0800" stop="20250204240000 +0800" channel="MOVIE MOVIE">
 <title lang="zh">嫲煩家族3走佬阿嫂</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="爆谷台">
-<title lang="zh">只因我們天生一對：電影版</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203160000 +0800" stop="20250203182000 +0800" channel="爆谷台">
@@ -19075,10 +18971,6 @@
 <title lang="zh">獵戰</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203135000 +0800" stop="20250203153500 +0800" channel="Now爆谷星影台">
-<title lang="zh">神奇兩女俠</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203153500 +0800" stop="20250203173000 +0800" channel="Now爆谷星影台">
 <title lang="zh">特警新人類</title>
 <desc lang="zh"> </desc>
@@ -19153,22 +19045,6 @@
 </programme>
 <programme start="20250204224500 +0800" stop="20250204240000 +0800" channel="Now爆谷星影台">
 <title lang="zh">特警屠龍</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="Animax香港">
-<title lang="zh">成神之日第1季第11集-DaysOfPlay</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="Animax香港">
-<title lang="zh">世界盡頭的聖騎士第1季第5集-TheHelmetOfWill</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="Animax香港">
-<title lang="zh">世界盡頭的聖騎士第1季第6集-ArcherOfBeastWoods</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="Animax香港">
-<title lang="zh">銀魂第2季第55集-DoNotMakeThat&amp;ldquo;Kuchakucha&amp;rdquo;SoundWhenEating</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="Animax香港">
@@ -19419,14 +19295,6 @@
 <title lang="zh">WindBreaker-防風少年-第1季第7集-FightToWin</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203141500 +0800" stop="20250203152500 +0800" channel="tvN香港">
-<title lang="zh">加油吧威基基第2季第7集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203152500 +0800" stop="20250203163000 +0800" channel="tvN香港">
-<title lang="zh">加油吧威基基第2季第8集</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163000 +0800" stop="20250203173500 +0800" channel="tvN香港">
 <title lang="zh">藍色海洋的傳說第2集</title>
 <desc lang="zh"> </desc>
@@ -19517,14 +19385,6 @@
 </programme>
 <programme start="20250204223000 +0800" stop="20250204240000 +0800" channel="tvN香港">
 <title lang="zh">極限旅行第3集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203142500 +0800" stop="20250203154000 +0800" channel="KBS World香港">
-<title lang="zh">IronFamily第34集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154000 +0800" stop="20250203160000 +0800" channel="KBS World香港">
-<title lang="zh">KBSWorld今日新聞</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203160000 +0800" stop="20250203165500 +0800" channel="KBS World香港">
@@ -19649,14 +19509,6 @@
 </programme>
 <programme start="20250204233500 +0800" stop="20250204240000 +0800" channel="KBS World香港">
 <title lang="zh">Korea-KhitanWar第18集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203140000 +0800" stop="20250203150000 +0800" channel="東森亞洲">
-<title lang="zh">哈囉你有事嗎?第210集-見多識廣老司機沈玉琳Vs.古靈精怪新人類曾智希。說沒事的,都很有事!說有事的,沒事找事!生活裡每件小事都是大事!!!跨世代觀點交鋒,</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203160000 +0800" channel="東森亞洲">
-<title lang="zh">夢想街57號-預約你的夢想第1629集-更專業、更豐富、更多元化的車款資訊,分享給觀眾。</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203160000 +0800" stop="20250203170000 +0800" channel="東森亞洲">
@@ -19791,10 +19643,6 @@
 <title lang="zh">小姐不熙娣第202集-由娛樂圈最具女王氣勢之藝人小S徐熙娣主持,搭檔幽默風趣的助理主持人派翠克,每集邀請多位時下最紅、最具話題性之藝人及網紅上節目,透過小S深厚及麻辣</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="moov">
-<title lang="zh">提供演唱會及MV點播服務</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203180000 +0800" channel="moov">
 <title lang="zh">提供演唱會及MV點播服務</title>
 <desc lang="zh"> </desc>
@@ -19853,14 +19701,6 @@
 </programme>
 <programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="moov">
 <title lang="zh">提供演唱會及MV點播服務</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203142000 +0800" stop="20250203151000 +0800" channel="Discovery Asia香港">
-<title lang="zh">四處吃美食第1季第7集-新加坡1</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203151000 +0800" stop="20250203160000 +0800" channel="Discovery Asia香港">
-<title lang="zh">北京大興國際機場</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203160000 +0800" stop="20250203165000 +0800" channel="Discovery Asia香港">
@@ -20043,10 +19883,6 @@
 <title lang="zh">亞洲提案第1季第1集-麥田中的水手</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203143500 +0800" stop="20250203153000 +0800" channel="Discovery Channel香港">
-<title lang="zh">白令海大吸金第13季第5集-三名礦主</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203153000 +0800" stop="20250203172000 +0800" channel="Discovery Channel香港">
 <title lang="zh">漁人的搏鬥第16季第1集-冷戰對手</title>
 <desc lang="zh"> </desc>
@@ -20201,14 +20037,6 @@
 </programme>
 <programme start="20250204234500 +0800" stop="20250204240000 +0800" channel="Discovery Channel香港">
 <title lang="zh">空前絕後:川普家族第1季第3集-搧風點火</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203142000 +0800" stop="20250203151500 +0800" channel="動物星球頻道香港">
-<title lang="zh">野性澳大利亞第1季第1集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203151500 +0800" stop="20250203161000 +0800" channel="動物星球頻道香港">
-<title lang="zh">法蘭克的野生澳洲第1季第5集-大陸與演化</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203161000 +0800" stop="20250203170500 +0800" channel="動物星球頻道香港">
@@ -20377,22 +20205,6 @@
 </programme>
 <programme start="20250204235500 +0800" stop="20250204240000 +0800" channel="動物星球頻道香港">
 <title lang="zh">動物奇門功夫第1季第13集-鯨魚唱歌</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203142400 +0800" stop="20250203144700 +0800" channel="Discovery 科學頻道香港">
-<title lang="zh">製造的原理第9季第14集-花紋玻璃片與停格動畫</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144700 +0800" stop="20250203153400 +0800" channel="Discovery 科學頻道香港">
-<title lang="zh">從地球出發:NASA任務50年第1季第5集-太空梭起落</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153400 +0800" stop="20250203162000 +0800" channel="Discovery 科學頻道香港">
-<title lang="zh">全面爆破第1季第2集-山崩地裂</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203162000 +0800" stop="20250203164200 +0800" channel="Discovery 科學頻道香港">
-<title lang="zh">超Kiang科學第1季第7集-破壞的藝術</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203164200 +0800" stop="20250203170600 +0800" channel="Discovery 科學頻道香港">
@@ -20587,22 +20399,6 @@
 <title lang="zh">阿拉斯加大機具第1季第2集-極圈之王</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203141200 +0800" stop="20250203145700 +0800" channel="DMAX香港">
-<title lang="zh">叛匠車廠第1季第13集-A型車大改裝</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203145700 +0800" stop="20250203154500 +0800" channel="DMAX香港">
-<title lang="zh">頂級改裝車廠第6季第10集-救援卡車</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154500 +0800" stop="20250203155900 +0800" channel="DMAX香港">
-<title lang="zh">不囉唆賽車第1季第1集-三千匹馬力的對決</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203155900 +0800" stop="20250203162400 +0800" channel="DMAX香港">
-<title lang="zh">犀利修車廠第11季第16集-電路問題</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203162400 +0800" stop="20250203170600 +0800" channel="DMAX香港">
 <title lang="zh">野地造屋第1季第2集-大煙山墾荒家</title>
 <desc lang="zh"> </desc>
@@ -20777,18 +20573,6 @@
 </programme>
 <programme start="20250204232300 +0800" stop="20250204240000 +0800" channel="DMAX香港">
 <title lang="zh">超炫美式機車第4季第99集-麥基特集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143500 +0800" stop="20250203150000 +0800" channel="TLC旅遊生活頻道香港">
-<title lang="zh">我們的夢幻新房第1季第7集-租不如買</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="TLC旅遊生活頻道香港">
-<title lang="zh">我們的夢幻新房第1季第1集-獨立宣言</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203162500 +0800" channel="TLC旅遊生活頻道香港">
-<title lang="zh">100天造新家第1季第3集-海濱小屋</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203162500 +0800" stop="20250203172000 +0800" channel="TLC旅遊生活頻道香港">
@@ -20971,14 +20755,6 @@
 <title lang="zh">法蘭科的熱食第1季第5集-墨式盛宴</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203142500 +0800" stop="20250203152000 +0800" channel="Love Nature香港">
-<title lang="zh">野生動物急診室第3季第1集-難忘的夏季</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203152000 +0800" stop="20250203161500 +0800" channel="Love Nature香港">
-<title lang="zh">動物朋友仔第1季第3集-年少朋友</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203161500 +0800" stop="20250203171000 +0800" channel="Love Nature香港">
 <title lang="zh">動物朋友仔第1季第4集-野獸好友</title>
 <desc lang="zh"> </desc>
@@ -21119,14 +20895,6 @@
 <title lang="zh">動物朋友仔第1季第4集-野獸好友</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203142500 +0800" stop="20250203151500 +0800" channel="BBC Earth香港">
-<title lang="zh">工程大改造第1季第6集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203151500 +0800" stop="20250203162000 +0800" channel="BBC Earth香港">
-<title lang="zh">小動物的生命奇蹟第1季第1集</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203162000 +0800" stop="20250203171500 +0800" channel="BBC Earth香港">
 <title lang="zh">全球致命氣候第5季第13集</title>
 <desc lang="zh"> </desc>
@@ -21261,22 +21029,6 @@
 </programme>
 <programme start="20250204234000 +0800" stop="20250204240000 +0800" channel="BBC Earth香港">
 <title lang="zh">亞洲:幕後特輯第1季第1集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203130000 +0800" stop="20250203150000 +0800" channel="戶外頻道香港">
-<title lang="zh">RunForDream-Taiwan第1季第1集-UltraMarathon</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="戶外頻道香港">
-<title lang="zh">BearGrylls:FaceTheWildS12018第1季第2集-MissionPossible</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="戶外頻道香港">
-<title lang="zh">BearGrylls:FaceTheWildS12018第1季第3集-AlwaysBetonDot</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="戶外頻道香港">
-<title lang="zh">Dropped第2季第5集-RoundTwo</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="戶外頻道香港">
@@ -21451,14 +21203,6 @@
 <title lang="zh">TruckingHell第1季第1集-Highlight1</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203141000 +0800" stop="20250203150500 +0800" channel="罪案 + 偵緝香港">
-<title lang="zh">被告者：有罪或無罪？第4季第2集-蒙面攻擊者或搞錯身分？</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150500 +0800" stop="20250203160000 +0800" channel="罪案 + 偵緝香港">
-<title lang="zh">被告者：有罪或無罪？第4季第3集-殺手駕駛或緊急醫療狀況？</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203165500 +0800" channel="罪案 + 偵緝香港">
 <title lang="zh">60天監獄改造計畫第7季第10集-絕不回頭</title>
 <desc lang="zh"> </desc>
@@ -21631,14 +21375,6 @@
 <title lang="zh">頭條新聞之外：系列事件第3集-破碎的家庭</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203143000 +0800" stop="20250203152000 +0800" channel="HISTORY香港">
-<title lang="zh">建構世界的食品第4季第42集-美國精神</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203152000 +0800" stop="20250203162000 +0800" channel="HISTORY香港">
-<title lang="zh">智造冬奧:北京2022第1季第1集-綠色冬奧</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203162000 +0800" stop="20250203171000 +0800" channel="HISTORY香港">
 <title lang="zh">當鋪之星第24季第607集-齊格菲和瑞克</title>
 <desc lang="zh"> </desc>
@@ -21773,18 +21509,6 @@
 </programme>
 <programme start="20250204234500 +0800" stop="20250204240000 +0800" channel="HISTORY香港">
 <title lang="zh">橡樹島的詛咒第11季第23集-大教堂道路</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203140000 +0800" stop="20250203150000 +0800" channel="CNN 國際新聞網絡香港">
-<title lang="zh">CNNNewsroom:Monday,February3,20251AmET</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203154500 +0800" channel="CNN 國際新聞網絡香港">
-<title lang="zh">CNNNewsroom:Monday,February3,20252AmET</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154500 +0800" stop="20250203160000 +0800" channel="CNN 國際新聞網絡香港">
-<title lang="zh">WorldSport:Monday,February3,20251245AmET</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203160000 +0800" stop="20250203170000 +0800" channel="CNN 國際新聞網絡香港">
@@ -21941,22 +21665,6 @@
 </programme>
 <programme start="20250204230000 +0800" stop="20250204240000 +0800" channel="CNN 國際新聞網絡香港">
 <title lang="zh">ConnectTheWorld:Tuesday,February4,202510AmET</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="CNBC香港">
-<title lang="zh">EuropeSquawkBox</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="CNBC香港">
-<title lang="zh">EuropeSquawkBox</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="CNBC香港">
-<title lang="zh">EuropeSquawkBox</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="CNBC香港">
-<title lang="zh">EuropeSquawkBox</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="CNBC香港">
@@ -22173,22 +21881,6 @@
 </programme>
 <programme start="20250204233000 +0800" stop="20250204240000 +0800" channel="CNBC香港">
 <title lang="zh">UsSquawkOnTheStreet</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="BBC News香港">
-<title lang="zh">BusinessToday</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="BBC News香港">
-<title lang="zh">BBCNews</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="BBC News香港">
-<title lang="zh">BusinessToday</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="BBC News香港">
-<title lang="zh">BBCNews</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="BBC News香港">
@@ -22471,10 +22163,6 @@
 <title lang="zh">VerifiedLive</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203150000 +0800" channel="Bloomberg Television香港">
-<title lang="zh">BloombergDaybreak:Europe</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203150000 +0800" stop="20250203170000 +0800" channel="Bloomberg Television香港">
 <title lang="zh">Bloomberg:TheOpeningTrade</title>
 <desc lang="zh"> </desc>
@@ -22561,10 +22249,6 @@
 </programme>
 <programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="Bloomberg Television香港">
 <title lang="zh">BloombergOpenInterest</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="亞洲新聞台香港">
-<title lang="zh">AsiaNow</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203160000 +0800" stop="20250203170000 +0800" channel="亞洲新聞台香港">
@@ -22701,26 +22385,6 @@
 </programme>
 <programme start="20250204080000 +0800" stop="20250204240000 +0800" channel="Sky News香港">
 <title lang="zh"></title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="DW (English)香港">
-<title lang="zh">EcoAfrica-TheEnvironmentMagazine</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="DW (English)香港">
-<title lang="zh">DWNews-News</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="DW (English)香港">
-<title lang="zh">The77Percent-TheMagazineForAfrica'sYouth</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="DW (English)香港">
-<title lang="zh">DWNews-News</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203163000 +0800" stop="20250203164500 +0800" channel="DW (English)香港">
-<title lang="zh">Shift-LivingInTheDigitalAge</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203164500 +0800" stop="20250203170000 +0800" channel="DW (English)香港">
@@ -23027,18 +22691,6 @@
 <title lang="zh">EcoAfrica-TheEnvironmentMagazine</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="半島電視台英語頻道香港">
-<title lang="zh">PeopleAndPower-TheBattleForTheSoulOfAngkorWatP2</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203160000 +0800" channel="半島電視台英語頻道香港">
-<title lang="zh">Newshour</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="半島電視台英語頻道香港">
-<title lang="zh">NewsLive</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="半島電視台英語頻道香港">
 <title lang="zh">Reframe-AhmedMasoud</title>
 <desc lang="zh"> </desc>
@@ -23237,18 +22889,6 @@
 </programme>
 <programme start="20250204230000 +0800" stop="20250204240000 +0800" channel="半島電視台英語頻道香港">
 <title lang="zh">Newshour</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203124800 +0800" stop="20250203160000 +0800" channel="euronews香港">
-<title lang="zh">News</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203161600 +0800" channel="euronews香港">
-<title lang="zh">WakeUpEurope</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203161600 +0800" stop="20250203163000 +0800" channel="euronews香港">
-<title lang="zh">WakeUpEurope</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="euronews香港">
@@ -23629,54 +23269,6 @@
 </programme>
 <programme start="20250204233000 +0800" stop="20250204240000 +0800" channel="euronews香港">
 <title lang="zh">TheEuropeanDebrief</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203145100 +0800" stop="20250203150000 +0800" channel="France 24香港">
-<title lang="zh">Focus</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203152000 +0800" channel="France 24香港">
-<title lang="zh">TheNews[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203152000 +0800" stop="20250203153000 +0800" channel="France 24香港">
-<title lang="zh">Business[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203154500 +0800" channel="France 24香港">
-<title lang="zh">TheNews[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154500 +0800" stop="20250203155000 +0800" channel="France 24香港">
-<title lang="zh">Focus</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203155000 +0800" stop="20250203155700 +0800" channel="France 24香港">
-<title lang="zh">Sports</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203155700 +0800" stop="20250203160000 +0800" channel="France 24香港">
-<title lang="zh">Headlines[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203161500 +0800" channel="France 24香港">
-<title lang="zh">TheNews[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203161500 +0800" stop="20250203162100 +0800" channel="France 24香港">
-<title lang="zh">Business[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203162100 +0800" stop="20250203163000 +0800" channel="France 24香港">
-<title lang="zh">InThePress[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203163000 +0800" stop="20250203164000 +0800" channel="France 24香港">
-<title lang="zh">TheNews[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203164000 +0800" stop="20250203164500 +0800" channel="France 24香港">
-<title lang="zh">Perspective[直播]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203164500 +0800" stop="20250203165000 +0800" channel="France 24香港">
@@ -24299,38 +23891,6 @@
 <title lang="zh">Reporters</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203144000 +0800" stop="20250203144500 +0800" channel="NHK WORLD-JAPA香港">
-<title lang="zh">EasyJapanese-E6022-032</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144500 +0800" stop="20250203145500 +0800" channel="NHK WORLD-JAPA香港">
-<title lang="zh">CultureCrossroads-E2084-064</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203145500 +0800" stop="20250203150000 +0800" channel="NHK WORLD-JAPA香港">
-<title lang="zh">Hello!NHKWorld-Japan-E2104-045</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="NHK WORLD-JAPA香港">
-<title lang="zh">NewslineAsia24</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="NHK WORLD-JAPA香港">
-<title lang="zh">SeasoningTheSeasons-E2024-122</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203161500 +0800" channel="NHK WORLD-JAPA香港">
-<title lang="zh">NHKNewsline</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203161500 +0800" stop="20250203162300 +0800" channel="NHK WORLD-JAPA香港">
-<title lang="zh">NewslineBiz</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203162300 +0800" stop="20250203163000 +0800" channel="NHK WORLD-JAPA香港">
-<title lang="zh">JapanFromAbove:UpClose-E6023-001</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="NHK WORLD-JAPA香港">
 <title lang="zh">BizStream-E2074-218</title>
 <desc lang="zh"> </desc>
@@ -24767,7 +24327,11 @@
 <title lang="zh">JourneysInJapan-E2007-544</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203160000 +0800" stop="20250204000000 +0800" channel="RT香港">
+<programme start="20250203160000 +0800" stop="20250204160000 +0800" channel="RT香港">
+<title lang="zh">此頻道未能提供節目表敬請原諒!</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204160000 +0800" stop="20250204000000 +0800" channel="RT香港">
 <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -24781,22 +24345,6 @@
 </programme>
 <programme start="20250204160000 +0800" stop="20250204240000 +0800" channel="RT香港">
 <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="中國環球電視網香港">
-<title lang="zh">Razor</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="中國環球電視網香港">
-<title lang="zh">TheWorldToday</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="中國環球電視網香港">
-<title lang="zh">SportsScene</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203161500 +0800" channel="中國環球電視網香港">
-<title lang="zh">TheWorldToday</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203161500 +0800" stop="20250203170000 +0800" channel="中國環球電視網香港">
@@ -25035,22 +24583,6 @@
 <title lang="zh">TheVibe</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="now直播 ">
-<title lang="zh">隨時直播各類時事新聞及記者會</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="now直播 ">
-<title lang="zh">隨時直播各類時事新聞及記者會</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="now直播 ">
-<title lang="zh">隨時直播各類時事新聞及記者會</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="now直播 ">
-<title lang="zh">隨時直播各類時事新聞及記者會</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="now直播 ">
 <title lang="zh">隨時直播各類時事新聞及記者會</title>
 <desc lang="zh"> </desc>
@@ -25273,30 +24805,6 @@
 </programme>
 <programme start="20250204233000 +0800" stop="20250204240000 +0800" channel="now直播 ">
 <title lang="zh">隨時直播各類時事新聞及記者會</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203145500 +0800" channel="now新聞">
-<title lang="zh">Now新聞報道</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203145500 +0800" stop="20250203150000 +0800" channel="now新聞">
-<title lang="zh">世味天下</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="now新聞">
-<title lang="zh">Now新聞報道[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="now新聞">
-<title lang="zh">Now新聞報道</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203161600 +0800" channel="now新聞">
-<title lang="zh">Now新聞報道[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203161600 +0800" stop="20250203163000 +0800" channel="now新聞">
-<title lang="zh">杏林在線-20250131</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203165100 +0800" channel="now新聞">
@@ -25591,14 +25099,6 @@
 <title lang="zh">Now深宵新聞[直播]</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203130000 +0800" stop="20250203150000 +0800" channel="now財經">
-<title lang="zh">交易時段-20250203第三節[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203160000 +0800" channel="now財經">
-<title lang="zh">交易時段-20250203第四節[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203170000 +0800" channel="now財經">
 <title lang="zh">收市檢討-20250203[直播]</title>
 <desc lang="zh"> </desc>
@@ -25819,10 +25319,6 @@
 <title lang="zh">交易時段精華-20250204</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="now報價">
-<title lang="zh">24小時不停提供投資市場最新報價</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203180000 +0800" channel="now報價">
 <title lang="zh">24小時不停提供投資市場最新報價</title>
 <desc lang="zh"> </desc>
@@ -25883,7 +25379,11 @@
 <title lang="zh">24小時不停提供投資市場最新報價</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203160000 +0800" stop="20250204000000 +0800" channel="第一財經">
+<programme start="20250203160000 +0800" stop="20250204160000 +0800" channel="第一財經">
+<title lang="zh">此頻道未能提供節目表敬請原諒!</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204160000 +0800" stop="20250204000000 +0800" channel="第一財經">
 <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -25897,26 +25397,6 @@
 </programme>
 <programme start="20250204160000 +0800" stop="20250204240000 +0800" channel="第一財經">
 <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="鳳凰資訊">
-<title lang="zh">2025乙巳蛇年大運程</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203155700 +0800" channel="鳳凰資訊">
-<title lang="zh">鳳凰正點播報1500</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203155700 +0800" stop="20250203160000 +0800" channel="鳳凰資訊">
-<title lang="zh">鳳凰氣象站</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203162700 +0800" channel="鳳凰資訊">
-<title lang="zh">鳳凰正點播報1600</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203162700 +0800" stop="20250203163000 +0800" channel="鳳凰資訊">
-<title lang="zh">鳳凰氣象站</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="鳳凰資訊">
@@ -26283,18 +25763,6 @@
 <title lang="zh">總編輯時間</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="鳳凰香港台">
-<title lang="zh">食分絕配[普]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="鳳凰香港台">
-<title lang="zh">香港新視點[粵]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="鳳凰香港台">
-<title lang="zh">靈蛇獻瑞財運來[粵]</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203170000 +0800" channel="鳳凰香港台">
 <title lang="zh">匠心獨運[英]</title>
 <desc lang="zh"> </desc>
@@ -26591,22 +26059,6 @@
 <title lang="zh"></title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="鳳凰中文">
-<title lang="zh">名人面對面第411集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203155700 +0800" channel="鳳凰中文">
-<title lang="zh">鳳凰正點播報1500-3/2/25</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203155700 +0800" stop="20250203160000 +0800" channel="鳳凰中文">
-<title lang="zh">鳳凰氣象站</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="鳳凰中文">
-<title lang="zh">近觀中國第158集</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="鳳凰中文">
 <title lang="zh">紀錄大時代第1060集</title>
 <desc lang="zh"> </desc>
@@ -26859,14 +26311,6 @@
 <title lang="zh"></title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203150000 +0800" channel="東森亞洲新聞">
-<title lang="zh">台灣東森新聞[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203160000 +0800" channel="東森亞洲新聞">
-<title lang="zh">台灣東森新聞[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203170000 +0800" channel="東森亞洲新聞">
 <title lang="zh">台灣東森新聞[直播]</title>
 <desc lang="zh"> </desc>
@@ -26989,26 +26433,6 @@
 </programme>
 <programme start="20250204230000 +0800" stop="20250204240000 +0800" channel="東森亞洲新聞">
 <title lang="zh">關鍵時刻</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203142000 +0800" stop="20250203144500 +0800" channel="DreamWorks 頻道香港">
-<title lang="zh">底底超人歷險記第2季第29集-底底超人與醜惡高山怪深不可測的家庭紛爭</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144500 +0800" stop="20250203151000 +0800" channel="DreamWorks 頻道香港">
-<title lang="zh">底底超人歷險記第2季第30集-底底超人與狂暴嘔吐怪的奇特大戰</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203151000 +0800" stop="20250203153500 +0800" channel="DreamWorks 頻道香港">
-<title lang="zh">無敵貓劍俠歷險記第2季第29集-醜小鴨</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153500 +0800" stop="20250203160000 +0800" channel="DreamWorks 頻道香港">
-<title lang="zh">海中獨角獸第1季第3集-妹妹們/奇異珍寶</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203162500 +0800" channel="DreamWorks 頻道香港">
-<title lang="zh">守護仙子日記第1季第3集-香蕉包大盜/尋找喵喵</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203162500 +0800" stop="20250203165000 +0800" channel="DreamWorks 頻道香港">
@@ -27311,18 +26735,6 @@
 <title lang="zh">馴龍記:百格島騎士傳第1季第15集-地底之謎</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="Cartoon Network香港">
-<title lang="zh">難捕第4季第437集-難捕巨人/北極大冒險/誤認身份的案件/拗手瓜</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203160000 +0800" channel="Cartoon Network香港">
-<title lang="zh">大砲與小惡魔第2季第121集-熊眼鏡/熊枕頭/能見度是零/做運動/旅鼠的口香糖/移動的App/禪與熊/住在隔壁的熊</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163500 +0800" channel="Cartoon Network香港">
-<title lang="zh">Clarence第4季第94集-拯救Shoopy/金魚奇想曲/尋貓記</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163500 +0800" stop="20250203170000 +0800" channel="Cartoon Network香港">
 <title lang="zh">機甲猛鬥第1季第9集-懷舊科技</title>
 <desc lang="zh"> </desc>
@@ -27489,34 +26901,6 @@
 </programme>
 <programme start="20250204230000 +0800" stop="20250204240000 +0800" channel="Cartoon Network香港">
 <title lang="zh">神臍小捲毛第3季第97集-甩鞭子甩得啪啪響/Steven對戰Amethyst/先行測試/Lion4:AlternateEnding(Arc2)Air1/Doug</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203142500 +0800" stop="20250203144500 +0800" channel="Nickelodeon香港">
-<title lang="zh">卡薩葛蘭德一家第1季第119集-恐怖詛咒</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144500 +0800" stop="20250203150000 +0800" channel="Nickelodeon香港">
-<title lang="zh">卡薩葛蘭德一家第3季第317集-羊駝貝托</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203151500 +0800" channel="Nickelodeon香港">
-<title lang="zh">海綿寶寶第15季第312集-證人保護計畫</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203151500 +0800" stop="20250203152500 +0800" channel="Nickelodeon香港">
-<title lang="zh">海綿寶寶第15季第311集-受困電梯</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203152500 +0800" stop="20250203155000 +0800" channel="Nickelodeon香港">
-<title lang="zh">派大星秀第3季第302集-尋找沐浴球/機器人幫手</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203155000 +0800" stop="20250203161500 +0800" channel="Nickelodeon香港">
-<title lang="zh">勞德之家第1季第115集-姐妹好幫手/拯救約會大作戰</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203161500 +0800" stop="20250203163500 +0800" channel="Nickelodeon香港">
-<title lang="zh">勞德之家第1季第117集-勞德美聲/奇妙新點子</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163500 +0800" stop="20250203170000 +0800" channel="Nickelodeon香港">
@@ -27853,54 +27237,6 @@
 </programme>
 <programme start="20250204234000 +0800" stop="20250204240000 +0800" channel="Nickelodeon香港">
 <title lang="zh">卡薩葛蘭德一家第2季第208集-早餐機器人/真英雄</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203145500 +0800" channel="CBeebies香港">
-<title lang="zh">Swashbuckle第7季第11集-BuccaneerCheer</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203145500 +0800" stop="20250203150200 +0800" channel="CBeebies香港">
-<title lang="zh">HeyDuggee第4季第13集-TheMountainBadge</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150200 +0800" stop="20250203150900 +0800" channel="CBeebies香港">
-<title lang="zh">HeyDuggee第4季第12集-TheLostPropertyBadge</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150900 +0800" stop="20250203151500 +0800" channel="CBeebies香港">
-<title lang="zh">HeyDuggee第4季第11集-ThePetBadge</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203151500 +0800" stop="20250203152500 +0800" channel="CBeebies香港">
-<title lang="zh">GoJetters第2季第13集-CentralPark,NewYork</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203152500 +0800" stop="20250203154000 +0800" channel="CBeebies香港">
-<title lang="zh">GoJetters第2季第12集-WhiteCliffsOfDover,England</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154000 +0800" stop="20250203160500 +0800" channel="CBeebies香港">
-<title lang="zh">Thomas&amp;amp;Friends第24季第21集-ANewArrival</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160500 +0800" stop="20250203161000 +0800" channel="CBeebies香港">
-<title lang="zh">StanCan第1季第1集-Museum</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203161000 +0800" stop="20250203162000 +0800" channel="CBeebies香港">
-<title lang="zh">DogLovesBooks第1季第1集-DogLovesSnark</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203162000 +0800" stop="20250203162500 +0800" channel="CBeebies香港">
-<title lang="zh">Kazoops!第1季第54集-ParcelPuzzle</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203162500 +0800" stop="20250203163800 +0800" channel="CBeebies香港">
-<title lang="zh">Jojo&amp;amp;GranGran第2季第13集-It'sTimeForABoatRide</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203163800 +0800" stop="20250203164500 +0800" channel="CBeebies香港">
-<title lang="zh">Bluey第3季第16集-Phones</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203164500 +0800" stop="20250203165000 +0800" channel="CBeebies香港">
@@ -28679,26 +28015,6 @@
 <title lang="zh">Supertato第1季第30集-MuseumMischief</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203141600 +0800" stop="20250203144900 +0800" channel="Moonbug香港">
-<title lang="zh">阿波第5季第1集-超狂亂失序</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144900 +0800" stop="20250203152000 +0800" channel="Moonbug香港">
-<title lang="zh">小小天使第3季第8集-來唱歌！</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203152000 +0800" stop="20250203154300 +0800" channel="Moonbug香港">
-<title lang="zh">小小天使第7季第2集-與小小天使一起開心玩！</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154300 +0800" stop="20250203161200 +0800" channel="Moonbug香港">
-<title lang="zh">可可瓜瓜第5季第1集-傑傑的旋轉木馬！</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203161200 +0800" stop="20250203163800 +0800" channel="Moonbug香港">
-<title lang="zh">可可瓜瓜第1季第14集-傑傑的家庭歡唱</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163800 +0800" stop="20250203170500 +0800" channel="Moonbug香港">
 <title lang="zh">小小天使第5季第4集-準備好外出！</title>
 <desc lang="zh"> </desc>
@@ -28973,30 +28289,6 @@
 </programme>
 <programme start="20250204234800 +0800" stop="20250204240000 +0800" channel="Moonbug香港">
 <title lang="zh">迪格利和達西第1季第3集-學習好有趣！</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203142500 +0800" stop="20250203144500 +0800" channel="Nick Jr.香港">
-<title lang="zh">HamstersOfHamsterdale第1季第110集-HamstersGoneViral/TheThunderMaker</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144500 +0800" stop="20250203151000 +0800" channel="Nick Jr.香港">
-<title lang="zh">PawPatrol第1季第112集-PupsGetARubble/PupsSaveAWalrus</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203151000 +0800" stop="20250203153000 +0800" channel="Nick Jr.香港">
-<title lang="zh">PawPatrol第1季第113集-PupsSaveTheBunnies/Puptacular</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203154000 +0800" channel="Nick Jr.香港">
-<title lang="zh">PawPatrol第2季第208集-PupsSaveABasketballGame</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154000 +0800" stop="20250203160500 +0800" channel="Nick Jr.香港">
-<title lang="zh">Rubble&amp;amp;Crew第2季第207集-TheCrewBuildsChargerASuperBed/TheCrewBuildsASuperSquirrelyWhi</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160500 +0800" stop="20250203163000 +0800" channel="Nick Jr.香港">
-<title lang="zh">Rubble&amp;amp;Crew第2季第208集-TheCrewBuildsASmoothieShop/TheCrewBuildsADinoRoofParty</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203165000 +0800" channel="Nick Jr.香港">
@@ -29453,54 +28745,6 @@
 </programme>
 <programme start="20250204235000 +0800" stop="20250204240000 +0800" channel="Nick Jr.香港">
 <title lang="zh">BabyShark'sBigShow!第1季第122集-CoralDilemma</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144500 +0800" stop="20250203145400 +0800" channel="Da Vinc香港">
-<title lang="zh">達爾文與紐茨-捉迷藏:動物的保護色</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203145400 +0800" stop="20250203150600 +0800" channel="Da Vinc香港">
-<title lang="zh">達爾文與紐茨-藍鴨寶寶:潛水鏡的原理</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150600 +0800" stop="20250203151800 +0800" channel="Da Vinc香港">
-<title lang="zh">達爾文與紐茨-波皮要洗澡:如何建造巖石牆</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203151800 +0800" stop="20250203152400 +0800" channel="Da Vinc香港">
-<title lang="zh">科學爆好玩-往上流的水</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203152400 +0800" stop="20250203153900 +0800" channel="Da Vinc香港">
-<title lang="zh">優可-優可的電腦遊戲</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153900 +0800" stop="20250203155400 +0800" channel="Da Vinc香港">
-<title lang="zh">優可-超酷的間諜</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203155400 +0800" stop="20250203160300 +0800" channel="Da Vinc香港">
-<title lang="zh">天氣小英雄-蜜蜂求救</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160300 +0800" stop="20250203160900 +0800" channel="Da Vinc香港">
-<title lang="zh">天氣小英雄-一切的開端,下集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160900 +0800" stop="20250203161500 +0800" channel="Da Vinc香港">
-<title lang="zh">天氣小英雄-一切的開端,上集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203161500 +0800" stop="20250203161800 +0800" channel="Da Vinc香港">
-<title lang="zh">歡樂弄臣-髒兮兮</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203161800 +0800" stop="20250203163300 +0800" channel="Da Vinc香港">
-<title lang="zh">科學量販店-微真菌學</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203163300 +0800" stop="20250203164800 +0800" channel="Da Vinc香港">
-<title lang="zh">和布里科動手創作-松果</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203164800 +0800" stop="20250203165400 +0800" channel="Da Vinc香港">
@@ -30043,14 +29287,6 @@
 <title lang="zh">小小獸醫-無畏的小小獸醫</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203143000 +0800" stop="20250203153000 +0800" channel="BBC Lifestyle香港">
-<title lang="zh">里克斯坦:從威尼斯到伊斯坦堡第1季第4集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203163000 +0800" channel="BBC Lifestyle香港">
-<title lang="zh">居家整理趣第2季第5集</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163000 +0800" stop="20250203173000 +0800" channel="BBC Lifestyle香港">
 <title lang="zh">打造完美居所第2季第1集</title>
 <desc lang="zh"> </desc>
@@ -30199,14 +29435,6 @@
 <title lang="zh">非凡美宅大翻新第3季第6集-蒙茅斯郡,商店</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203142500 +0800" stop="20250203152000 +0800" channel="AXN香港">
-<title lang="zh">CSI滅罪鑑證科:賭城篇第3季第3集-RatPacked</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203152000 +0800" stop="20250203161500 +0800" channel="AXN香港">
-<title lang="zh">重生醫生第1季第3集</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203161500 +0800" stop="20250203171000 +0800" channel="AXN香港">
 <title lang="zh">聯邦調查局FBI第5季第2集-LoveIsBlind</title>
 <desc lang="zh"> </desc>
@@ -30347,18 +29575,6 @@
 <title lang="zh">聯邦調查局:頭號通緝第4季第2集</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203144000 +0800" stop="20250203150000 +0800" channel="ROCK Entertainment香港">
-<title lang="zh">超級製作人第2季第1集-塞恩菲爾視野</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203154500 +0800" channel="ROCK Entertainment香港">
-<title lang="zh">NCIS第22季第7集-冷硬派探員</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154500 +0800" stop="20250203163000 +0800" channel="ROCK Entertainment香港">
-<title lang="zh">NCIS第22季第8集-全面失控</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163000 +0800" stop="20250203171500 +0800" channel="ROCK Entertainment香港">
 <title lang="zh">NCIS第22季第9集-瞞天過海</title>
 <desc lang="zh"> </desc>
@@ -30487,18 +29703,6 @@
 <title lang="zh">神鬼剋星</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203135500 +0800" stop="20250203153000 +0800" channel="Lifetime香港">
-<title lang="zh">心中的殺手:露絲&amp;middot;芬利的故事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="Lifetime香港">
-<title lang="zh">菜單大師</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="Lifetime香港">
-<title lang="zh">航空衝突第1集-不太友善的天空</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163000 +0800" stop="20250203173000 +0800" channel="Lifetime香港">
 <title lang="zh">美味公路之旅2第10集</title>
 <desc lang="zh"> </desc>
@@ -30621,26 +29825,6 @@
 </programme>
 <programme start="20250204233500 +0800" stop="20250204240000 +0800" channel="Lifetime香港">
 <title lang="zh">餐桌上的傳奇第1集-百年傳奇</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203142400 +0800" stop="20250203144800 +0800" channel="Food Network香港">
-<title lang="zh">大口吃肉,大口喝酒第6季第1集-冠軍漢堡</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144800 +0800" stop="20250203151200 +0800" channel="Food Network香港">
-<title lang="zh">赤腳女伯爵:回到基礎第19季第5集-現代療癒食物:義式饗宴</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203151200 +0800" stop="20250203153600 +0800" channel="Food Network香港">
-<title lang="zh">赤腳女伯爵:回到基礎第19季第6集-現代療癒食物:美味烘焙</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153600 +0800" stop="20250203162400 +0800" channel="Food Network香港">
-<title lang="zh">愛莉克絲挑戰全美第4季第2集-冷凍甜點</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203162400 +0800" stop="20250203164800 +0800" channel="Food Network香港">
-<title lang="zh">賽門戶外做晚餐第5季第7集-熱天吃熱狗</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203164800 +0800" stop="20250203171200 +0800" channel="Food Network香港">
@@ -30805,18 +29989,6 @@
 </programme>
 <programme start="20250204234800 +0800" stop="20250204240000 +0800" channel="Food Network香港">
 <title lang="zh">赤腳女伯爵:回到基礎第19季第5集-現代療癒食物:義式饗宴</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143500 +0800" stop="20250203150500 +0800" channel="亞洲美食台香港">
-<title lang="zh">美食良伴:風味傳承第1季第6集-金珠肉粽與哈里安娘惹餐桌</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150500 +0800" stop="20250203160000 +0800" channel="亞洲美食台香港">
-<title lang="zh">帶阿母去旅行第1季第9集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="亞洲美食台香港">
-<title lang="zh">鍋行天下:海產篇第1季第4集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="亞洲美食台香港">
@@ -31059,10 +30231,6 @@
 <title lang="zh"></title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="Netflix香港">
-<title lang="zh">觀看Netflix</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203180000 +0800" channel="Netflix香港">
 <title lang="zh">觀看Netflix</title>
 <desc lang="zh"> </desc>
@@ -31249,14 +30417,6 @@
 </programme>
 <programme start="20250204234000 +0800" stop="20250204240000 +0800" channel="深圳衛視香港">
 <title lang="zh">軍情直播間</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144400 +0800" stop="20250203153100 +0800" channel="CCTV-1香港">
-<title lang="zh">電視劇南來北往</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153100 +0800" stop="20250203161900 +0800" channel="CCTV-1香港">
-<title lang="zh">電視劇南來北往</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203161900 +0800" stop="20250203170700 +0800" channel="CCTV-1香港">
@@ -31457,18 +30617,6 @@
 </programme>
 <programme start="20250204231900 +0800" stop="20250204240000 +0800" channel="CCTV-1香港">
 <title lang="zh">電視劇富春山居</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203141500 +0800" stop="20250203150000 +0800" channel="CCTV-4香港">
-<title lang="zh">電視劇</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203154500 +0800" channel="CCTV-4香港">
-<title lang="zh">電視劇</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154500 +0800" stop="20250203163000 +0800" channel="CCTV-4香港">
-<title lang="zh">電視劇</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203171500 +0800" channel="CCTV-4香港">
@@ -31799,10 +30947,6 @@
 <title lang="zh">每日運動派</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203141200 +0800" stop="20250203150000 +0800" channel="中央電視台新聞頻道香港">
-<title lang="zh">面對面</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203150000 +0800" stop="20250203180000 +0800" channel="中央電視台新聞頻道香港">
 <title lang="zh">新聞直播間</title>
 <desc lang="zh"> </desc>
@@ -31945,22 +31089,6 @@
 </programme>
 <programme start="20250204230000 +0800" stop="20250204240000 +0800" channel="中央電視台新聞頻道香港">
 <title lang="zh">24小時</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="鳳凰衛視中文台">
-<title lang="zh">名人面對面第411集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203155700 +0800" channel="鳳凰衛視中文台">
-<title lang="zh">鳳凰正點播報1500-3/2/25</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203155700 +0800" stop="20250203160000 +0800" channel="鳳凰衛視中文台">
-<title lang="zh">鳳凰氣象站</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="鳳凰衛視中文台">
-<title lang="zh">近觀中國第158集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="鳳凰衛視中文台">
@@ -32207,22 +31335,6 @@
 <title lang="zh">新聞今日談-4/2/25</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="OneTV 綜合頻道">
-<title lang="zh">亞太看天下:時尚印象-紀錄北京</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="OneTV 綜合頻道">
-<title lang="zh">亞太生活坊:全能改造19</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="OneTV 綜合頻道">
-<title lang="zh">亞太生活坊:全能改造20</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="OneTV 綜合頻道">
-<title lang="zh">亞太吃天下:味道掌門-萬番琢磨終成器</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="OneTV 綜合頻道">
 <title lang="zh">亞太吃天下:味道掌門-積跬步至千裏事事躬行</title>
 <desc lang="zh"> </desc>
@@ -32459,7 +31571,11 @@
 <title lang="zh">亞太生活坊:全能改造22</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203160000 +0800" stop="20250204000000 +0800" channel="三沙衛視香港">
+<programme start="20250203160000 +0800" stop="20250204160000 +0800" channel="三沙衛視香港">
+<title lang="zh">此頻道未能提供節目表敬請原諒!</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204160000 +0800" stop="20250204000000 +0800" channel="三沙衛視香港">
 <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -32593,22 +31709,6 @@
 </programme>
 <programme start="20250204215800 +0800" stop="20250204240000 +0800" channel="浙江衛視香港">
 <title lang="zh">重播精選綜藝</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203140000 +0800" stop="20250203150000 +0800" channel="ABC Australia香港">
-<title lang="zh">ABCNewsWithJoeO'brien:2025第6集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="ABC Australia香港">
-<title lang="zh">ABiteToEatWithAlice第1季第20集-MargDowney</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="ABC Australia香港">
-<title lang="zh">DreamGardens第3季第8集-PortseaRevisit,Vic</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="ABC Australia香港">
-<title lang="zh">ABCNationalNews:2025第34集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="ABC Australia香港">
@@ -32783,10 +31883,6 @@
 <title lang="zh"></title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203180000 +0800" channel="now體育4k">
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
@@ -32847,7 +31943,63 @@
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="now體育4k">
+<programme start="20250203160000 +0800" stop="20250203180000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250203180000 +0800" stop="20250203200000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250203220000 +0800" stop="20250204000000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204000000 +0800" stop="20250204020000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204020000 +0800" stop="20250204040000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204040000 +0800" stop="20250204060000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204060000 +0800" stop="20250204080000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204080000 +0800" stop="20250204100000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204100000 +0800" stop="20250204120000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204120000 +0800" stop="20250204140000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204140000 +0800" stop="20250204160000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204160000 +0800" stop="20250204180000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204180000 +0800" stop="20250204200000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204200000 +0800" stop="20250204220000 +0800" channel="now體育4k">
+<title lang="zh">請留意下場播映賽事</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="now體育4k">
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -32909,82 +32061,6 @@
 </programme>
 <programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="now體育4k">
 <title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203180000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203180000 +0800" stop="20250203200000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203220000 +0800" stop="20250204000000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204000000 +0800" stop="20250204020000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204020000 +0800" stop="20250204040000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204040000 +0800" stop="20250204060000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204060000 +0800" stop="20250204080000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204080000 +0800" stop="20250204100000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204100000 +0800" stop="20250204120000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204120000 +0800" stop="20250204140000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204140000 +0800" stop="20250204160000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204160000 +0800" stop="20250204180000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204180000 +0800" stop="20250204200000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204200000 +0800" stop="20250204220000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="now體育4k">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203140000 +0800" stop="20250203153000 +0800" channel="Now Sports 英超TV">
-<title lang="zh">英超週末總結</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="Now Sports 英超TV">
-<title lang="zh">英超賽事精華-狼隊對阿士東維拉</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="Now Sports 英超TV">
-<title lang="zh">英超賽事精華-般尼茅夫對利物浦</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="Now Sports 英超TV">
@@ -33124,7 +32200,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250204170000 +0800" stop="20250204180000 +0800" channel="Now Sports 英超TV">
-<title lang="zh">球星眼中的英超猛將第12集</title>
+<title lang="zh">球星眼中的英超猛將-費奧</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250204180000 +0800" stop="20250204183000 +0800" channel="Now Sports 英超TV">
@@ -33156,15 +32232,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250204223000 +0800" stop="20250204233000 +0800" channel="Now Sports 英超TV">
-<title lang="zh">球星眼中的英超猛將第12集</title>
+<title lang="zh">球星眼中的英超猛將-費奧</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250204233000 +0800" stop="20250204240000 +0800" channel="Now Sports 英超TV">
 <title lang="zh">英超精彩重溫第13集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="Now Sports 英超TV1">
-<title lang="zh">英格蘭超級聯賽-阿仙奴對曼城</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203160000 +0800" stop="20250203180000 +0800" channel="Now Sports 英超TV1">
@@ -33335,10 +32407,6 @@
 <title lang="zh">英格蘭超級聯賽精華-第二十四週</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203120000 +0800" stop="20250203160000 +0800" channel="Now Sports 英超 TV2">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203200000 +0800" stop="20250204000000 +0800" channel="Now Sports 英超 TV2">
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
@@ -33364,10 +32432,6 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250204200000 +0800" stop="20250204240000 +0800" channel="Now Sports 英超 TV2">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203120000 +0800" stop="20250203160000 +0800" channel="Now Sports 英超 TV3">
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -33399,10 +32463,6 @@
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203120000 +0800" stop="20250203160000 +0800" channel="Now Sports 英超 TV4">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203200000 +0800" stop="20250204000000 +0800" channel="Now Sports 英超 TV4">
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
@@ -33428,10 +32488,6 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250204200000 +0800" stop="20250204240000 +0800" channel="Now Sports 英超 TV4">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203120000 +0800" stop="20250203160000 +0800" channel="Now Sports 英超 TV5">
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -33463,10 +32519,6 @@
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203120000 +0800" stop="20250203160000 +0800" channel="Now Sports 英超 TV6">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203200000 +0800" stop="20250204000000 +0800" channel="Now Sports 英超 TV6">
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
@@ -33492,10 +32544,6 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250204200000 +0800" stop="20250204240000 +0800" channel="Now Sports 英超 TV6">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203120000 +0800" stop="20250203160000 +0800" channel="Now Sports 英超 TV7">
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -33525,14 +32573,6 @@
 </programme>
 <programme start="20250204200000 +0800" stop="20250204240000 +0800" channel="Now Sports 英超 TV7">
 <title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203130000 +0800" stop="20250203151500 +0800" channel="Now Sports Premier">
-<title lang="zh">ATP25奧克蘭網球經典賽-準決賽(2)</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203151500 +0800" stop="20250203153000 +0800" channel="Now Sports Premier">
-<title lang="zh">羽毛球一周第97集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203153000 +0800" stop="20250203174500 +0800" channel="Now Sports Premier">
@@ -33679,14 +32719,6 @@
 <title lang="zh">英超故事24/25第34集</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203120000 +0800" stop="20250203163000 +0800" channel="Now Sports 1">
-<title lang="zh">WTT新加坡大滿貫2025-第二天(B)[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203163000 +0800" stop="20250203164500 +0800" channel="Now Sports 1">
-<title lang="zh">羽毛球一周第97集</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203164500 +0800" stop="20250203170000 +0800" channel="Now Sports 1">
 <title lang="zh">一cue過百第1集</title>
 <desc lang="zh"> </desc>
@@ -33815,10 +32847,6 @@
 <title lang="zh">PGATOUR:TheCUT2025第5集</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203133000 +0800" stop="20250203153000 +0800" channel="Now Sports 2">
-<title lang="zh">西班牙甲組足球聯賽-貝迪斯對畢爾包</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203153000 +0800" stop="20250203170000 +0800" channel="Now Sports 2">
 <title lang="zh">西甲歡呼賽後討論</title>
 <desc lang="zh"> </desc>
@@ -33917,10 +32945,6 @@
 </programme>
 <programme start="20250204223000 +0800" stop="20250204240000 +0800" channel="Now Sports 2">
 <title lang="zh">西甲歡呼</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144500 +0800" stop="20250203150000 +0800" channel="Now Sports 3">
-<title lang="zh">一cue過百第274集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203150000 +0800" stop="20250203170000 +0800" channel="Now Sports 3">
@@ -34089,22 +33113,6 @@
 </programme>
 <programme start="20250204234500 +0800" stop="20250204240000 +0800" channel="Now Sports 3">
 <title lang="zh">一cue過百第274集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="Now Sports 4">
-<title lang="zh">WTA25林茨女子網球公開賽-決賽</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203161500 +0800" channel="Now Sports 4">
-<title lang="zh">一cue過百第5集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203161500 +0800" stop="20250203163000 +0800" channel="Now Sports 4">
-<title lang="zh">一cue過百第2集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203163000 +0800" stop="20250203164500 +0800" channel="Now Sports 4">
-<title lang="zh">一cue過百第1集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203164500 +0800" stop="20250203170000 +0800" channel="Now Sports 4">
@@ -34283,8 +33291,8 @@
 <title lang="zh">FrauenBundesliga24/25第25集-EintrachtvBayerLeverkusen</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203225000 +0800" stop="20250204005500 +0800" channel="Now Sports 5">
-<title lang="zh">SerieAFemminile24/25第56集-ComovLazio</title>
+<programme start="20250203230500 +0800" stop="20250204005500 +0800" channel="Now Sports 5">
+<title lang="zh">WNBL'24/25第11集-SouthsidevGeelong</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250204005500 +0800" stop="20250204030000 +0800" channel="Now Sports 5">
@@ -34328,7 +33336,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250204181500 +0800" stop="20250204201500 +0800" channel="Now Sports 5">
-<title lang="zh">SerieAFemminile24/25第54集-RomavSampdoria</title>
+<title lang="zh">SerieAFemminile24/25第56集-SassuolovMilan</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250204201500 +0800" stop="20250204221500 +0800" channel="Now Sports 5">
@@ -34341,10 +33349,6 @@
 </programme>
 <programme start="20250204224500 +0800" stop="20250204240000 +0800" channel="Now Sports 5">
 <title lang="zh">FrauenBundesliga24/25第25集-EintrachtvBayerLeverkusen</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203164500 +0800" channel="Now Sports 6">
-<title lang="zh">ATP25奧克蘭網球經典賽-準決賽(2)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203164500 +0800" stop="20250203170000 +0800" channel="Now Sports 6">
@@ -34455,10 +33459,6 @@
 <title lang="zh">ATP25鹿特丹網球公開賽-第一圈(C)[直播]</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203133000 +0800" stop="20250203160000 +0800" channel="Now Sports 7">
-<title lang="zh">德國桌球大師賽-決賽(1)</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203183000 +0800" channel="Now Sports 7">
 <title lang="zh">德國桌球大師賽-決賽(2)</title>
 <desc lang="zh"> </desc>
@@ -34533,10 +33533,6 @@
 </programme>
 <programme start="20250204213000 +0800" stop="20250204240000 +0800" channel="Now Sports 7">
 <title lang="zh">德國桌球大師賽-半準決賽(1)</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203142500 +0800" stop="20250203161000 +0800" channel="beIN SPORTS 1">
-<title lang="zh">德國甲組足球聯賽第175集-波琴對弗賴堡</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203161000 +0800" stop="20250203180500 +0800" channel="beIN SPORTS 1">
@@ -34617,10 +33613,6 @@
 </programme>
 <programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="beIN SPORTS 1">
 <title lang="zh">2024/25阿仙奴電視頻道第33集-阿仙奴對曼城</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203132000 +0800" stop="20250203152000 +0800" channel="beIN SPORTS 2">
-<title lang="zh">澳洲網球公開賽最佳賽事第1集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203152000 +0800" stop="20250203171000 +0800" channel="beIN SPORTS 2">
@@ -34709,10 +33701,6 @@
 </programme>
 <programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="beIN SPORTS 2">
 <title lang="zh">澳洲網球公開賽最佳賽事第2集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203163000 +0800" channel="MUTV">
-<title lang="zh">英超24/25第24集-曼聯對水晶宮</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="MUTV">
@@ -34883,10 +33871,6 @@
 <title lang="zh">紅魔多媒體第148集</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="Now Sports 641">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203180000 +0800" channel="Now Sports 641">
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
@@ -34949,22 +33933,6 @@
 </programme>
 <programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="Now Sports 641">
 <title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203130000 +0800" stop="20250203150000 +0800" channel="NBA">
-<title lang="zh">NBA常規賽-洛杉磯快艇對多倫多速龍</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="NBA">
-<title lang="zh">NBA傳真</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="NBA">
-<title lang="zh">NBA傳真</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="NBA">
-<title lang="zh">NBA傳真</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="NBA">
@@ -35107,10 +34075,6 @@
 <title lang="zh">NBA傳真</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203141000 +0800" stop="20250203151000 +0800" channel="beIN SPORTS 3">
-<title lang="zh">歐霸/歐洲協會聯賽雜誌第11集-歐霸盃聯賽階段回顧</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203151000 +0800" stop="20250203170000 +0800" channel="beIN SPORTS 3">
 <title lang="zh">歐霸盃第140集-皇家蘇斯達對沙朗歷基(比賽日8)</title>
 <desc lang="zh"> </desc>
@@ -35195,10 +34159,6 @@
 <title lang="zh">歐洲聯賽冠軍盃第142集-利華古遜對布拉格斯巴達(比賽日8)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203120000 +0800" stop="20250203160000 +0800" channel="beIN SPORTS 4">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203200000 +0800" stop="20250204000000 +0800" channel="beIN SPORTS 4">
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
@@ -35227,10 +34187,6 @@
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203120000 +0800" stop="20250203160000 +0800" channel="beIN SPORTS 5">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203200000 +0800" stop="20250204000000 +0800" channel="beIN SPORTS 5">
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
@@ -35256,10 +34212,6 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250204200000 +0800" stop="20250204240000 +0800" channel="beIN SPORTS 5">
-<title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203120000 +0800" stop="20250203160000 +0800" channel="beIN SPORTS 6">
 <title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -35297,10 +34249,6 @@
 </programme>
 <programme start="20250204080000 +0800" stop="20250204240000 +0800" channel="beIN SPORTS RUGBY">
 <title lang="zh"></title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203140000 +0800" stop="20250203160000 +0800" channel="Now Sports 651">
-<title lang="zh">請留意下場播映賽事</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203160000 +0800" stop="20250203180000 +0800" channel="Now Sports 651">
@@ -35361,14 +34309,6 @@
 </programme>
 <programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="Now Sports 651">
 <title lang="zh">請留意下場播映賽事</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144000 +0800" stop="20250203153500 +0800" channel="Now Sports 668">
-<title lang="zh">賽事重溫第41集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153500 +0800" stop="20250203163000 +0800" channel="Now Sports 668">
-<title lang="zh">賽事重溫第42集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203172500 +0800" channel="Now Sports 668">
@@ -35527,12 +34467,8 @@
 <title lang="zh">PakistantourofSouthAfrica2024/25-2ndTestDay4</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250204060000 +0800" stop="20250204130000 +0800" channel="Astro Cricket">
+<programme start="20250204060000 +0800" stop="20250204133000 +0800" channel="Astro Cricket">
 <title lang="zh">Women'sAshes2024/25-TestDay2</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250204130000 +0800" stop="20250204133000 +0800" channel="Astro Cricket">
-<title lang="zh">IPLHighlights-Match11</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250204133000 +0800" stop="20250204140000 +0800" channel="Astro Cricket">
@@ -35543,16 +34479,12 @@
 <title lang="zh">EnglandinIndia2024/25-3rdT20i</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250204180000 +0800" stop="20250204220000 +0800" channel="Astro Cricket">
+<programme start="20250204180000 +0800" stop="20250204221500 +0800" channel="Astro Cricket">
 <title lang="zh">EnglandinIndia2024/25-4thT20i</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="Astro Cricket">
+<programme start="20250204221500 +0800" stop="20250204240000 +0800" channel="Astro Cricket">
 <title lang="zh">EnglandinIndia2024/25-5thT20i</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203142000 +0800" stop="20250203161000 +0800" channel="Premier Sports">
-<title lang="zh">Under-20SixNations-IrelandU20vEnglandU20</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203161000 +0800" stop="20250203180000 +0800" channel="Premier Sports">
@@ -35641,18 +34573,6 @@
 </programme>
 <programme start="20250204223000 +0800" stop="20250204240000 +0800" channel="Premier Sports">
 <title lang="zh">URC-ScarletsvEdinburgh</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144500 +0800" stop="20250203150000 +0800" channel="Now Sports plus">
-<title lang="zh">羽毛球一周第97集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203160000 +0800" channel="Now Sports plus">
-<title lang="zh">世界羽聯巡迴賽2025泰國大師賽-女單決賽</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="Now Sports plus">
-<title lang="zh">VERBIEE-BIKEFESTIVAL2024Highlights第1集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203173000 +0800" channel="Now Sports plus">
@@ -35863,10 +34783,6 @@
 <title lang="zh">DPWorldTourHighlights24/25-BapcoEnergiesBahrainChampionship</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203150000 +0800" channel="Now 高爾夫3">
-<title lang="zh">KornFerryTourHighlights2025-TheBahamasGreatAbacoClassicatTheAbacoClub</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203150000 +0800" stop="20250203203000 +0800" channel="Now 高爾夫3">
 <title lang="zh">PGATOUR2025AT&amp;amp;TPebbleBeachPro-Am-Day4</title>
 <desc lang="zh"> </desc>
@@ -35925,30 +34841,6 @@
 </programme>
 <programme start="20250204080000 +0800" stop="20250204240000 +0800" channel="Lucky 688">
 <title lang="zh"></title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203144000 +0800" stop="20250203145000 +0800" channel="NHK World Premium">
-<title lang="zh">PointsAtIssue</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203145000 +0800" stop="20250203153500 +0800" channel="NHK World Premium">
-<title lang="zh">TheFountainOfAncientWisdom'HosokawaYusai'</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153500 +0800" stop="20250203160000 +0800" channel="NHK World Premium">
-<title lang="zh">ExploringFactories</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203161000 +0800" channel="NHK World Premium">
-<title lang="zh">DesignAh!Neo</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203161000 +0800" stop="20250203162000 +0800" channel="NHK World Premium">
-<title lang="zh">FunWithJapanese</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203162000 +0800" stop="20250203163500 +0800" channel="NHK World Premium">
-<title lang="zh">Peek-A-Boo</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163500 +0800" stop="20250203165900 +0800" channel="NHK World Premium">
@@ -36315,22 +35207,6 @@
 <title lang="zh">HokkaidoSpecialSkiTouringThroughTheSnowyPeaksOfTheTokachiMountainRange</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203145100 +0800" stop="20250203145900 +0800" channel="TV5MONDE Style">
-<title lang="zh">TendanceXXIExpress第6季第107集-AteliersD'alix:LearnHowToSew</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203145900 +0800" stop="20250203154400 +0800" channel="TV5MONDE Style">
-<title lang="zh">Maisons&amp;amp;HotelsDeLegende第20集-Carlton:TheRenaissanceOfAnIcon</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154400 +0800" stop="20250203161000 +0800" channel="TV5MONDE Style">
-<title lang="zh">LeMagazineDeLaRiviera第1季</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203161000 +0800" stop="20250203163600 +0800" channel="TV5MONDE Style">
-<title lang="zh">VersionFrancaise第10季第21集-TheSculptorGregoireScalabre/BasqueKnives</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163600 +0800" stop="20250203170200 +0800" channel="TV5MONDE Style">
 <title lang="zh">ChefPays第20集-Avocado</title>
 <desc lang="zh"> </desc>
@@ -36569,22 +35445,6 @@
 </programme>
 <programme start="20250204234500 +0800" stop="20250204240000 +0800" channel="TV5MONDE Style">
 <title lang="zh">QuartierRecherche第1季第7集-Ottawa</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203145700 +0800" channel="TV5MONDE ASIE">
-<title lang="zh">ChefPays第12集-Tea-Time!</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203145700 +0800" stop="20250203153000 +0800" channel="TV5MONDE ASIE">
-<title lang="zh">Slam</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="TV5MONDE ASIE">
-<title lang="zh">LeJournalDeRadio-Canada</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203162900 +0800" channel="TV5MONDE ASIE">
-<title lang="zh">C'estPlusQu'unJardin第3季第6集-FromInsectsToAFirstHarvest</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203162900 +0800" stop="20250203165800 +0800" channel="TV5MONDE ASIE">
@@ -36841,42 +35701,6 @@
 </programme>
 <programme start="20250204234600 +0800" stop="20250204240000 +0800" channel="TV5MONDE ASIE">
 <title lang="zh">GardePartagee第1季第10集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203145100 +0800" stop="20250203150000 +0800" channel="France 24 (French)">
-<title lang="zh">Focus</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="France 24 (French)">
-<title lang="zh">Lejournal[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203154600 +0800" channel="France 24 (French)">
-<title lang="zh">Lejournal[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203154600 +0800" stop="20250203155600 +0800" channel="France 24 (French)">
-<title lang="zh">Danslapresse</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203155600 +0800" stop="20250203160000 +0800" channel="France 24 (French)">
-<title lang="zh">Rappeldestitres[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203162200 +0800" channel="France 24 (French)">
-<title lang="zh">Lejournal[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203162200 +0800" stop="20250203163000 +0800" channel="France 24 (French)">
-<title lang="zh">L'info&amp;eacute;co[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203163000 +0800" stop="20250203164200 +0800" channel="France 24 (French)">
-<title lang="zh">Lejournal[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203164200 +0800" stop="20250203164700 +0800" channel="France 24 (French)">
-<title lang="zh">Danslapresse[直播]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203164700 +0800" stop="20250203165200 +0800" channel="France 24 (French)">
@@ -37515,18 +36339,6 @@
 <title lang="zh">&amp;Agrave;l'affiche</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203143000 +0800" stop="20250203152000 +0800" channel="GMA Pinoy TV">
-<title lang="zh">Tiktoclock:HappyHourNa</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203152000 +0800" stop="20250203155000 +0800" channel="GMA Pinoy TV">
-<title lang="zh">LiletMatias:Attorney-At-Law</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203155000 +0800" stop="20250203162000 +0800" channel="GMA Pinoy TV">
-<title lang="zh">ForeverYoung</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203162000 +0800" stop="20250203170000 +0800" channel="GMA Pinoy TV">
 <title lang="zh">PrinsesaNgCityJail</title>
 <desc lang="zh"> </desc>
@@ -37679,14 +36491,6 @@
 <title lang="zh">FastTalkWithBoyAbunda</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203141500 +0800" stop="20250203151500 +0800" channel="GMA Life T">
-<title lang="zh">Balitanghali</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203151500 +0800" stop="20250203160000 +0800" channel="GMA Life T">
-<title lang="zh">PinoyM.d.</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203180000 +0800" channel="GMA Life T">
 <title lang="zh">ReelLife</title>
 <desc lang="zh"> </desc>
@@ -37825,22 +36629,6 @@
 </programme>
 <programme start="20250204233000 +0800" stop="20250204240000 +0800" channel="GMA Life T">
 <title lang="zh">LutongBahay</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="TFC">
-<title lang="zh">TFCKidsZone</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="TFC">
-<title lang="zh">Incognito[直播]</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="TFC">
-<title lang="zh">Fpj'sBatangQuiapo</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="TFC">
-<title lang="zh">HowToSpotARedFlag[直播]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="TFC">
@@ -37991,14 +36779,6 @@
 <title lang="zh">It'sShowtime[直播]</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="Sony TV (India)">
-<title lang="zh">AanganAapnoKaa第1季第55集-AanganAapnoKaa</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203160000 +0800" channel="Sony TV (India)">
-<title lang="zh">CelebrityMasterchef第1季第5集-CelebrityMasterchef</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203173000 +0800" channel="Sony TV (India)">
 <title lang="zh">25YearsOfKaunBanegaCrorepati第1季第125集-25YearsOfKaunBanegaCrorepati</title>
 <desc lang="zh"> </desc>
@@ -38139,10 +36919,6 @@
 <title lang="zh">CelebrityMasterchef第1季第6集-CelebrityMasterchef</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203123800 +0800" stop="20250203150000 +0800" channel="Sony MAX">
-<title lang="zh">ItasMyLife-ItasMyLife</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203150000 +0800" stop="20250203171500 +0800" channel="Sony MAX">
 <title lang="zh">NaramGaram-NaramGaram</title>
 <desc lang="zh"> </desc>
@@ -38213,22 +36989,6 @@
 </programme>
 <programme start="20250204222200 +0800" stop="20250204240000 +0800" channel="Sony MAX">
 <title lang="zh">PyarMeinTwist-PyarMeinTwist</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143400 +0800" stop="20250203150100 +0800" channel="Sony SAB">
-<title lang="zh">ShrimadRamayan第1季第326集-ShrimadRamayan</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150100 +0800" stop="20250203153300 +0800" channel="Sony SAB">
-<title lang="zh">WagleKiDuniya第1季第1199集-WagleKiDuniya</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153300 +0800" stop="20250203155900 +0800" channel="Sony SAB">
-<title lang="zh">TaarakMehtaKaOoltahChashmah第1季第4309集-TaarakMehtaKaOoltahChashmah</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203155900 +0800" stop="20250203163700 +0800" channel="Sony SAB">
-<title lang="zh">PushpaImpossible第1季第831集-PushpaImpossible</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163700 +0800" stop="20250203170400 +0800" channel="Sony SAB">
@@ -38475,14 +37235,6 @@
 <title lang="zh">TenaliRama2.0第1季第43集-TenaliRama2.0</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203151500 +0800" channel="MTV India">
-<title lang="zh">Roadies第6集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203151500 +0800" stop="20250203160000 +0800" channel="MTV India">
-<title lang="zh">Splitsvilla第21集</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203171500 +0800" channel="MTV India">
 <title lang="zh">Roadies第4集</title>
 <desc lang="zh"> </desc>
@@ -38613,22 +37365,6 @@
 </programme>
 <programme start="20250204230000 +0800" stop="20250204240000 +0800" channel="MTV India">
 <title lang="zh">Splitsvilla第22集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="COLORS">
-<title lang="zh">RamBhavan第5集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="COLORS">
-<title lang="zh">MangalLakshmi第340集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="COLORS">
-<title lang="zh">MangalLakshmi第341集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="COLORS">
-<title lang="zh">MannatHarrKhushiPaaneKi第20集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="COLORS">
@@ -38875,10 +37611,6 @@
 <title lang="zh">MannatHarrKhushiPaaneKi第21集</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203130000 +0800" stop="20250203160000 +0800" channel="Zee Cinema International">
-<title lang="zh">AatmaFeelItAroundYou</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203160000 +0800" stop="20250203190000 +0800" channel="Zee Cinema International">
 <title lang="zh">Bulandi</title>
 <desc lang="zh"> </desc>
@@ -38921,18 +37653,6 @@
 </programme>
 <programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="Zee Cinema International">
 <title lang="zh">AgentVinod</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203120000 +0800" stop="20250203150000 +0800" channel="Zee TV">
-<title lang="zh">BaarBaarDekho第23集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203160000 +0800" channel="Zee TV">
-<title lang="zh">Trinayani第34集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="Zee TV">
-<title lang="zh">JaaneAnjaaneHumMile第28集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="Zee TV">
@@ -39155,7 +37875,11 @@
 <title lang="zh">KaiseMujheTumMilGaye第430集</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203160000 +0800" stop="20250204000000 +0800" channel="Zee News">
+<programme start="20250203160000 +0800" stop="20250204160000 +0800" channel="Zee News">
+<title lang="zh">此頻道未能提供節目表敬請原諒!</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250204160000 +0800" stop="20250204000000 +0800" channel="Zee News">
 <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -39169,10 +37893,6 @@
 </programme>
 <programme start="20250204160000 +0800" stop="20250204240000 +0800" channel="Zee News">
 <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203114500 +0800" stop="20250203150000 +0800" channel="Star Gold">
-<title lang="zh">Chandni</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203150000 +0800" stop="20250203171500 +0800" channel="Star Gold">
@@ -39233,22 +37953,6 @@
 </programme>
 <programme start="20250204224500 +0800" stop="20250204240000 +0800" channel="Star Gold">
 <title lang="zh">DreamGirl2</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="STAR PLUS">
-<title lang="zh">PocketMeinAasmaan第4集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203153000 +0800" channel="STAR PLUS">
-<title lang="zh">Anupamaa第1547集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203153000 +0800" stop="20250203160000 +0800" channel="STAR PLUS">
-<title lang="zh">GhumHaiKisikeyPyaarMeiin第1475集</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="STAR PLUS">
-<title lang="zh">IssIshqKa...RabbRakha第138集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="STAR PLUS">
@@ -39499,18 +38203,6 @@
 <title lang="zh">UdneKiAasha第328集</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203143000 +0800" stop="20250203150000 +0800" channel="Star Bharat">
-<title lang="zh">KulfiKumarBajewala</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203160000 +0800" channel="Star Bharat">
-<title lang="zh">Lakshya</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203160000 +0800" stop="20250203163000 +0800" channel="Star Bharat">
-<title lang="zh">YehRishteyHainPyaarKe</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163000 +0800" stop="20250203170000 +0800" channel="Star Bharat">
 <title lang="zh">YehRishteyHainPyaarKe</title>
 <desc lang="zh"> </desc>
@@ -39719,10 +38411,6 @@
 <title lang="zh"></title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250203140000 +0800" stop="20250203163000 +0800" channel="冰火頻道">
-<title lang="zh">Madonna熟女:瘋狂美熟女發情三小時</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250203163000 +0800" stop="20250203190000 +0800" channel="冰火頻道">
 <title lang="zh">百田光希:1憶Body的168次高潮</title>
 <desc lang="zh"> </desc>
@@ -39777,14 +38465,6 @@
 </programme>
 <programme start="20250204220000 +0800" stop="20250204240000 +0800" channel="冰火頻道">
 <title lang="zh">長濱蜜璃:盡情享受甜蜜的抽插</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203140000 +0800" stop="20250203150000 +0800" channel="成人極品台">
-<title lang="zh">乳樂無窮:界限突破催情效果最高潮-姬咲華</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250203150000 +0800" stop="20250203160000 +0800" channel="成人極品台">
-<title lang="zh">專題企劃:美女運動員的私人性愛影集</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250203160000 +0800" stop="20250203170000 +0800" channel="成人極品台">
