@@ -346,7 +346,7 @@ for ($k51 = 1; $k51 <= $trm51-1 ; $k51++) {
 }
 
   $chn.="<channel id=\"中天亞洲台\"><display-name lang=\"zh\">中天亞洲台</display-name></channel>\n";
-$url79='https://asia-east2-ctitv-237901.cloudfunctions.net/ctitv-API-program-list?chid=a2&start='.$dt1.'&end='.$dt1.'&_=';
+$url79='https://asia-east1-ctitv-237901.cloudfunctions.net/ProgramList-Api2??chid=a2&start='.$dt1.'&end='.$dt1.'&_=';
 $ch79= curl_init ();
 curl_setopt ( $ch79, CURLOPT_URL, $url79 );
 curl_setopt ( $ch79, CURLOPT_RETURNTRANSFER, 1 );
@@ -378,7 +378,7 @@ $end79=json_decode($re79)[$k79]->end;
 
 }
 
-$url791='https://asia-east2-ctitv-237901.cloudfunctions.net/ctitv-API-program-list?chid=a2&start='.$dt1.'&end='.$dt2.'&_=';
+$url791='https://asia-east1-ctitv-237901.cloudfunctions.net/ProgramList-Api2?chid=a2&start='.$dt1.'&end='.$dt2.'&_=';
 
 $ch791= curl_init ();
 curl_setopt ( $ch791, CURLOPT_URL, $url791 );
