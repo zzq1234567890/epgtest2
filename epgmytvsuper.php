@@ -355,7 +355,8 @@ curl_setopt($ch79,CURLOPT_SSL_VERIFYHOST,false);
 curl_setopt($ch79,CURLOPT_USERAGENT,'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0');
 //curl_setopt($ch79,CURLOPT_ENCODING,'Vary: Accept-Encoding');
     $re79 = curl_exec($ch79);
-   // $re79=str_replace('&','&amp;',$re79);
+   $re79=str_replace('T','',$re79);
+   $re79=str_replace('Z','',$re79);
    curl_close($ch79);
 
 //print $re79;
@@ -388,6 +389,8 @@ curl_setopt($ch791,CURLOPT_SSL_VERIFYHOST,false);
 curl_setopt($ch791,CURLOPT_USERAGENT,'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0');
 //curl_setopt($ch791,CURLOPT_ENCODING,'Vary: Accept-Encoding');
     $re791 = curl_exec($ch791);
+$re791=str_replace('T','',$re791);
+   $re791=str_replace('Z','',$re791);
    // $re79=str_replace('&','&amp;',$re79);
    curl_close($ch791);
 $ryut791=count(json_decode($re791));
