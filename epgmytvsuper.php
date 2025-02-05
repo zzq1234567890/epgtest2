@@ -409,6 +409,147 @@ $end791=json_decode($re791)[$k791]->end;
 
 }
 
+ $chn.="<channel id=\"龍華卡通台\"><display-name lang=\"zh\">龍華卡通台</display-name></channel>\n";//用於xml的channel輸出
+ $chn.="<channel id=\"龍華日韓台\"><display-name lang=\"zh\">龍華日韓台</display-name></channel>\n";//用於xml的channel輸出
+
+$url40 = 'https://www.ltv.com.tw/wp-admin/admin-ajax.php';
+
+$headers40 = [
+    'Host: www.ltv.com.tw',
+    'sec-ch-ua: "Not)A;Brand";v="24", "Chromium";v="116"',
+    'DNT: 1',
+    'sec-ch-ua-mobile: ?0',
+    'User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 SE 2.X MetaSr 1.0',
+    'Content-Type: application/x-www-form-urlencoded; charset=UTF-8',
+    'X-Requested-With: XMLHttpRequest',
+    'sec-ch-ua-platform: "Windows"',
+    'Origin: https://www.ltv.com.tw',
+    'Referer: https://www.ltv.com.tw/ott%e7%af%80%e7%9b%ae%e8%a1%a8/'
+];
+
+$data40 = [
+    'action' => 'timetable',
+    'type' => 51,
+    'play_date' => $dt11
+];
+
+$ch40 = curl_init();
+curl_setopt($ch40, CURLOPT_URL, $url40);
+curl_setopt($ch40, CURLOPT_POST, true);
+curl_setopt($ch40, CURLOPT_HTTPHEADER, $headers40);
+curl_setopt($ch40, CURLOPT_POSTFIELDS, http_build_query($data40));
+curl_setopt($ch40, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch40, CURLOPT_SSL_VERIFYPEER, false); // 忽略SSL验证（测试用）
+$response40 = curl_exec($ch40);
+curl_close($ch40);
+$response40 = str_replace(array("\r\n", "\r", "\n"), "", $response40);
+$response40 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $response40); // 适合php7
+$response40 = preg_replace('/\s+/', '', $response40);
+//print $response ;
+// Corrected regex pattern to properly escape characters:
+
+
+// 使用正则表达式匹配目标内容
+//preg_match("/偶像(.*)卡通/i", $response40,$matches40);
+preg_match('/class="timetable-column-header">卡通(.*)class="timetable-column-header">日韓/i', $response40,$matches40);
+// 输出提取的内容
+//print $matches[1];
+preg_match_all('|<divclass="timetable-name">(.*?)</div>|i',$matches40[1],$ulk40,PREG_SET_ORDER);//播放節目名稱
+preg_match_all('|<divclass="timetable-desc">(.*?)<br>|i',$matches40[1],$umk40,PREG_SET_ORDER);//播放節目介紹
+preg_match_all('|<divclass="timetable-time">(.*?)</div>|i',$matches40[1],$unk40,PREG_SET_ORDER);//播放時間
+ $trmk40=sizeof($ulk40);
+//print_r($unk10);
+//print_r($ulk10);
+//print_r($umk10);
+
+for ($kk40 =2; $kk40 < $trmk40-1; $kk40++) { 
+
+
+    $chn.="<programme start=\"".$dt1.str_replace(':','',substr("".$unk40[($kk40-1)*2][1]."",0,5)).'00 +0800'."\"  stop=\"".$dt1.str_replace(':','',substr("".$unk40[($kk40-1)*2][1]."",-5)).'00 +0800'."\" channel=\"龍華卡通台\">\n<title lang=\"zh\">".$ulk40[$kk40-1][1]."</title>\n<desc lang=\"zh\">".$umk40[$kk40-1][1]." </desc>\n</programme>\n";
+                 }
+
+preg_match('/class="timetable-column-header">日韓(.*)class="timetable-column-header">知識/i', $response40,$matches401);
+// 输出提取的内容
+//print $matches1[1];
+preg_match_all('|<divclass="timetable-name">(.*?)</div>|i',$matches401[1],$uqk4010,PREG_SET_ORDER);//播放節目名稱
+preg_match_all('|<divclass="timetable-desc">(.*?)<br>|i',$matches401[1],$uok4010,PREG_SET_ORDER);//播放節目介紹
+preg_match_all('|<divclass="timetable-time">(.*?)</div>|i',$matches401[1],$upk4010,PREG_SET_ORDER);//播放時間
+ $trmk401=sizeof($uqk4010);
+//print_r($uqk10);
+//print_r($uok10);
+//print_r($upk10);
+
+for ($kk401 =2; $kk401 < $trmk401-1; $kk401++) { 
+
+
+    $chn.="<programme start=\"".$dt1.str_replace(':','',substr("".$upk4010[($kk401-1)*2][1]."",0,5)).'00 +0800'."\"  stop=\"".$dt1.str_replace(':','',substr("".$upk4010[($kk101-1)*2][1]."",-5)).'00 +0800'."\" channel=\"龍華日韓台\">\n<title lang=\"zh\">".$uqk4010[$kk401-1][1]."</title>\n<desc lang=\"zh\">".$uok4010[$kk401-1][1]." </desc>\n</programme>\n";
+                 }
+
+
+
+
+
+$data42 = [
+    'action' => 'timetable',
+    'type' => 51,
+    'play_date' => $dt12
+];
+
+$ch42 = curl_init();
+curl_setopt($ch42, CURLOPT_URL, $url);
+curl_setopt($ch42, CURLOPT_POST, true);
+curl_setopt($ch42, CURLOPT_HTTPHEADER, $headers);
+curl_setopt($ch42, CURLOPT_POSTFIELDS, http_build_query($data42));
+curl_setopt($ch42, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch42, CURLOPT_SSL_VERIFYPEER, false); // 忽略SSL验证（测试用）
+$response42 = curl_exec($ch42);
+curl_close($ch42);
+$response42 = str_replace(array("\r\n", "\r", "\n"), "", $response42);
+$response42 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $response421); // 适合php7
+$response42 = preg_replace('/\s+/', '', $response42);
+//print $response ;
+// Corrected regex pattern to properly escape characters:
+
+
+// 使用正则表达式匹配目标内容
+//preg_match("/偶像(.*)卡通/i", $response42,$matches4211);
+preg_match('/class="timetable-column-header">卡通(.*)class="timetable-column-header">日韓/i', $response42,$matches4211);
+// 输出提取的内容
+//print $matches[1];
+preg_match_all('|<divclass="timetable-name">(.*?)</div>|i',$matches4211[1],$ulk4011,PREG_SET_ORDER);//播放節目名稱
+preg_match_all('|<divclass="timetable-desc">(.*?)<br>|i',$matches4211[1],$umk4011,PREG_SET_ORDER);//播放節目介紹
+preg_match_all('|<divclass="timetable-time">(.*?)</div>|i',$matches4211[1],$unk4011,PREG_SET_ORDER);//播放時間
+ $trmk4011=sizeof($ulk4011);
+//print_r($unk10);
+//print_r($ulk10);
+//print_r($umk10);
+
+for ($kk4011 =2; $kk4011 < $trmk4011-1; $kk4011++) { 
+
+
+    $chn.="<programme start=\"".$dt2.str_replace(':','',substr("".$unk4011[($kk4011-1)*2][1]."",0,5)).'00 +0800'."\"  stop=\"".$dt2.str_replace(':','',substr("".$unk4011[($kk4011-1)*2][1]."",-5)).'00 +0800'."\" channel=\"龍華卡通台\">\n<title lang=\"zh\">".$ulk4011[$kk4011-1][1]."</title>\n<desc lang=\"zh\">".$umk4011[$kk4011-1][1]." </desc>\n</programme>\n";
+                 }
+
+preg_match('/class="timetable-column-header">日韓(.*)class="timetable-column-header">知識/i', $response42,$matches14212);
+// 输出提取的内容
+//print $matches1[1];
+preg_match_all('|<divclass="timetable-name">(.*?)</div>|i',$matches4212[1],$uqk4012,PREG_SET_ORDER);//播放節目名稱
+preg_match_all('|<divclass="timetable-desc">(.*?)<br>|i',$matches4212[1],$uok4012,PREG_SET_ORDER);//播放節目介紹
+preg_match_all('|<divclass="timetable-time">(.*?)</div>|i',$matches4212[1],$upk4012,PREG_SET_ORDER);//播放時間
+ $trmk40112=sizeof($uqk4012);
+//print_r($uqk10);
+//print_r($uok10);
+//print_r($upk10);
+
+for ($kk40112 =2; $kk40112 < $trmk40112-1; $kk40112++) { 
+
+
+    $chn.="<programme start=\"".$dt2.str_replace(':','',substr("".$upk4012[($kk40112-1)*2][1]."",0,5)).'00 +0800'."\"  stop=\"".$dt2.str_replace(':','',substr("".$upk4012[($kk40112-1)*2][1]."",-5)).'00 +0800'."\" channel=\"龍華日韓台\">\n<title lang=\"zh\">".$uqk4012[$kk40112-1][1]."</title>\n<desc lang=\"zh\">".$uok4012[$kk40112-1][1]." </desc>\n</programme>\n";
+                 }
+
+
+
+
 //8inow
 $id80=100579;//起始节目编号
 $cid8=array(
