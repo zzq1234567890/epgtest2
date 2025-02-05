@@ -4,7 +4,7 @@ name: ipcheck
 on:
   schedule:
     - cron: '1 */8 * * *'  # 每小时执行一次
-  workflow_dispatch:  # 允许手动触发
+#  workflow_dispatch:  # 允许手动触发
 
 jobs:
   generate_and_upload:
