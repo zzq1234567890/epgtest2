@@ -468,6 +468,7 @@ for ($kk40 =2; $kk40 < $trmk40-1; $kk40++) {
     $chn.="<programme start=\"".$dt1.str_replace(':','',substr("".$unk40[($kk40-1)*2][1]."",0,5)).'00 +0800'."\"  stop=\"".$dt1.str_replace(':','',substr("".$unk40[($kk40-1)*2][1]."",-5)).'00 +0800'."\" channel=\"龍華卡通台\">\n<title lang=\"zh\">".$ulk40[$kk40-1][1]."</title>\n<desc lang=\"zh\">".$umk40[$kk40-1][1]." </desc>\n</programme>\n";
                  }
 
+
 preg_match('/class="timetable-column-header">日韓(.*)class="timetable-column-header">知識/i', $response40,$matches401);
 // 输出提取的内容
 //print $matches1[1];
@@ -482,7 +483,7 @@ preg_match_all('|<divclass="timetable-time">(.*?)</div>|i',$matches401[1],$upk40
 for ($kk401 =2; $kk401 < $trmk401-1; $kk401++) { 
 
 
-    $chn.="<programme start=\"".$dt1.str_replace(':','',substr("".$upk4010[($kk401-1)*2][1]."",0,5)).'00 +0800'."\"  stop=\"".$dt1.str_replace(':','',substr("".$upk4010[($kk101-1)*2][1]."",-5)).'00 +0800'."\" channel=\"龍華日韓台\">\n<title lang=\"zh\">".$uqk4010[$kk401-1][1]."</title>\n<desc lang=\"zh\">".$uok4010[$kk401-1][1]." </desc>\n</programme>\n";
+    $chn.="<programme start=\"".$dt1.str_replace(':','',substr("".$upk4010[($kk401-1)*2][1]."",0,5)).'00 +0800'."\"  stop=\"".$dt1.str_replace(':','',substr("".$upk4010[($kk401-1)*2][1]."",-5)).'00 +0800'."\" channel=\"龍華日韓台\">\n<title lang=\"zh\">".$uqk4010[$kk401-1][1]."</title>\n<desc lang=\"zh\">".$uok4010[$kk401-1][1]." </desc>\n</programme>\n";
                  }
 
 
@@ -496,18 +497,18 @@ $data42 = [
 ];
 
 $ch42 = curl_init();
-curl_setopt($ch42, CURLOPT_URL, $url);
+curl_setopt($ch42, CURLOPT_URL, $url40);
 curl_setopt($ch42, CURLOPT_POST, true);
-curl_setopt($ch42, CURLOPT_HTTPHEADER, $headers);
+curl_setopt($ch42, CURLOPT_HTTPHEADER, $headers40);
 curl_setopt($ch42, CURLOPT_POSTFIELDS, http_build_query($data42));
 curl_setopt($ch42, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch42, CURLOPT_SSL_VERIFYPEER, false); // 忽略SSL验证（测试用）
 $response42 = curl_exec($ch42);
 curl_close($ch42);
 $response42 = str_replace(array("\r\n", "\r", "\n"), "", $response42);
-$response42 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $response421); // 适合php7
+$response42 = preg_replace_callback('/\\\\u([0-9a-f]{4})/i', 'replace_unicode_escape_sequence', $response42); // 适合php7
 $response42 = preg_replace('/\s+/', '', $response42);
-//print $response ;
+//print $response42 ;
 // Corrected regex pattern to properly escape characters:
 
 
@@ -532,20 +533,24 @@ for ($kk4011 =2; $kk4011 < $trmk4011-1; $kk4011++) {
 
 preg_match('/class="timetable-column-header">日韓(.*)class="timetable-column-header">知識/i', $response42,$matches14212);
 // 输出提取的内容
-//print $matches1[1];
-preg_match_all('|<divclass="timetable-name">(.*?)</div>|i',$matches4212[1],$uqk4012,PREG_SET_ORDER);//播放節目名稱
-preg_match_all('|<divclass="timetable-desc">(.*?)<br>|i',$matches4212[1],$uok4012,PREG_SET_ORDER);//播放節目介紹
-preg_match_all('|<divclass="timetable-time">(.*?)</div>|i',$matches4212[1],$upk4012,PREG_SET_ORDER);//播放時間
- $trmk40112=sizeof($uqk4012);
-//print_r($uqk10);
-//print_r($uok10);
-//print_r($upk10);
+//print $matches14212[1];
 
-for ($kk40112 =2; $kk40112 < $trmk40112-1; $kk40112++) { 
+preg_match_all('|<divclass="timetable-name">(.*?)</div>|i',$matches14212[1],$uqk4012,PREG_SET_ORDER);//播放節目名稱
+preg_match_all('|<divclass="timetable-desc">(.*?)<br>|i',$matches14212[1],$uok4012,PREG_SET_ORDER);//播放節目介紹
+preg_match_all('|<divclass="timetable-time">(.*?)</div>|i',$matches14212[1],$upk4012,PREG_SET_ORDER);//播放時間
+ $trmk4012=sizeof($uqk4012);
+//print_r($uqk4012);
+//print_r($uok4012);
+//print_r($upk4012);
+
+for ($kk4012 =2; $kk4012 <  $trmk4012-1; $kk4012++) { 
 
 
-    $chn.="<programme start=\"".$dt2.str_replace(':','',substr("".$upk4012[($kk40112-1)*2][1]."",0,5)).'00 +0800'."\"  stop=\"".$dt2.str_replace(':','',substr("".$upk4012[($kk40112-1)*2][1]."",-5)).'00 +0800'."\" channel=\"龍華日韓台\">\n<title lang=\"zh\">".$uqk4012[$kk40112-1][1]."</title>\n<desc lang=\"zh\">".$uok4012[$kk40112-1][1]." </desc>\n</programme>\n";
+    $chn.="<programme start=\"".$dt2.str_replace(':','',substr("".$upk4012[($kk4012-1)*2][1]."",0,5)).'00 +0800'."\"  stop=\"".$dt2.str_replace(':','',substr("".$upk4012[($kk4012-1)*2][1]."",-5)).'00 +0800'."\" channel=\"龍華日韓台\">\n<title lang=\"zh\">".$uqk4012[$kk4012-1][1]."</title>\n<desc lang=\"zh\">".$uok4012[$kk4012-1][1]." </desc>\n</programme>\n";
                  }
+
+
+
 
 
 
